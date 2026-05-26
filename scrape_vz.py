@@ -19,31 +19,44 @@ def log(level, message):
     process_logs.append(formatted_msg)
 
 def clean_domain(raw_string):
-    s = raw_string.strip(' \t\n\r"').lower()
-    s = s.rstrip('.,:-*')
+    # Grundlegende Bereinigung
+    s = raw_string.strip(' \t\n\r"\'()[]{}').lower()
+    s = s.rstrip('.,:-*?!')
     s = re.sub(r"^https?://", "", s)
     s = s.split('/')[0]
     
     if s.startswith("www."):
         s = s[4:]
     
-    # Whitelist für harmlose Domains, die im VZ-Text auftauchen könnten
+    # 1. FILTER: Direkte Datumsangaben blockieren (z.B. 07.05.2026)
+    if re.match(r"^\d{1,2}\.\d{1,2}\.\d{2,4}$", s):
+        return None
+
+    # 2. FILTER: Reine IP-Adressen blockieren
+    if re.match(r"^([0-9]{1,3}\.){3}[0-9]{1,3}$", s):
+        return None
+
+    # 3. FILTER: Whitelist für unschuldige Domains
     whitelist = ["verbraucherzentrale.de", "fakeshop-finder.de", "google.com", "google.de"]
     if s in whitelist:
         return None
 
-    # Valide Struktur prüfen
+    # 4. FILTER: Valide Domain-Struktur prüfen
     if "." in s and " " not in s:
-        # IPv4 filtern
-        if re.match(r"^([0-9]{1,3}\.){3}[0-9]{1,3}$", s):
+        # TLD extrahieren und checken (verhindert 'kreditkarte.mehr' oder 'index.html')
+        tld = s.split('.')[-1]
+        invalid_tlds = ["mehr", "html", "php", "htm", "pdf"]
+        if tld in invalid_tlds:
             return None
-        # IDN Punycode Konvertierung
+
+        # IDN Punycode Konvertierung & strikter Regex für TLD-Länge (2-10 Zeichen)
         try:
             punycode = s.encode("idna").decode("ascii")
-            if re.fullmatch(r"^(?:[a-z0-9-]+\.)+[a-z]{2,}$", punycode):
+            if re.fullmatch(r"^(?:[a-z0-9-]+\.)+[a-z]{2,10}$", punycode):
                 return punycode
         except:
             return None
+            
     return None
 
 def load_existing_domains():
@@ -62,7 +75,7 @@ def load_existing_domains():
 def fetch_vz_domains():
     log("[SYSTEM]", f"Fetching VZ warnings from {URL} ...")
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
     
     try:
@@ -77,34 +90,32 @@ def fetch_vz_domains():
 
     # Strategie 1: Extrahieren aus Links (a-Tags)
     for a in soup.find_all('a', href=True):
-        link_text = a.get_text()
-        cleaned = clean_domain(link_text)
+        cleaned = clean_domain(a.get_text())
         if cleaned:
             found_domains.add(cleaned)
 
-    # Strategie 2: Extrahieren aus Fließtext (Regex Suche)
-    all_text = soup.get_text()
-    potential_domains = re.findall(r'\b[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b', all_text)
+    # Strategie 2: Extrahieren aus Fließtext
+    # WICHTIG: separator=' ' verhindert das Zusammenkleben von HTML-Tags!
+    all_text = soup.get_text(separator=' ')
+    
+    # Etwas strikterer Such-Regex für potenzielle Domains im Text
+    potential_domains = re.findall(r'\b(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,15}\b', all_text)
     
     for pot in potential_domains:
         cleaned = clean_domain(pot)
         if cleaned:
             found_domains.add(cleaned)
 
-    log("[INFO]", f"Found {len(found_domains)} potential domains on current VZ page.")
+    log("[INFO]", f"Found {len(found_domains)} valid domains on current VZ page.")
     return found_domains
 
 def main():
     log("[SYSTEM]", "VZ Fakeshop Pipeline execution triggered.")
     os.makedirs(DEBUG_DIR, exist_ok=True)
 
-    # 1. Altes Archiv laden
     historical_domains = load_existing_domains()
-    
-    # 2. Aktuelle VZ Seite scrapen
     current_vz_domains = fetch_vz_domains()
     
-    # 3. Differenz ermitteln (Welche sind WIRKLICH neu?)
     new_domains = current_vz_domains - historical_domains
     
     if new_domains:
@@ -114,11 +125,10 @@ def main():
     else:
         log("[STATS]", "No new domains found today. Archive is up-to-date.")
 
-    # 4. Zusammenführen und sortieren
     all_valid_domains = sorted(historical_domains | current_vz_domains)
 
     if not all_valid_domains:
-        log("[ERROR]", "Total domain count is 0. Aborting to protect empty lists.")
+        log("[ERROR]", "Total domain count is 0. Aborting.")
         sys.exit(1)
 
     log("[SYSTEM]", "Writing all updated blocklist files...")
@@ -140,11 +150,11 @@ def main():
 
     # Hosts Format
     with open("blocklist-hosts.txt", "w", encoding="utf-8") as f:
-        f.write("# Verbraucherzentrale Fakeshop Blocklist – Hosts Format\n")
+        f.write("# Verbraucherzentrale Fakeshop Blocklist - Hosts Format\n")
         for d in all_valid_domains:
             f.write(f"0.0.0.0 {d}\n")
 
-    # Plain Domains (Crucial for the next run's archive!)
+    # Plain Domains
     with open(DOMAINS_FILE, "w", encoding="utf-8") as f:
         for d in all_valid_domains:
             f.write(f"{d}\n")
@@ -152,16 +162,16 @@ def main():
     # Debug Log
     with open(BLACKLIST_TXT_PATH, "w", encoding="utf-8") as f:
         f.write(f"# {'='*78}\n")
-        f.write(f"# VERBRAUCHERZENTRALE FAKESHOP BLACKLIST – DEBUG LOG\n")
+        f.write(f"# VERBRAUCHERZENTRALE FAKESHOP BLACKLIST - DEBUG LOG\n")
         f.write(f"# {'='*78}\n#\n")
         for log_line in process_logs:
             f.write(f"# {log_line}\n")
 
-    # Stats JSON for Badges
+    # Stats JSON
     stats = {
         "schemaVersion": 1,
         "label": "VZ Fakeshops",
-        "message": f"{len(all_valid_domains)} Domains",
+        "message": f"{len(all_valid_domains)}",
         "color": "orange"
     }
     with open("stats.json", "w", encoding="utf-8") as f:
