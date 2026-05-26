@@ -1,6 +1,6 @@
 # 🛡️ Verbraucherzentrale Fakeshop Blocklist for Pi-hole
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nice42q/verbraucherzentrale-fakeshops/update.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nice42q/verbraucherzentrale-fakeshops/update_blocklist.yml)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/nice42q/verbraucherzentrale-fakeshops?label=Last%20update&color=blue)
 ![Blocklist entries](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/nice42q/verbraucherzentrale-fakeshops/main/stats.json)
 
