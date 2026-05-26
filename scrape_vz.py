@@ -150,7 +150,7 @@ def main():
     # Stats JSON
     stats = {
         "schemaVersion": 1,
-        "label": "Verbraucherzentrale Fakeshops",
+        "label": "Blocklist entries",
         "message": f"{len(all_valid_domains)}",
         "color": "red"
     }
