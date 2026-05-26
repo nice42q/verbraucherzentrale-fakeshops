@@ -37,7 +37,6 @@ def clean_domain(raw_string):
         return None
 
     if "." in s and " " not in s:
-        # Erlaubte Top-Level-Domains von Fake-Shops (erweiterbar)
         tld = s.split('.')[-1]
         valid_tlds = {"de", "com", "net", "org", "info", "store", "online", "shop", "at", "ch", "co", "cc", "top", "biz", "xyz", "eu"}
         
@@ -97,49 +96,62 @@ def main():
     current_vz_domains = fetch_vz_domains()
     
     new_domains = current_vz_domains - historical_domains
-    
-    if new_domains:
-        log("[STATS]", f"Identified {len(new_domains)} BRAND NEW domains!")
-        for nd in sorted(new_domains):
-            log("[NEW]", f" -> {nd}")
-    else:
-        log("[STATS]", "No new domains found today. Archive is up-to-date.")
-
     all_valid_domains = sorted(historical_domains | current_vz_domains)
 
     if not all_valid_domains:
         log("[ERROR]", "Total domain count is 0. Aborting to protect lists.")
         sys.exit(1)
 
-    log("[SYSTEM]", "Writing all updated blocklist files...")
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
+    # PRÜFUNG: Gibt es echte Änderungen an der Domain-Liste?
+    # Nur wenn neue Domains gefunden wurden ODER die Gesamtanzahl nicht übereinstimmt,
+    # aktualisieren wir die Listen und den Timestamp.
+    changes_detected = len(new_domains) > 0 or len(all_valid_domains) != len(historical_domains)
 
-    # AdBlock Format
-    with open("blocklist.txt", "w", encoding="utf-8") as f:
-        f.write("[Adblock Plus 2.0]\n")
-        f.write("# Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops\n")
-        f.write(f"# Source: {URL}\n")
-        f.write("# Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops\n")
-        f.write(f"# Last update: {now}\n")
-        f.write("#\n")
-        f.write(f"# Total archived domains:    {len(all_valid_domains)}\n")
-        f.write(f"# New domains added today:   {len(new_domains)}\n")
-        f.write(f"# {'-'*43}\n#\n")
-        for d in all_valid_domains:
-            f.write(f"||{d}^\n")
+    if changes_detected:
+        log("[STATS]", f"Identified {len(new_domains)} BRAND NEW domains! Updating files...")
+        for nd in sorted(new_domains):
+            log("[NEW]", f" -> {nd}")
+            
+        now = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
 
-    # Hosts Format
-    with open("blocklist-hosts.txt", "w", encoding="utf-8") as f:
-        f.write("# Verbraucherzentrale Fakeshop Blocklist - Hosts Format\n")
-        for d in all_valid_domains:
-            f.write(f"0.0.0.0 {d}\n")
+        # AdBlock Format (wird NUR bei Änderungen geschrieben)
+        with open("blocklist.txt", "w", encoding="utf-8") as f:
+            f.write("[Adblock Plus 2.0]\n")
+            f.write("# Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops\n")
+            f.write(f"# Source: {URL}\n")
+            f.write("# Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops\n")
+            f.write(f"# Last update: {now}\n")
+            f.write("#\n")
+            f.write(f"# Total archived domains:    {len(all_valid_domains)}\n")
+            f.write(f"# New domains added today:   {len(new_domains)}\n")
+            f.write(f"# {'-'*43}\n#\n")
+            for d in all_valid_domains:
+                f.write(f"||{d}^\n")
 
-    # Plain Domains
-    with open(DOMAINS_FILE, "w", encoding="utf-8") as f:
-        for d in all_valid_domains:
-            f.write(f"{d}\n")
+        # Hosts Format
+        with open("blocklist-hosts.txt", "w", encoding="utf-8") as f:
+            f.write("# Verbraucherzentrale Fakeshop Blocklist - Hosts Format\n")
+            for d in all_valid_domains:
+                f.write(f"0.0.0.0 {d}\n")
 
-    # Debug Log
+        # Plain Domains
+        with open(DOMAINS_FILE, "w", encoding="utf-8") as f:
+            for d in all_valid_domains:
+                f.write(f"{d}\n")
+
+        # Stats JSON
+        stats = {
+            "schemaVersion": 1,
+            "label": "Blocklist entries",
+            "message": f"{len(all_valid_domains)}",
+            "color": "red"
+        }
+        with open("stats.json", "w", encoding="utf-8") as f:
+            json.dump(stats, f, indent=4)
+            
+    else:
+        log("[STATS]", "No new domains found today. Archive is up-to-date. Skipping file updates.")
+
     with open(BLACKLIST_TXT_PATH, "w", encoding="utf-8") as f:
         f.write(f"# {'='*78}\n")
         f.write(f"# VERBRAUCHERZENTRALE FAKESHOP BLACKLIST - DEBUG LOG\n")
@@ -147,17 +159,7 @@ def main():
         for log_line in process_logs:
             f.write(f"# {log_line}\n")
 
-    # Stats JSON
-    stats = {
-        "schemaVersion": 1,
-        "label": "Blocklist entries",
-        "message": f"{len(all_valid_domains)}",
-        "color": "red"
-    }
-    with open("stats.json", "w", encoding="utf-8") as f:
-        json.dump(stats, f, indent=4)
-
-    log("[SUCCESS]", "Pipeline compiled and saved successfully with ultra-clean data!")
+    log("[SUCCESS]", "Pipeline finished execution.")
 
 if __name__ == "__main__":
     main()
