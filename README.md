@@ -1,4 +1,4 @@
-# 🛡️ Verbraucherzentrale Fakeshop Blocklist for Pi-hole
+## 🛡️ Verbraucherzentrale Fakeshop Blocklist for Pi-hole
 
 [![Update Blocklist](https://github.com/nice42q/verbraucherzentrale-fakeshops/actions/workflows/update_blocklist.yml/badge.svg)](https://github.com/nice42q/verbraucherzentrale-fakeshops/actions)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/nice42q/verbraucherzentrale-fakeshops?label=Last%20update&color=blue)
