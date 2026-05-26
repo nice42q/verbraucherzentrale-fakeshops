@@ -2,7 +2,7 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-05-26 10:01:47 UTC
+# Last update: 2026-05-26 10:04:13 UTC
 #
 # Total archived domains:    437
 # New domains added today:   0
