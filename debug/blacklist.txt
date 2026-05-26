@@ -1,10 +1,68 @@
 # ==============================================================================
-# VERBRAUCHERZENTRALE FAKESHOP BLACKLIST – DEBUG LOG
+# VERBRAUCHERZENTRALE FAKESHOP BLACKLIST - DEBUG LOG
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 131 historical domains from archive.
+# [INFO]    No existing domain archive found. Starting fresh.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 131 potential domains on current VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date.
+# [INFO]    Found 58 valid domains on current VZ page.
+# [STATS]   Identified 58 BRAND NEW domains!
+# [NEW]      -> aeke-smart.com
+# [NEW]      -> anhaengerhub.de
+# [NEW]      -> avezzanofahrrad.de
+# [NEW]      -> bagtrendshop.com
+# [NEW]      -> berma-handel.de
+# [NEW]      -> bermar-grills.de
+# [NEW]      -> bikegadgetde.com
+# [NEW]      -> brennholz-quelle.de
+# [NEW]      -> cschwindt24.de
+# [NEW]      -> degussa-online.com
+# [NEW]      -> dein-heizoelmarkt.de
+# [NEW]      -> ebike-direct24.de
+# [NEW]      -> edelrhein-metalle.de
+# [NEW]      -> eisner-kollegen.de
+# [NEW]      -> fahrradco.de
+# [NEW]      -> fahrraddirekt24.de
+# [NEW]      -> fahrradhandel-meier.de
+# [NEW]      -> fasoo.de
+# [NEW]      -> felino-sport.de
+# [NEW]      -> festgeld-profis.de
+# [NEW]      -> gartenersatz.de
+# [NEW]      -> gbr-office.de
+# [NEW]      -> gelvibe.de
+# [NEW]      -> hansacontainergmbh.de
+# [NEW]      -> heizoel-fuchs24.de
+# [NEW]      -> jeehiova.com
+# [NEW]      -> kaffeehaus-meyer.de
+# [NEW]      -> kami-holz.de
+# [NEW]      -> kanzlei-neudeck.de
+# [NEW]      -> kruegermadl.de
+# [NEW]      -> lan-gensallz.com
+# [NEW]      -> living-smarter24.com
+# [NEW]      -> marie-herbstkg.de
+# [NEW]      -> muenzenangebot24.com
+# [NEW]      -> muenzenexpertshop.com
+# [NEW]      -> nkgartengardenandliving.de
+# [NEW]      -> osiris-deutschland.de
+# [NEW]      -> pinggona.de
+# [NEW]      -> polenegermany.de
+# [NEW]      -> porcelainchoice.com
+# [NEW]      -> priceannihilator.com
+# [NEW]      -> profibrennde.com
+# [NEW]      -> quellshop.de
+# [NEW]      -> radzubehoer24.com
+# [NEW]      -> schirmlieb.store
+# [NEW]      -> sky-trikot-shop.de
+# [NEW]      -> taschenalle.com
+# [NEW]      -> taschenclub.com
+# [NEW]      -> taschentotal.com
+# [NEW]      -> technoant.co
+# [NEW]      -> tophoven-teilekfz.de
+# [NEW]      -> vanofashion.de
+# [NEW]      -> vircominfo.de
+# [NEW]      -> vitrinaox.de
+# [NEW]      -> werkzeug-brandl.com
+# [NEW]      -> westex-handell.de
+# [NEW]      -> xn--rnoholzpelletsgmbh-d3b.de
+# [NEW]      -> zierfischebayer.de
 # [SYSTEM]  Writing all updated blocklist files...

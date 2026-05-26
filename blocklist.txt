@@ -1,0 +1,68 @@
+[Adblock Plus 2.0]
+# Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
+# Source: https://warnung.fakeshop-finder.de/
+# Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
+# Last update: 2026-05-26 09:33:32 UTC
+#
+# Total archived domains:    58
+# New domains added today:   58
+# -------------------------------------------
+#
+||aeke-smart.com^
+||anhaengerhub.de^
+||avezzanofahrrad.de^
+||bagtrendshop.com^
+||berma-handel.de^
+||bermar-grills.de^
+||bikegadgetde.com^
+||brennholz-quelle.de^
+||cschwindt24.de^
+||degussa-online.com^
+||dein-heizoelmarkt.de^
+||ebike-direct24.de^
+||edelrhein-metalle.de^
+||eisner-kollegen.de^
+||fahrradco.de^
+||fahrraddirekt24.de^
+||fahrradhandel-meier.de^
+||fasoo.de^
+||felino-sport.de^
+||festgeld-profis.de^
+||gartenersatz.de^
+||gbr-office.de^
+||gelvibe.de^
+||hansacontainergmbh.de^
+||heizoel-fuchs24.de^
+||jeehiova.com^
+||kaffeehaus-meyer.de^
+||kami-holz.de^
+||kanzlei-neudeck.de^
+||kruegermadl.de^
+||lan-gensallz.com^
+||living-smarter24.com^
+||marie-herbstkg.de^
+||muenzenangebot24.com^
+||muenzenexpertshop.com^
+||nkgartengardenandliving.de^
+||osiris-deutschland.de^
+||pinggona.de^
+||polenegermany.de^
+||porcelainchoice.com^
+||priceannihilator.com^
+||profibrennde.com^
+||quellshop.de^
+||radzubehoer24.com^
+||schirmlieb.store^
+||sky-trikot-shop.de^
+||taschenalle.com^
+||taschenclub.com^
+||taschentotal.com^
+||technoant.co^
+||tophoven-teilekfz.de^
+||vanofashion.de^
+||vircominfo.de^
+||vitrinaox.de^
+||werkzeug-brandl.com^
+||westex-handell.de^
+||xn--rnoholzpelletsgmbh-d3b.de^
+||zierfischebayer.de^
