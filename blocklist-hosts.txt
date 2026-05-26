@@ -204,7 +204,7 @@
 0.0.0.0 greentrimmer.de
 0.0.0.0 grilloon.de
 0.0.0.0 grillssoon.de
-0.0.0.0 gropeshf.com
+0.0.0.0 groupeshf.com
 0.0.0.0 gueta-handel.de
 0.0.0.0 gutmahroboter.myshopify.com
 0.0.0.0 handel57.de
