@@ -19,44 +19,35 @@ def log(level, message):
     process_logs.append(formatted_msg)
 
 def clean_domain(raw_string):
-    # Grundlegende Bereinigung
+    if not raw_string:
+        return None
+        
     s = raw_string.strip(' \t\n\r"\'()[]{}').lower()
     s = s.rstrip('.,:-*?!')
+    
     s = re.sub(r"^https?://", "", s)
     s = s.split('/')[0]
     
     if s.startswith("www."):
         s = s[4:]
-    
-    # 1. FILTER: Direkte Datumsangaben blockieren (z.B. 07.05.2026)
+
     if re.match(r"^\d{1,2}\.\d{1,2}\.\d{2,4}$", s):
         return None
-
-    # 2. FILTER: Reine IP-Adressen blockieren
     if re.match(r"^([0-9]{1,3}\.){3}[0-9]{1,3}$", s):
         return None
 
-    # 3. FILTER: Whitelist für unschuldige Domains
-    whitelist = ["verbraucherzentrale.de", "fakeshop-finder.de", "google.com", "google.de"]
-    if s in whitelist:
-        return None
-
-    # 4. FILTER: Valide Domain-Struktur prüfen
     if "." in s and " " not in s:
-        # TLD extrahieren und checken (verhindert 'kreditkarte.mehr' oder 'index.html')
+        # Erlaubte Top-Level-Domains von Fake-Shops (erweiterbar)
         tld = s.split('.')[-1]
-        invalid_tlds = ["mehr", "html", "php", "htm", "pdf"]
-        if tld in invalid_tlds:
-            return None
-
-        # IDN Punycode Konvertierung & strikter Regex für TLD-Länge (2-10 Zeichen)
-        try:
-            punycode = s.encode("idna").decode("ascii")
-            if re.fullmatch(r"^(?:[a-z0-9-]+\.)+[a-z]{2,10}$", punycode):
-                return punycode
-        except:
-            return None
-            
+        valid_tlds = {"de", "com", "net", "org", "info", "store", "online", "shop", "at", "ch", "co", "cc", "top", "biz", "xyz", "eu"}
+        
+        if tld in valid_tlds:
+            try:
+                punycode = s.encode("idna").decode("ascii")
+                if re.fullmatch(r"^(?:[a-z0-9-]+\.)+[a-z]{2,6}$", punycode):
+                    return punycode
+            except:
+                return None
     return None
 
 def load_existing_domains():
@@ -75,7 +66,7 @@ def load_existing_domains():
 def fetch_vz_domains():
     log("[SYSTEM]", f"Fetching VZ warnings from {URL} ...")
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
     try:
@@ -88,25 +79,14 @@ def fetch_vz_domains():
     soup = BeautifulSoup(response.text, 'html.parser')
     found_domains = set()
 
-    # Strategie 1: Extrahieren aus Links (a-Tags)
-    for a in soup.find_all('a', href=True):
+    title_links = soup.select("div.title a")
+    
+    for a in title_links:
         cleaned = clean_domain(a.get_text())
         if cleaned:
             found_domains.add(cleaned)
 
-    # Strategie 2: Extrahieren aus Fließtext
-    # WICHTIG: separator=' ' verhindert das Zusammenkleben von HTML-Tags!
-    all_text = soup.get_text(separator=' ')
-    
-    # Etwas strikterer Such-Regex für potenzielle Domains im Text
-    potential_domains = re.findall(r'\b(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,15}\b', all_text)
-    
-    for pot in potential_domains:
-        cleaned = clean_domain(pot)
-        if cleaned:
-            found_domains.add(cleaned)
-
-    log("[INFO]", f"Found {len(found_domains)} valid domains on current VZ page.")
+    log("[INFO]", f"Found {len(found_domains)} clean and validated domains on VZ page.")
     return found_domains
 
 def main():
@@ -128,7 +108,7 @@ def main():
     all_valid_domains = sorted(historical_domains | current_vz_domains)
 
     if not all_valid_domains:
-        log("[ERROR]", "Total domain count is 0. Aborting.")
+        log("[ERROR]", "Total domain count is 0. Aborting to protect lists.")
         sys.exit(1)
 
     log("[SYSTEM]", "Writing all updated blocklist files...")
@@ -170,14 +150,14 @@ def main():
     # Stats JSON
     stats = {
         "schemaVersion": 1,
-        "label": "VZ Fakeshops",
+        "label": "Verbraucherzentrale Fakeshops",
         "message": f"{len(all_valid_domains)}",
-        "color": "orange"
+        "color": "red"
     }
     with open("stats.json", "w", encoding="utf-8") as f:
         json.dump(stats, f, indent=4)
 
-    log("[SUCCESS]", "Pipeline compiled and saved successfully!")
+    log("[SUCCESS]", "Pipeline compiled and saved successfully with ultra-clean data!")
 
 if __name__ == "__main__":
     main()
