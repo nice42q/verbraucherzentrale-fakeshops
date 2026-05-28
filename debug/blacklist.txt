@@ -5,5 +5,12 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 437 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 47 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [INFO]    Found 45 clean and validated domains on VZ page.
+# [STATS]   Identified 7 BRAND NEW domains! Updating files...
+# [NEW]      -> berkler-maschinen.de
+# [NEW]      -> derbybikesholding.de
+# [NEW]      -> deutsche-warentests.de
+# [NEW]      -> profitipp5.de
+# [NEW]      -> rabattkorb.de
+# [NEW]      -> retrorunner.de
+# [NEW]      -> salessee.shop

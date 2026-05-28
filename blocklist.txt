@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-05-26 10:04:13 UTC
+# Last update: 2026-05-28 08:03:19 UTC
 #
-# Total archived domains:    437
-# New domains added today:   0
+# Total archived domains:    444
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -53,6 +53,7 @@
 ||bergschatz.de^
 ||berichtkfz.de^
 ||berichtprofi.de^
+||berkler-maschinen.de^
 ||berma-handel.de^
 ||bermar-grills.de^
 ||beste-anhaenger.de^
@@ -128,9 +129,11 @@
 ||dein-heizoelmarkt.de^
 ||dekorations-o-grod.de^
 ||delecato.de^
+||derbybikesholding.de^
 ||derkundenclub.com^
 ||dermavitalglow.com^
 ||deutchshop24.de^
+||deutsche-warentests.de^
 ||deutschlandtv-4k.de^
 ||dexer-handel.de^
 ||dhg-versand.de^
@@ -339,7 +342,9 @@
 ||premieumgmbh.de^
 ||priceannihilator.com^
 ||profibrennde.com^
+||profitipp5.de^
 ||quellshop.de^
+||rabattkorb.de^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
 ||ratataur.com^
@@ -347,6 +352,7 @@
 ||reindesigner-handel.de^
 ||reisholzgmbh.de^
 ||rekordpellets.com^
+||retrorunner.de^
 ||ridegefuhl.de^
 ||ridelbergu.de^
 ||rileyheftman.shop^
@@ -354,6 +360,7 @@
 ||rohrreinigung-rothschild.de^
 ||romodana.de^
 ||rovlier.com^
+||salessee.shop^
 ||savemosaic.com^
 ||savenesting.com^
 ||scheideckerholz.com^
