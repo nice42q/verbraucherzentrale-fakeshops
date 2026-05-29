@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-05-28 08:03:19 UTC
+# Last update: 2026-05-29 08:00:35 UTC
 #
-# Total archived domains:    444
-# New domains added today:   7
+# Total archived domains:    472
+# New domains added today:   28
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -43,6 +43,7 @@
 ||baboktransports.com^
 ||bagtrendshop.com^
 ||bakta8.myshopify.com^
+||ballqen.com^
 ||bawz.store^
 ||bayerwald-heizoel.de^
 ||bazaarlydeals.com^
@@ -80,8 +81,10 @@
 ||brookssale.store^
 ||bst-werkzeuge.de^
 ||bukkwood.com^
+||buyjethose.com^
 ||bynwatch.de^
 ||ca-agentur.de^
+||caballde.com^
 ||canmidy.com^
 ||cartsaga.com^
 ||casualstore77.de^
@@ -105,6 +108,7 @@
 ||cschwindt-gmbh.de^
 ||cschwindt24.de^
 ||csschwindt.de^
+||cusbseason.de^
 ||das-feel-natural.de^
 ||dasoo.de^
 ||davesbiomarkt.de^
@@ -166,6 +170,7 @@
 ||elwenrimowa.de^
 ||emmakeller.de^
 ||energiepreise24.com^
+||epicooler.com^
 ||erix9.myshopify.com^
 ||erzgebirger-uhrwerk.com^
 ||ettern24.de^
@@ -182,6 +187,7 @@
 ||fahrradhandel-meier.de^
 ||fasoo.de^
 ||fastenergy24.com^
+||fatoobal.com^
 ||felino-sport.de^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
@@ -189,6 +195,7 @@
 ||flora-markt.de^
 ||fumot-shop.de^
 ||fundfjord.com^
+||fussballtrikothaus.com^
 ||gaborshoesisrael.com^
 ||gap-outlet.de^
 ||garden-caddy.com^
@@ -197,6 +204,7 @@
 ||gardensvergen36.myshopify.com^
 ||gartenersatz.de^
 ||gartenfarbewelt.com^
+||garteni.de^
 ||gartenmotor.de^
 ||gartenpools24.de^
 ||gartenundanhaenger.de^
@@ -206,8 +214,10 @@
 ||gelschuhe.de^
 ||gelvibe.de^
 ||gerlinelshop.com^
+||get-epicooler.com^
 ||get-omnihear.com^
 ||gmbhboes.de^
+||goalkertech.com^
 ||goldankauf365.de^
 ||goldenngoosee.com^
 ||gomel-24.de^
@@ -242,6 +252,7 @@
 ||holzsofort.de^
 ||holzwerkeharz.de^
 ||holzwerkzeug-bestequalitat.de^
+||home-gear24.de^
 ||homeofficeradar.de^
 ||horizontix.de^
 ||houseofbuys.de^
@@ -284,17 +295,22 @@
 ||kuchenheim.shop^
 ||labexholz.de^
 ||lan-gensallz.com^
+||lan-gensalz.com^
 ||lan-gensalz.de^
 ||larc90.myshopify.com^
 ||laufstyle.com^
+||liaonmskj.com^
 ||liehrforstholz.de^
 ||likdl.shop^
 ||living-smarter24.com^
+||livohaus.com^
 ||lola58.myshopify.com^
 ||lunalli.de^
 ||lunaxadv.myshopify.com^
+||luvikar.com^
 ||m.sakerplus.de^
 ||mahershop24.com^
+||mahroboterhaus.myshopify.com^
 ||major-agentur.de^
 ||manfred-schnell.shop^
 ||marie-herbstkg.de^
@@ -305,12 +321,15 @@
 ||mein.lhk.de-plushilfe.com^
 ||meistervolt.de^
 ||mekura.de^
+||milono.de^
 ||mn.magazinmodern.de^
+||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
 ||moriaccessoires.com^
 ||mossvibers.com^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
+||myplayground.store^
 ||narnos.de^
 ||nestleovae.com^
 ||nestmypad.com^
@@ -324,7 +343,9 @@
 ||nqior.shop^
 ||nuxifuland.shop^
 ||oakhabitsy.com^
+||off-campus.co^
 ||olivercabelldeutschland.de^
+||onmycat.com^
 ||optimisticoffer.com^
 ||osiris-deutschland.de^
 ||panelaeki.de^
@@ -376,12 +397,14 @@
 ||sieundihn.de^
 ||silberschmuckpro.com^
 ||sky-trikot-shop.de^
+||sleevefleh.com^
 ||smart2trade.de^
 ||sneakers-metzingen.de^
 ||softdays-shop.de^
 ||solagoshop.de^
 ||solarmira.de^
 ||soltect.de^
+||sovora-shop.com^
 ||spielbank-badenwurttemberg.de^
 ||sportopath.de^
 ||starkwerkzeug.de^
@@ -390,6 +413,7 @@
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
 ||supplierseu.com^
+||supplierseu.myshopify.com^
 ||tapex-tapes.de^
 ||taschenalle.com^
 ||taschenclub.com^
@@ -408,12 +432,14 @@
 ||trailer-master.de^
 ||transition-velo.com^
 ||treemexholz.de^
+||trikotfc.com^
 ||trivanode.com^
 ||tuvas-tech.de^
 ||uhrenchecker.de^
 ||ulmgmbh.com^
 ||unico-studio.com^
 ||urhenwchmuckrosel.de^
+||valaires.com^
 ||valuedealbox.com^
 ||vanofashion.de^
 ||vega-energy.de^
@@ -423,10 +449,12 @@
 ||villause.com^
 ||vircominfo.de^
 ||vitrinaox.de^
+||voglbaugeschaftgmbh.de^
 ||volkeep.de^
 ||volkswagen-fahrzeuge.de^
 ||volthausgeraete.de^
 ||vynxaria.com^
+||waldmannmode.de^
 ||wampole.de^
 ||wampole.shop^
 ||wandtopay.com^

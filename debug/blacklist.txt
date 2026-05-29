@@ -3,14 +3,35 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 437 historical domains from archive.
+# [INFO]    Loaded 444 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 45 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> berkler-maschinen.de
-# [NEW]      -> derbybikesholding.de
-# [NEW]      -> deutsche-warentests.de
-# [NEW]      -> profitipp5.de
-# [NEW]      -> rabattkorb.de
-# [NEW]      -> retrorunner.de
-# [NEW]      -> salessee.shop
+# [INFO]    Found 71 clean and validated domains on VZ page.
+# [STATS]   Identified 28 BRAND NEW domains! Updating files...
+# [NEW]      -> ballqen.com
+# [NEW]      -> buyjethose.com
+# [NEW]      -> caballde.com
+# [NEW]      -> cusbseason.de
+# [NEW]      -> epicooler.com
+# [NEW]      -> fatoobal.com
+# [NEW]      -> fussballtrikothaus.com
+# [NEW]      -> garteni.de
+# [NEW]      -> get-epicooler.com
+# [NEW]      -> goalkertech.com
+# [NEW]      -> home-gear24.de
+# [NEW]      -> lan-gensalz.com
+# [NEW]      -> liaonmskj.com
+# [NEW]      -> livohaus.com
+# [NEW]      -> luvikar.com
+# [NEW]      -> mahroboterhaus.myshopify.com
+# [NEW]      -> milono.de
+# [NEW]      -> modehaus-schroers.com
+# [NEW]      -> myplayground.store
+# [NEW]      -> off-campus.co
+# [NEW]      -> onmycat.com
+# [NEW]      -> sleevefleh.com
+# [NEW]      -> sovora-shop.com
+# [NEW]      -> supplierseu.myshopify.com
+# [NEW]      -> trikotfc.com
+# [NEW]      -> valaires.com
+# [NEW]      -> voglbaugeschaftgmbh.de
+# [NEW]      -> waldmannmode.de
