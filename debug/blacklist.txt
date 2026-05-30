@@ -3,35 +3,9 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 444 historical domains from archive.
+# [INFO]    Loaded 472 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 71 clean and validated domains on VZ page.
-# [STATS]   Identified 28 BRAND NEW domains! Updating files...
-# [NEW]      -> ballqen.com
-# [NEW]      -> buyjethose.com
-# [NEW]      -> caballde.com
-# [NEW]      -> cusbseason.de
-# [NEW]      -> epicooler.com
-# [NEW]      -> fatoobal.com
-# [NEW]      -> fussballtrikothaus.com
-# [NEW]      -> garteni.de
-# [NEW]      -> get-epicooler.com
-# [NEW]      -> goalkertech.com
-# [NEW]      -> home-gear24.de
-# [NEW]      -> lan-gensalz.com
-# [NEW]      -> liaonmskj.com
-# [NEW]      -> livohaus.com
-# [NEW]      -> luvikar.com
-# [NEW]      -> mahroboterhaus.myshopify.com
-# [NEW]      -> milono.de
-# [NEW]      -> modehaus-schroers.com
-# [NEW]      -> myplayground.store
-# [NEW]      -> off-campus.co
-# [NEW]      -> onmycat.com
-# [NEW]      -> sleevefleh.com
-# [NEW]      -> sovora-shop.com
-# [NEW]      -> supplierseu.myshopify.com
-# [NEW]      -> trikotfc.com
-# [NEW]      -> valaires.com
-# [NEW]      -> voglbaugeschaftgmbh.de
-# [NEW]      -> waldmannmode.de
+# [INFO]    Found 73 clean and validated domains on VZ page.
+# [STATS]   Identified 2 BRAND NEW domains! Updating files...
+# [NEW]      -> morenutritionde.shop
+# [NEW]      -> voltradbike.de
