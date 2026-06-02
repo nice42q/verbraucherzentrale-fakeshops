@@ -6,4 +6,5 @@
 # [INFO]    Loaded 474 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 71 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> haus-apotheke.eu

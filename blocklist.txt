@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-05-30 06:48:25 UTC
+# Last update: 2026-06-02 08:39:44 UTC
 #
-# Total archived domains:    474
-# New domains added today:   2
+# Total archived domains:    475
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -234,6 +234,7 @@
 ||handtholzhandelgmbh.de^
 ||hangel-handel.de^
 ||hansacontainergmbh.de^
+||haus-apotheke.eu^
 ||heidel-heizoel.de^
 ||heiseno.de^
 ||heizelo.de^
