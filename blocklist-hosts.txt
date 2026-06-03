@@ -197,6 +197,7 @@
 0.0.0.0 gartenfarbewelt.com
 0.0.0.0 garteni.de
 0.0.0.0 gartenmotor.de
+0.0.0.0 gartenpflegegmbh.com
 0.0.0.0 gartenpools24.de
 0.0.0.0 gartenundanhaenger.de
 0.0.0.0 gascovert.com
@@ -220,6 +221,7 @@
 0.0.0.0 groupeshf.com
 0.0.0.0 gueta-handel.de
 0.0.0.0 gutmahroboter.myshopify.com
+0.0.0.0 haibikerabatt.com
 0.0.0.0 handel57.de
 0.0.0.0 handelshaus-buchem.de
 0.0.0.0 handtholzhandelgmbh.de

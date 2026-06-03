@@ -3,8 +3,9 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 474 historical domains from archive.
+# [INFO]    Loaded 475 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 71 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> haus-apotheke.eu
+# [INFO]    Found 73 clean and validated domains on VZ page.
+# [STATS]   Identified 2 BRAND NEW domains! Updating files...
+# [NEW]      -> gartenpflegegmbh.com
+# [NEW]      -> haibikerabatt.com

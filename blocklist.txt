@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-02 08:39:44 UTC
+# Last update: 2026-06-03 08:57:36 UTC
 #
-# Total archived domains:    475
-# New domains added today:   1
+# Total archived domains:    477
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -206,6 +206,7 @@
 ||gartenfarbewelt.com^
 ||garteni.de^
 ||gartenmotor.de^
+||gartenpflegegmbh.com^
 ||gartenpools24.de^
 ||gartenundanhaenger.de^
 ||gascovert.com^
@@ -229,6 +230,7 @@
 ||groupeshf.com^
 ||gueta-handel.de^
 ||gutmahroboter.myshopify.com^
+||haibikerabatt.com^
 ||handel57.de^
 ||handelshaus-buchem.de^
 ||handtholzhandelgmbh.de^
