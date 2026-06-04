@@ -3,9 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 475 historical domains from archive.
+# [INFO]    Loaded 477 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 73 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> gartenpflegegmbh.com
-# [NEW]      -> haibikerabatt.com
+# [INFO]    Found 67 clean and validated domains on VZ page.
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> korfys.shop

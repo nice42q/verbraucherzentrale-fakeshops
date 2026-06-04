@@ -281,6 +281,7 @@
 0.0.0.0 klangaeder.com
 0.0.0.0 kleinre.myshopify.com
 0.0.0.0 klenkholzag.de
+0.0.0.0 korfys.shop
 0.0.0.0 kosecikva.com
 0.0.0.0 kraus-anwaelte.de
 0.0.0.0 kreative-zukunft.com
