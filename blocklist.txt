@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-06 06:54:57 UTC
+# Last update: 2026-06-09 07:52:43 UTC
 #
-# Total archived domains:    483
-# New domains added today:   5
+# Total archived domains:    486
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -187,6 +187,7 @@
 ||fahrradhandel-alf.de^
 ||fahrradhandel-daempfle.de^
 ||fahrradhandel-meier.de^
+||fahrradladenbrand.de^
 ||fasoo.de^
 ||fastenergy24.com^
 ||fatoobal.com^
@@ -282,6 +283,7 @@
 ||kaminoland.de^
 ||kanzlei-keller-luers.de^
 ||kanzlei-neudeck.de^
+||kanzleikonigstein.de^
 ||kaufdesch.myshoplaza.com^
 ||kaufen-motorrader.de^
 ||keyom.de^
@@ -362,6 +364,7 @@
 ||pedalpalast.de^
 ||pelletkraft.de^
 ||pellets-maschinen.de^
+||pfannendeck.de^
 ||pinggona.de^
 ||pingona.de^
 ||pingona.shop^

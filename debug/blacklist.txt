@@ -5,5 +5,8 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 483 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 66 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [INFO]    Found 58 clean and validated domains on VZ page.
+# [STATS]   Identified 3 BRAND NEW domains! Updating files...
+# [NEW]      -> fahrradladenbrand.de
+# [NEW]      -> kanzleikonigstein.de
+# [NEW]      -> pfannendeck.de
