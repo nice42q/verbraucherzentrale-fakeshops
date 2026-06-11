@@ -3,9 +3,12 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 486 historical domains from archive.
+# [INFO]    Loaded 488 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 52 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> einschraubschlauch.com
-# [NEW]      -> mahroboter-freischneider.de
+# [INFO]    Found 55 clean and validated domains on VZ page.
+# [STATS]   Identified 5 BRAND NEW domains! Updating files...
+# [NEW]      -> mobel-lenk.shop
+# [NEW]      -> mobel-lenk.store
+# [NEW]      -> prestigemetalle.de
+# [NEW]      -> secure.shopvio.co
+# [NEW]      -> try.homepromag.com

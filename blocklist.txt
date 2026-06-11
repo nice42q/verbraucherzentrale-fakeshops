@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-10 08:10:37 UTC
+# Last update: 2026-06-11 08:48:27 UTC
 #
-# Total archived domains:    488
-# New domains added today:   2
+# Total archived domains:    493
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -335,6 +335,8 @@
 ||mekura.de^
 ||milono.de^
 ||mn.magazinmodern.de^
+||mobel-lenk.shop^
+||mobel-lenk.store^
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
 ||morenutritionde.shop^
@@ -376,6 +378,7 @@
 ||polluxer.com^
 ||porcelainchoice.com^
 ||premieumgmbh.de^
+||prestigemetalle.de^
 ||priceannihilator.com^
 ||profibrennde.com^
 ||profitipp5.de^
@@ -404,6 +407,7 @@
 ||schmidmodesalzburg.de^
 ||schmidts-handel.de^
 ||schuhhaus-greten.de^
+||secure.shopvio.co^
 ||seifertundstil.de^
 ||serenorstock.com^
 ||shelterene.com^
@@ -449,6 +453,7 @@
 ||treemexholz.de^
 ||trikotfc.com^
 ||trivanode.com^
+||try.homepromag.com^
 ||tuvas-tech.de^
 ||uhrenchecker.de^
 ||ulmgmbh.com^
