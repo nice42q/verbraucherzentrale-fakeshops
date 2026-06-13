@@ -7,6 +7,7 @@
 0.0.0.0 ai-energy.net
 0.0.0.0 aicheleholzgmbh.de
 0.0.0.0 aktion-motorrad.de
+0.0.0.0 aktivmaxx.com
 0.0.0.0 aluvea.de
 0.0.0.0 andreaswerkstatt.de
 0.0.0.0 angebote-kauf.de
@@ -18,10 +19,12 @@
 0.0.0.0 apelt-handel.com
 0.0.0.0 apelt-shop.de
 0.0.0.0 apelt-shops.de
+0.0.0.0 apertino-shop.de
 0.0.0.0 apotheke-berlin-marzahn.de
 0.0.0.0 apothekeohnerezept.de
 0.0.0.0 apricoit.com
 0.0.0.0 archivede.com
+0.0.0.0 arkenberlin.de
 0.0.0.0 aroundying.de
 0.0.0.0 astragroupholding.com
 0.0.0.0 audi-services.com
@@ -35,6 +38,7 @@
 0.0.0.0 bagtrendshop.com
 0.0.0.0 bakta8.myshopify.com
 0.0.0.0 ballqen.com
+0.0.0.0 bargainbayou.com
 0.0.0.0 bawz.store
 0.0.0.0 bayerwald-heizoel.de
 0.0.0.0 bazaarlydeals.com
@@ -50,6 +54,7 @@
 0.0.0.0 bermar-grills.de
 0.0.0.0 beste-anhaenger.de
 0.0.0.0 bestes-brennholz-pellets.de
+0.0.0.0 betashop-gmbh.com
 0.0.0.0 betrugs-check.de
 0.0.0.0 betrugsrecht.de
 0.0.0.0 beyham.com
@@ -180,6 +185,8 @@
 0.0.0.0 fahrradhandel-daempfle.de
 0.0.0.0 fahrradhandel-meier.de
 0.0.0.0 fahrradladenbrand.de
+0.0.0.0 fankluft.com
+0.0.0.0 fankluft.wickwondershop.com
 0.0.0.0 fasoo.de
 0.0.0.0 fastenergy24.com
 0.0.0.0 fatoobal.com
@@ -211,6 +218,7 @@
 0.0.0.0 gelvibe.de
 0.0.0.0 gerlinelshop.com
 0.0.0.0 get-epicooler.com
+0.0.0.0 get-epicooler.topashopo.com
 0.0.0.0 get-omnihear.com
 0.0.0.0 gmbhboes.de
 0.0.0.0 goalkertech.com
@@ -241,6 +249,7 @@
 0.0.0.0 heizoel-fuchs24.de
 0.0.0.0 heizoel-zentrale.de
 0.0.0.0 heizprohandel.com
+0.0.0.0 helmuteco.com
 0.0.0.0 heyi-handel.de
 0.0.0.0 hohlfeldt-garten.de
 0.0.0.0 holz-pellet-bestequalitat.de
@@ -264,6 +273,7 @@
 0.0.0.0 jardinovano.com
 0.0.0.0 jeehiova.com
 0.0.0.0 jordanmania.de
+0.0.0.0 josef-gartentechnik.de
 0.0.0.0 kaercherde.shop
 0.0.0.0 kaffee-glueck.de
 0.0.0.0 kaffee-liebling.de
@@ -271,6 +281,7 @@
 0.0.0.0 kaffeeuhlenbusch.de
 0.0.0.0 kaffezone.de
 0.0.0.0 kaimoro.de
+0.0.0.0 kaiser-kauf.com
 0.0.0.0 kami-holz.de
 0.0.0.0 kaminoland.de
 0.0.0.0 kanzlei-keller-luers.de
@@ -292,6 +303,7 @@
 0.0.0.0 kosecikva.com
 0.0.0.0 kraus-anwaelte.de
 0.0.0.0 kreative-zukunft.com
+0.0.0.0 kreativebodenbelage.com
 0.0.0.0 kreditberatungs.de
 0.0.0.0 kruegermadl.de
 0.0.0.0 kuchenheim.shop
@@ -306,11 +318,14 @@
 0.0.0.0 likdl.shop
 0.0.0.0 living-smarter24.com
 0.0.0.0 livohaus.com
+0.0.0.0 loaspool.de
 0.0.0.0 lola58.myshopify.com
 0.0.0.0 lunalli.de
 0.0.0.0 lunaxadv.myshopify.com
 0.0.0.0 luvikar.com
 0.0.0.0 m.sakerplus.de
+0.0.0.0 maatfusion.com
+0.0.0.0 maehrobot.shop
 0.0.0.0 mahershop24.com
 0.0.0.0 mahroboter-freischneider.de
 0.0.0.0 mahroboterhaus.myshopify.com
@@ -352,9 +367,11 @@
 0.0.0.0 oakhabitsy.com
 0.0.0.0 off-campus.co
 0.0.0.0 olivercabelldeutschland.de
+0.0.0.0 one-outlet.shop
 0.0.0.0 onmycat.com
 0.0.0.0 optimisticoffer.com
 0.0.0.0 osiris-deutschland.de
+0.0.0.0 palorion.com
 0.0.0.0 panelaeki.de
 0.0.0.0 pedalpalast.de
 0.0.0.0 pelletkraft.de
@@ -364,6 +381,7 @@
 0.0.0.0 pingona.de
 0.0.0.0 pingona.shop
 0.0.0.0 pinneberg-handel.de
+0.0.0.0 plainmarkco.com
 0.0.0.0 planguage.org
 0.0.0.0 polenegermany.de
 0.0.0.0 polluxer.com
@@ -373,6 +391,7 @@
 0.0.0.0 priceannihilator.com
 0.0.0.0 profibrennde.com
 0.0.0.0 profitipp5.de
+0.0.0.0 pronetivaro.com
 0.0.0.0 quellshop.de
 0.0.0.0 rabattkorb.de
 0.0.0.0 radtrikottourdefrance.de
@@ -387,9 +406,11 @@
 0.0.0.0 ridelbergu.de
 0.0.0.0 rileyheftman.shop
 0.0.0.0 ripob.com
+0.0.0.0 rixie-kauf.com
 0.0.0.0 rohrreinigung-rothschild.de
 0.0.0.0 romodana.de
 0.0.0.0 rovlier.com
+0.0.0.0 rundholz-uhlstaedt.de
 0.0.0.0 salessee.shop
 0.0.0.0 savemosaic.com
 0.0.0.0 savenesting.com
@@ -417,6 +438,7 @@
 0.0.0.0 sovora-shop.com
 0.0.0.0 spielbank-badenwurttemberg.de
 0.0.0.0 sportopath.de
+0.0.0.0 stadlwerk.de
 0.0.0.0 starkwerkzeug.de
 0.0.0.0 steeg-handel.de
 0.0.0.0 steinberg-munchen.com
@@ -450,6 +472,7 @@
 0.0.0.0 ulmgmbh.com
 0.0.0.0 unico-studio.com
 0.0.0.0 urhenwchmuckrosel.de
+0.0.0.0 usezazzi.com
 0.0.0.0 valaires.com
 0.0.0.0 valuedealbox.com
 0.0.0.0 vanofashion.de
@@ -471,6 +494,7 @@
 0.0.0.0 wampole.shop
 0.0.0.0 wandtopay.com
 0.0.0.0 wasser-kaiser.com
+0.0.0.0 wealthicatorplattform.de
 0.0.0.0 weikershem.de
 0.0.0.0 welttrikot.com
 0.0.0.0 werkerswelt-moelln.de

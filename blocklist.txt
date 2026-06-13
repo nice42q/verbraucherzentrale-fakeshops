@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-11 08:48:27 UTC
+# Last update: 2026-06-13 07:50:52 UTC
 #
-# Total archived domains:    493
-# New domains added today:   5
+# Total archived domains:    517
+# New domains added today:   24
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -16,6 +16,7 @@
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
 ||aktion-motorrad.de^
+||aktivmaxx.com^
 ||aluvea.de^
 ||andreaswerkstatt.de^
 ||angebote-kauf.de^
@@ -27,10 +28,12 @@
 ||apelt-handel.com^
 ||apelt-shop.de^
 ||apelt-shops.de^
+||apertino-shop.de^
 ||apotheke-berlin-marzahn.de^
 ||apothekeohnerezept.de^
 ||apricoit.com^
 ||archivede.com^
+||arkenberlin.de^
 ||aroundying.de^
 ||astragroupholding.com^
 ||audi-services.com^
@@ -44,6 +47,7 @@
 ||bagtrendshop.com^
 ||bakta8.myshopify.com^
 ||ballqen.com^
+||bargainbayou.com^
 ||bawz.store^
 ||bayerwald-heizoel.de^
 ||bazaarlydeals.com^
@@ -59,6 +63,7 @@
 ||bermar-grills.de^
 ||beste-anhaenger.de^
 ||bestes-brennholz-pellets.de^
+||betashop-gmbh.com^
 ||betrugs-check.de^
 ||betrugsrecht.de^
 ||beyham.com^
@@ -189,6 +194,8 @@
 ||fahrradhandel-daempfle.de^
 ||fahrradhandel-meier.de^
 ||fahrradladenbrand.de^
+||fankluft.com^
+||fankluft.wickwondershop.com^
 ||fasoo.de^
 ||fastenergy24.com^
 ||fatoobal.com^
@@ -220,6 +227,7 @@
 ||gelvibe.de^
 ||gerlinelshop.com^
 ||get-epicooler.com^
+||get-epicooler.topashopo.com^
 ||get-omnihear.com^
 ||gmbhboes.de^
 ||goalkertech.com^
@@ -250,6 +258,7 @@
 ||heizoel-fuchs24.de^
 ||heizoel-zentrale.de^
 ||heizprohandel.com^
+||helmuteco.com^
 ||heyi-handel.de^
 ||hohlfeldt-garten.de^
 ||holz-pellet-bestequalitat.de^
@@ -273,6 +282,7 @@
 ||jardinovano.com^
 ||jeehiova.com^
 ||jordanmania.de^
+||josef-gartentechnik.de^
 ||kaercherde.shop^
 ||kaffee-glueck.de^
 ||kaffee-liebling.de^
@@ -280,6 +290,7 @@
 ||kaffeeuhlenbusch.de^
 ||kaffezone.de^
 ||kaimoro.de^
+||kaiser-kauf.com^
 ||kami-holz.de^
 ||kaminoland.de^
 ||kanzlei-keller-luers.de^
@@ -301,6 +312,7 @@
 ||kosecikva.com^
 ||kraus-anwaelte.de^
 ||kreative-zukunft.com^
+||kreativebodenbelage.com^
 ||kreditberatungs.de^
 ||kruegermadl.de^
 ||kuchenheim.shop^
@@ -315,11 +327,14 @@
 ||likdl.shop^
 ||living-smarter24.com^
 ||livohaus.com^
+||loaspool.de^
 ||lola58.myshopify.com^
 ||lunalli.de^
 ||lunaxadv.myshopify.com^
 ||luvikar.com^
 ||m.sakerplus.de^
+||maatfusion.com^
+||maehrobot.shop^
 ||mahershop24.com^
 ||mahroboter-freischneider.de^
 ||mahroboterhaus.myshopify.com^
@@ -361,9 +376,11 @@
 ||oakhabitsy.com^
 ||off-campus.co^
 ||olivercabelldeutschland.de^
+||one-outlet.shop^
 ||onmycat.com^
 ||optimisticoffer.com^
 ||osiris-deutschland.de^
+||palorion.com^
 ||panelaeki.de^
 ||pedalpalast.de^
 ||pelletkraft.de^
@@ -373,6 +390,7 @@
 ||pingona.de^
 ||pingona.shop^
 ||pinneberg-handel.de^
+||plainmarkco.com^
 ||planguage.org^
 ||polenegermany.de^
 ||polluxer.com^
@@ -382,6 +400,7 @@
 ||priceannihilator.com^
 ||profibrennde.com^
 ||profitipp5.de^
+||pronetivaro.com^
 ||quellshop.de^
 ||rabattkorb.de^
 ||radtrikottourdefrance.de^
@@ -396,9 +415,11 @@
 ||ridelbergu.de^
 ||rileyheftman.shop^
 ||ripob.com^
+||rixie-kauf.com^
 ||rohrreinigung-rothschild.de^
 ||romodana.de^
 ||rovlier.com^
+||rundholz-uhlstaedt.de^
 ||salessee.shop^
 ||savemosaic.com^
 ||savenesting.com^
@@ -426,6 +447,7 @@
 ||sovora-shop.com^
 ||spielbank-badenwurttemberg.de^
 ||sportopath.de^
+||stadlwerk.de^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
 ||steinberg-munchen.com^
@@ -459,6 +481,7 @@
 ||ulmgmbh.com^
 ||unico-studio.com^
 ||urhenwchmuckrosel.de^
+||usezazzi.com^
 ||valaires.com^
 ||valuedealbox.com^
 ||vanofashion.de^
@@ -480,6 +503,7 @@
 ||wampole.shop^
 ||wandtopay.com^
 ||wasser-kaiser.com^
+||wealthicatorplattform.de^
 ||weikershem.de^
 ||welttrikot.com^
 ||werkerswelt-moelln.de^
