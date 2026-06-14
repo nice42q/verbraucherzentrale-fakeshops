@@ -3,31 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 493 historical domains from archive.
+# [INFO]    Loaded 517 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 79 clean and validated domains on VZ page.
-# [STATS]   Identified 24 BRAND NEW domains! Updating files...
-# [NEW]      -> aktivmaxx.com
-# [NEW]      -> apertino-shop.de
-# [NEW]      -> arkenberlin.de
-# [NEW]      -> bargainbayou.com
-# [NEW]      -> betashop-gmbh.com
-# [NEW]      -> fankluft.com
-# [NEW]      -> fankluft.wickwondershop.com
-# [NEW]      -> get-epicooler.topashopo.com
-# [NEW]      -> helmuteco.com
-# [NEW]      -> josef-gartentechnik.de
-# [NEW]      -> kaiser-kauf.com
-# [NEW]      -> kreativebodenbelage.com
-# [NEW]      -> loaspool.de
-# [NEW]      -> maatfusion.com
-# [NEW]      -> maehrobot.shop
-# [NEW]      -> one-outlet.shop
-# [NEW]      -> palorion.com
-# [NEW]      -> plainmarkco.com
-# [NEW]      -> pronetivaro.com
-# [NEW]      -> rixie-kauf.com
-# [NEW]      -> rundholz-uhlstaedt.de
-# [NEW]      -> stadlwerk.de
-# [NEW]      -> usezazzi.com
-# [NEW]      -> wealthicatorplattform.de
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
