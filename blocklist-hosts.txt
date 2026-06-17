@@ -31,6 +31,7 @@
 0.0.0.0 autoforum-petersberg.de
 0.0.0.0 autoforum-schoenau.de
 0.0.0.0 autoforumoberursel.de
+0.0.0.0 autogalerie29.de
 0.0.0.0 autopark-groep.eu
 0.0.0.0 autozubehormarkt.com
 0.0.0.0 avezzanofahrrad.de
@@ -242,6 +243,7 @@
 0.0.0.0 hansacontainergmbh.de
 0.0.0.0 haus-apotheke.eu
 0.0.0.0 heidel-heizoel.de
+0.0.0.0 heimhof24.de
 0.0.0.0 heiseno.de
 0.0.0.0 heizelo.de
 0.0.0.0 heizholzbrikett.de
@@ -289,6 +291,7 @@
 0.0.0.0 kanzleikonigstein.de
 0.0.0.0 kaufdesch.myshoplaza.com
 0.0.0.0 kaufen-motorrader.de
+0.0.0.0 kaufmar.de
 0.0.0.0 keyom.de
 0.0.0.0 kh-heizol.de
 0.0.0.0 kirchner-rechtsanwaelte.de
