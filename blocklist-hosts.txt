@@ -225,6 +225,7 @@
 0.0.0.0 goalkertech.com
 0.0.0.0 goldankauf365.de
 0.0.0.0 goldenngoosee.com
+0.0.0.0 goldhandel-richter.de
 0.0.0.0 gomel-24.de
 0.0.0.0 gomell-24.de
 0.0.0.0 gommel-trading.de
@@ -253,6 +254,7 @@
 0.0.0.0 heizprohandel.com
 0.0.0.0 helmuteco.com
 0.0.0.0 heyi-handel.de
+0.0.0.0 hoffmannholz.com
 0.0.0.0 hohlfeldt-garten.de
 0.0.0.0 holz-pellet-bestequalitat.de
 0.0.0.0 holz-premium.de
@@ -274,6 +276,7 @@
 0.0.0.0 irina-liebmann.de
 0.0.0.0 jardinovano.com
 0.0.0.0 jeehiova.com
+0.0.0.0 jh-machines-nord.com
 0.0.0.0 jordanmania.de
 0.0.0.0 josef-gartentechnik.de
 0.0.0.0 kaercherde.shop

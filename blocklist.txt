@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-17 09:04:12 UTC
+# Last update: 2026-06-18 08:48:56 UTC
 #
-# Total archived domains:    520
+# Total archived domains:    523
 # New domains added today:   3
 # -------------------------------------------
 #
@@ -234,6 +234,7 @@
 ||goalkertech.com^
 ||goldankauf365.de^
 ||goldenngoosee.com^
+||goldhandel-richter.de^
 ||gomel-24.de^
 ||gomell-24.de^
 ||gommel-trading.de^
@@ -262,6 +263,7 @@
 ||heizprohandel.com^
 ||helmuteco.com^
 ||heyi-handel.de^
+||hoffmannholz.com^
 ||hohlfeldt-garten.de^
 ||holz-pellet-bestequalitat.de^
 ||holz-premium.de^
@@ -283,6 +285,7 @@
 ||irina-liebmann.de^
 ||jardinovano.com^
 ||jeehiova.com^
+||jh-machines-nord.com^
 ||jordanmania.de^
 ||josef-gartentechnik.de^
 ||kaercherde.shop^

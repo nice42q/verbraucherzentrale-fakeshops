@@ -3,10 +3,10 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 517 historical domains from archive.
+# [INFO]    Loaded 520 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 44 clean and validated domains on VZ page.
+# [INFO]    Found 46 clean and validated domains on VZ page.
 # [STATS]   Identified 3 BRAND NEW domains! Updating files...
-# [NEW]      -> autogalerie29.de
-# [NEW]      -> heimhof24.de
-# [NEW]      -> kaufmar.de
+# [NEW]      -> goldhandel-richter.de
+# [NEW]      -> hoffmannholz.com
+# [NEW]      -> jh-machines-nord.com
