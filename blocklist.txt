@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-18 08:48:56 UTC
+# Last update: 2026-06-19 09:06:25 UTC
 #
-# Total archived domains:    523
-# New domains added today:   3
+# Total archived domains:    528
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -280,12 +280,14 @@
 ||huard-stammholz.com^
 ||hyfen-tech.de^
 ||ihreedelmetallprofis.de^
+||ihrmunzhandler.com^
 ||ikkimelpoppstar.de^
 ||imperial-hamburg.de^
 ||irina-liebmann.de^
 ||jardinovano.com^
 ||jeehiova.com^
 ||jh-machines-nord.com^
+||jhagriconseil.com^
 ||jordanmania.de^
 ||josef-gartentechnik.de^
 ||kaercherde.shop^
@@ -374,6 +376,7 @@
 ||nibeguq.com^
 ||nkgartengardenandliving.de^
 ||nordic-pellets.de^
+||nordtaschen.de^
 ||northkayak.de^
 ||norvahaus.de^
 ||novambients.de^
@@ -442,6 +445,7 @@
 ||shopunivers.de^
 ||sieundihn.de^
 ||silberschmuckpro.com^
+||skinqira.de^
 ||sky-trikot-shop.de^
 ||sleevefleh.com^
 ||smart2trade.de^
@@ -457,6 +461,7 @@
 ||starkwerkzeug.de^
 ||steeg-handel.de^
 ||steinberg-munchen.com^
+||stella-mccartney.de^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
 ||supplierseu.com^
