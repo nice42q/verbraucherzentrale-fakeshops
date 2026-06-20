@@ -185,6 +185,7 @@
 0.0.0.0 fahrradhandel-alf.de
 0.0.0.0 fahrradhandel-daempfle.de
 0.0.0.0 fahrradhandel-meier.de
+0.0.0.0 fahrradladen-gronau.de
 0.0.0.0 fahrradladenbrand.de
 0.0.0.0 fankluft.com
 0.0.0.0 fankluft.wickwondershop.com

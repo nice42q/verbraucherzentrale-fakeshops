@@ -3,12 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 523 historical domains from archive.
+# [INFO]    Loaded 528 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 51 clean and validated domains on VZ page.
-# [STATS]   Identified 5 BRAND NEW domains! Updating files...
-# [NEW]      -> ihrmunzhandler.com
-# [NEW]      -> jhagriconseil.com
-# [NEW]      -> nordtaschen.de
-# [NEW]      -> skinqira.de
-# [NEW]      -> stella-mccartney.de
+# [INFO]    Found 52 clean and validated domains on VZ page.
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> fahrradladen-gronau.de
