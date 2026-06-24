@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-20 07:52:31 UTC
+# Last update: 2026-06-24 07:43:00 UTC
 #
-# Total archived domains:    529
+# Total archived domains:    530
 # New domains added today:   1
 # -------------------------------------------
 #
@@ -519,6 +519,7 @@
 ||weikershem.de^
 ||welttrikot.com^
 ||werkerswelt-moelln.de^
+||werkstoffholz.de^
 ||werkzeug-brandl.com^
 ||werkzeugbauladen.com^
 ||werkzeuge-maschinen.com^

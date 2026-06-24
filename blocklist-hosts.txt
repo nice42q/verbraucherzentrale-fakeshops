@@ -510,6 +510,7 @@
 0.0.0.0 weikershem.de
 0.0.0.0 welttrikot.com
 0.0.0.0 werkerswelt-moelln.de
+0.0.0.0 werkstoffholz.de
 0.0.0.0 werkzeug-brandl.com
 0.0.0.0 werkzeugbauladen.com
 0.0.0.0 werkzeuge-maschinen.com
