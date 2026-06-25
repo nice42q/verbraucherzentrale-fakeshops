@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-24 07:43:00 UTC
+# Last update: 2026-06-25 07:47:52 UTC
 #
-# Total archived domains:    530
-# New domains added today:   1
+# Total archived domains:    535
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -20,6 +20,7 @@
 ||aluvea.de^
 ||andreaswerkstatt.de^
 ||angebote-kauf.de^
+||anhaenger-klasen.de^
 ||anhaengerhub.de^
 ||anhangermaschinen.com^
 ||ankerflowtech.shop^
@@ -56,6 +57,7 @@
 ||beambright.de^
 ||belieul-stammholz.com^
 ||beratify.de^
+||bergetappe-fahrradladen.de^
 ||bergschatz.de^
 ||berichtkfz.de^
 ||berichtprofi.de^
@@ -374,6 +376,7 @@
 ||nestmypad.com^
 ||neurotweinrabatt.com^
 ||nevari.de^
+||nhbdgy.shop^
 ||nibeguq.com^
 ||nkgartengardenandliving.de^
 ||nordic-pellets.de^
@@ -426,6 +429,7 @@
 ||rileyheftman.shop^
 ||ripob.com^
 ||rixie-kauf.com^
+||roesing-kaufhaus.com^
 ||rohrreinigung-rothschild.de^
 ||romodana.de^
 ||rovlier.com^
@@ -459,6 +463,7 @@
 ||spielbank-badenwurttemberg.de^
 ||sportopath.de^
 ||stadlwerk.de^
+||stammholz-gmbh.com^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
 ||steinberg-munchen.com^
