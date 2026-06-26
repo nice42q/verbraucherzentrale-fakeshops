@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-25 07:47:52 UTC
+# Last update: 2026-06-26 07:56:15 UTC
 #
-# Total archived domains:    535
-# New domains added today:   5
+# Total archived domains:    550
+# New domains added today:   15
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -38,6 +38,7 @@
 ||aroundying.de^
 ||astragroupholding.com^
 ||audi-services.com^
+||auto-bund.com^
 ||autoforum-petersberg.de^
 ||autoforum-schoenau.de^
 ||autoforumoberursel.de^
@@ -45,6 +46,7 @@
 ||autopark-groep.eu^
 ||autozubehormarkt.com^
 ||avezzanofahrrad.de^
+||avientrix.de^
 ||baboktransports.com^
 ||bagtrendshop.com^
 ||bakta8.myshopify.com^
@@ -90,6 +92,7 @@
 ||bst-werkzeuge.de^
 ||bukkwood.com^
 ||buyjethose.com^
+||bxhdui.shop^
 ||bynwatch.de^
 ||ca-agentur.de^
 ||caballde.com^
@@ -150,11 +153,13 @@
 ||deutschlandtv-4k.de^
 ||dexer-handel.de^
 ||dhg-versand.de^
+||digitalhandel.shop^
 ||digitalkontor24.de^
 ||direktbericht.de^
 ||diseasy.shop^
 ||dlxn-mode.de^
 ||dr-michael-huss.de^
+||dragxel.store^
 ||dreamsleepz.de^
 ||drune.de^
 ||dunstro.shop^
@@ -181,7 +186,10 @@
 ||elwenrimowa.de^
 ||emmakeller.de^
 ||energiepreise24.com^
+||epicooler.checkoutera.com^
 ||epicooler.com^
+||epicoolerde.consumereviewsguide.com^
+||epicoolerklima.shop^
 ||erix9.myshopify.com^
 ||erzgebirger-uhrwerk.com^
 ||ettern24.de^
@@ -223,6 +231,7 @@
 ||gartenmotor.de^
 ||gartenpflegegmbh.com^
 ||gartenpools24.de^
+||gartenpools24.shop^
 ||gartenundanhaenger.de^
 ||gascovert.com^
 ||gbr-office.de^
@@ -230,6 +239,7 @@
 ||gelschuhe.de^
 ||gelvibe.de^
 ||gerlinelshop.com^
+||get-airzuma.topashopo.com^
 ||get-epicooler.com^
 ||get-epicooler.topashopo.com^
 ||get-omnihear.com^
@@ -340,6 +350,7 @@
 ||livohaus.com^
 ||loaspool.de^
 ||lola58.myshopify.com^
+||luckybrand-deutschland.com^
 ||lunalli.de^
 ||lunaxadv.myshopify.com^
 ||luvikar.com^
@@ -387,6 +398,7 @@
 ||nqior.shop^
 ||nuxifuland.shop^
 ||oakhabitsy.com^
+||octirtast.shop^
 ||off-campus.co^
 ||olivercabelldeutschland.de^
 ||one-outlet.shop^
@@ -443,9 +455,11 @@
 ||schmidts-handel.de^
 ||schuhhaus-greten.de^
 ||secure.shopvio.co^
+||seidenblumen-ross.com^
 ||seifertundstil.de^
 ||serenorstock.com^
 ||shelterene.com^
+||shevode.com^
 ||shopnory.de^
 ||shopunivers.de^
 ||sieundihn.de^
@@ -508,6 +522,7 @@
 ||vidaserenahogar.com^
 ||villause.com^
 ||vircominfo.de^
+||vircomtechnik.de^
 ||vitrinaox.de^
 ||voglbaugeschaftgmbh.de^
 ||volkeep.de^
