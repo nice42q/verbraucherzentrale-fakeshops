@@ -3,22 +3,10 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 535 historical domains from archive.
+# [INFO]    Loaded 550 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 67 clean and validated domains on VZ page.
-# [STATS]   Identified 15 BRAND NEW domains! Updating files...
-# [NEW]      -> auto-bund.com
-# [NEW]      -> avientrix.de
-# [NEW]      -> bxhdui.shop
-# [NEW]      -> digitalhandel.shop
-# [NEW]      -> dragxel.store
-# [NEW]      -> epicooler.checkoutera.com
-# [NEW]      -> epicoolerde.consumereviewsguide.com
-# [NEW]      -> epicoolerklima.shop
-# [NEW]      -> gartenpools24.shop
-# [NEW]      -> get-airzuma.topashopo.com
-# [NEW]      -> luckybrand-deutschland.com
-# [NEW]      -> octirtast.shop
-# [NEW]      -> seidenblumen-ross.com
-# [NEW]      -> shevode.com
-# [NEW]      -> vircomtechnik.de
+# [INFO]    Found 70 clean and validated domains on VZ page.
+# [STATS]   Identified 3 BRAND NEW domains! Updating files...
+# [NEW]      -> midea-klima.de
+# [NEW]      -> ole-musik.de
+# [NEW]      -> thegentlemenstore.de
