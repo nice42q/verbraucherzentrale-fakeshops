@@ -5,5 +5,17 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 553 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 60 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [INFO]    Found 72 clean and validated domains on VZ page.
+# [STATS]   Identified 12 BRAND NEW domains! Updating files...
+# [NEW]      -> cjudelo.shop
+# [NEW]      -> coolzy.com
+# [NEW]      -> dwgbeautyshop.com
+# [NEW]      -> heinrich-handel.com
+# [NEW]      -> hinato-tech.de
+# [NEW]      -> hks-versand.de
+# [NEW]      -> hortura.de
+# [NEW]      -> mideaklima.de
+# [NEW]      -> ministryoftoys.eu
+# [NEW]      -> schumann-markt.com
+# [NEW]      -> totsoo.com
+# [NEW]      -> verbraucher-institut.com

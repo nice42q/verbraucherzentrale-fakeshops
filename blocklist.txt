@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-06-27 06:54:14 UTC
+# Last update: 2026-07-01 08:15:43 UTC
 #
-# Total archived domains:    553
-# New domains added today:   3
+# Total archived domains:    565
+# New domains added today:   12
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -107,11 +107,13 @@
 ||cibomatt.com^
 ||cinderella-braut.de^
 ||civ-vertrieb.de^
+||cjudelo.shop^
 ||cloudtritt.de^
 ||clubeboss.de^
 ||columbiasale.de^
 ||containerbox-gmbh.de^
 ||containergierichgmbh.de^
+||coolzy.com^
 ||cosanne-baumarkt.com^
 ||crazyunbelieavablefunnel.com^
 ||crcmfcsb.shop^
@@ -164,6 +166,7 @@
 ||drune.de^
 ||dunstro.shop^
 ||dwellgallery.com^
+||dwgbeautyshop.com^
 ||dyson-de.de^
 ||dztraktoren.de^
 ||e-bikermarkt.de^
@@ -267,6 +270,7 @@
 ||haus-apotheke.eu^
 ||heidel-heizoel.de^
 ||heimhof24.de^
+||heinrich-handel.com^
 ||heiseno.de^
 ||heizelo.de^
 ||heizholzbrikett.de^
@@ -276,6 +280,8 @@
 ||heizprohandel.com^
 ||helmuteco.com^
 ||heyi-handel.de^
+||hinato-tech.de^
+||hks-versand.de^
 ||hoffmannholz.com^
 ||hohlfeldt-garten.de^
 ||holz-pellet-bestequalitat.de^
@@ -289,6 +295,7 @@
 ||home-gear24.de^
 ||homeofficeradar.de^
 ||horizontix.de^
+||hortura.de^
 ||houseofbuys.de^
 ||huard-stammholz.com^
 ||hyfen-tech.de^
@@ -371,7 +378,9 @@
 ||meistervolt.de^
 ||mekura.de^
 ||midea-klima.de^
+||mideaklima.de^
 ||milono.de^
+||ministryoftoys.eu^
 ||mn.magazinmodern.de^
 ||mobel-lenk.shop^
 ||mobel-lenk.store^
@@ -456,6 +465,7 @@
 ||schmidmodesalzburg.de^
 ||schmidts-handel.de^
 ||schuhhaus-greten.de^
+||schumann-markt.com^
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
 ||seifertundstil.de^
@@ -504,6 +514,7 @@
 ||tonerklick24.de^
 ||topeat.lightview.shop^
 ||tophoven-teilekfz.de^
+||totsoo.com^
 ||trailer-master.de^
 ||transition-velo.com^
 ||treemexholz.de^
@@ -522,6 +533,7 @@
 ||vega-energy.de^
 ||venorital.com^
 ||venticlub.de^
+||verbraucher-institut.com^
 ||vidaserenahogar.com^
 ||villause.com^
 ||vircominfo.de^
