@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-01 08:15:43 UTC
+# Last update: 2026-07-02 07:34:45 UTC
 #
-# Total archived domains:    565
-# New domains added today:   12
+# Total archived domains:    567
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -414,6 +414,8 @@
 ||olivercabelldeutschland.de^
 ||one-outlet.shop^
 ||onmycat.com^
+||ophirum-web.de^
+||ophirum.online^
 ||optimisticoffer.com^
 ||osiris-deutschland.de^
 ||palorion.com^
