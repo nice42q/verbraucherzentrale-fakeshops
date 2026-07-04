@@ -340,6 +340,7 @@
 0.0.0.0 lan-gensalz.com
 0.0.0.0 lan-gensalz.de
 0.0.0.0 larc90.myshopify.com
+0.0.0.0 lasten-anhanger.com
 0.0.0.0 laufstyle.com
 0.0.0.0 liaonmskj.com
 0.0.0.0 liehrforstholz.de
@@ -368,6 +369,7 @@
 0.0.0.0 mein.lhk.de-plushilfe.com
 0.0.0.0 meistervolt.de
 0.0.0.0 mekura.de
+0.0.0.0 midea-europa.de
 0.0.0.0 midea-klima.de
 0.0.0.0 mideaklima.de
 0.0.0.0 milono.de

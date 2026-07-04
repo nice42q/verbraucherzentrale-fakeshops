@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-02 07:34:45 UTC
+# Last update: 2026-07-04 06:48:22 UTC
 #
-# Total archived domains:    567
+# Total archived domains:    569
 # New domains added today:   2
 # -------------------------------------------
 #
@@ -349,6 +349,7 @@
 ||lan-gensalz.com^
 ||lan-gensalz.de^
 ||larc90.myshopify.com^
+||lasten-anhanger.com^
 ||laufstyle.com^
 ||liaonmskj.com^
 ||liehrforstholz.de^
@@ -377,6 +378,7 @@
 ||mein.lhk.de-plushilfe.com^
 ||meistervolt.de^
 ||mekura.de^
+||midea-europa.de^
 ||midea-klima.de^
 ||mideaklima.de^
 ||milono.de^
