@@ -529,6 +529,7 @@
 0.0.0.0 venorital.com
 0.0.0.0 venticlub.de
 0.0.0.0 verbraucher-institut.com
+0.0.0.0 verbraucherfokus-test.de
 0.0.0.0 vidaserenahogar.com
 0.0.0.0 villause.com
 0.0.0.0 vircominfo.de
