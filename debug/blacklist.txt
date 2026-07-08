@@ -3,8 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 569 historical domains from archive.
+# [INFO]    Loaded 570 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 46 clean and validated domains on VZ page.
+# [INFO]    Found 43 clean and validated domains on VZ page.
 # [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> verbraucherfokus-test.de
+# [NEW]      -> hartholz-briketts.de
