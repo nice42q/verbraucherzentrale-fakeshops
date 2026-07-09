@@ -3,8 +3,12 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 570 historical domains from archive.
+# [INFO]    Loaded 571 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 43 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> hartholz-briketts.de
+# [INFO]    Found 46 clean and validated domains on VZ page.
+# [STATS]   Identified 5 BRAND NEW domains! Updating files...
+# [NEW]      -> auto-export-augsburg.de
+# [NEW]      -> braunsale.de
+# [NEW]      -> exklusivrad.de
+# [NEW]      -> k-ebikegmbh.de
+# [NEW]      -> kaelte-bringer.de

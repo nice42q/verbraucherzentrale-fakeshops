@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-08 06:29:35 UTC
+# Last update: 2026-07-09 07:38:40 UTC
 #
-# Total archived domains:    571
-# New domains added today:   1
+# Total archived domains:    576
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -39,6 +39,7 @@
 ||astragroupholding.com^
 ||audi-services.com^
 ||auto-bund.com^
+||auto-export-augsburg.de^
 ||autoforum-petersberg.de^
 ||autoforum-schoenau.de^
 ||autoforumoberursel.de^
@@ -78,6 +79,7 @@
 ||bloemker-holz.de^
 ||boxloadpallet.com^
 ||bpbioheat.de^
+||braunsale.de^
 ||brenner-berlin.com^
 ||brennholz-anhaenger.de^
 ||brennholz-quelle.de^
@@ -198,6 +200,7 @@
 ||ettern24.de^
 ||eufinancetechtoday.com^
 ||euvendorshub.online^
+||exklusivrad.de^
 ||expressbrennholz.de^
 ||ezigaretteplus.com^
 ||fahrradbulls.com^
@@ -311,6 +314,8 @@
 ||jhagriconseil.com^
 ||jordanmania.de^
 ||josef-gartentechnik.de^
+||k-ebikegmbh.de^
+||kaelte-bringer.de^
 ||kaercherde.shop^
 ||kaffee-glueck.de^
 ||kaffee-liebling.de^
