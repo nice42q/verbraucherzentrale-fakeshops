@@ -3,17 +3,9 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 576 historical domains from archive.
+# [INFO]    Loaded 586 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 56 clean and validated domains on VZ page.
-# [STATS]   Identified 10 BRAND NEW domains! Updating files...
-# [NEW]      -> extralangrotary.com
-# [NEW]      -> fahrradladen-klasen.de
-# [NEW]      -> interholz-de.com
-# [NEW]      -> interlux-zentrum.com
-# [NEW]      -> jette-handel.de
-# [NEW]      -> jubin-bicycle.com
-# [NEW]      -> orion-warenhandel.de
-# [NEW]      -> rqhtyztv.shop
-# [NEW]      -> waerme-pumpen24.de
-# [NEW]      -> wisdom-heimbedarf.com
+# [INFO]    Found 58 clean and validated domains on VZ page.
+# [STATS]   Identified 2 BRAND NEW domains! Updating files...
+# [NEW]      -> alverogmbh.myshopify.com
+# [NEW]      -> heiz-fachmann.de

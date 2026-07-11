@@ -9,6 +9,7 @@
 0.0.0.0 aktion-motorrad.de
 0.0.0.0 aktivmaxx.com
 0.0.0.0 aluvea.de
+0.0.0.0 alverogmbh.myshopify.com
 0.0.0.0 andreaswerkstatt.de
 0.0.0.0 angebote-kauf.de
 0.0.0.0 anhaenger-klasen.de
@@ -269,6 +270,7 @@
 0.0.0.0 heimhof24.de
 0.0.0.0 heinrich-handel.com
 0.0.0.0 heiseno.de
+0.0.0.0 heiz-fachmann.de
 0.0.0.0 heizelo.de
 0.0.0.0 heizholzbrikett.de
 0.0.0.0 heizoel-discount.de
