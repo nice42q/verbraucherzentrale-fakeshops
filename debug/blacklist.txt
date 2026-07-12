@@ -3,9 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 586 historical domains from archive.
+# [INFO]    Loaded 588 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 58 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> alverogmbh.myshopify.com
-# [NEW]      -> heiz-fachmann.de
+# [INFO]    Found 59 clean and validated domains on VZ page.
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> wertlebenshop.com

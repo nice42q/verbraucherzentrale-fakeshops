@@ -573,6 +573,7 @@
 0.0.0.0 werkzeuge-maschinen.com
 0.0.0.0 werkzeugeholz.de
 0.0.0.0 wertglanzedelmetall.de
+0.0.0.0 wertlebenshop.com
 0.0.0.0 westex-handel.de
 0.0.0.0 westex-handell.de
 0.0.0.0 wilhelm-daume-gmbh.myshopify.com

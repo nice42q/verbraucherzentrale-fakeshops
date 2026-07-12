@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-11 06:15:33 UTC
+# Last update: 2026-07-12 06:34:40 UTC
 #
-# Total archived domains:    588
-# New domains added today:   2
+# Total archived domains:    589
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -582,6 +582,7 @@
 ||werkzeuge-maschinen.com^
 ||werkzeugeholz.de^
 ||wertglanzedelmetall.de^
+||wertlebenshop.com^
 ||westex-handel.de^
 ||westex-handell.de^
 ||wilhelm-daume-gmbh.myshopify.com^
