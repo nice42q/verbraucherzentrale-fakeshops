@@ -5,5 +5,5 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 589 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 58 clean and validated domains on VZ page.
+# [INFO]    Found 54 clean and validated domains on VZ page.
 # [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
