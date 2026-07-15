@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-12 06:34:40 UTC
+# Last update: 2026-07-15 06:16:39 UTC
 #
-# Total archived domains:    589
+# Total archived domains:    590
 # New domains added today:   1
 # -------------------------------------------
 #
@@ -462,6 +462,7 @@
 ||radzubehoer24.com^
 ||ratataur.com^
 ||rechtsanwalt-sirrenberg.de^
+||rechtskanzlei-karls.de^
 ||reindesigner-handel.de^
 ||reisholzgmbh.de^
 ||rekordpellets.com^

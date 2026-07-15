@@ -453,6 +453,7 @@
 0.0.0.0 radzubehoer24.com
 0.0.0.0 ratataur.com
 0.0.0.0 rechtsanwalt-sirrenberg.de
+0.0.0.0 rechtskanzlei-karls.de
 0.0.0.0 reindesigner-handel.de
 0.0.0.0 reisholzgmbh.de
 0.0.0.0 rekordpellets.com
