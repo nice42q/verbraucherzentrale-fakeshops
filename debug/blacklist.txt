@@ -3,8 +3,11 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 589 historical domains from archive.
+# [INFO]    Loaded 590 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 40 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> rechtskanzlei-karls.de
+# [INFO]    Found 41 clean and validated domains on VZ page.
+# [STATS]   Identified 4 BRAND NEW domains! Updating files...
+# [NEW]      -> campingspezialisten.com
+# [NEW]      -> hornwald.com
+# [NEW]      -> shujuwang.de
+# [NEW]      -> trekkinggearwarehouse.com

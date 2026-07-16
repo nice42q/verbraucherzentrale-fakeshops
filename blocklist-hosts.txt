@@ -90,6 +90,7 @@
 0.0.0.0 bynwatch.de
 0.0.0.0 ca-agentur.de
 0.0.0.0 caballde.com
+0.0.0.0 campingspezialisten.com
 0.0.0.0 canmidy.com
 0.0.0.0 cartsaga.com
 0.0.0.0 casualstore77.de
@@ -294,6 +295,7 @@
 0.0.0.0 home-gear24.de
 0.0.0.0 homeofficeradar.de
 0.0.0.0 horizontix.de
+0.0.0.0 hornwald.com
 0.0.0.0 hortura.de
 0.0.0.0 houseofbuys.de
 0.0.0.0 huard-stammholz.com
@@ -486,6 +488,7 @@
 0.0.0.0 shevode.com
 0.0.0.0 shopnory.de
 0.0.0.0 shopunivers.de
+0.0.0.0 shujuwang.de
 0.0.0.0 sieundihn.de
 0.0.0.0 silberschmuckpro.com
 0.0.0.0 skinqira.de
@@ -530,6 +533,7 @@
 0.0.0.0 trailer-master.de
 0.0.0.0 transition-velo.com
 0.0.0.0 treemexholz.de
+0.0.0.0 trekkinggearwarehouse.com
 0.0.0.0 trikotfc.com
 0.0.0.0 trivanode.com
 0.0.0.0 try.homepromag.com

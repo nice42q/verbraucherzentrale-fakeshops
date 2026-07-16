@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-15 06:16:39 UTC
+# Last update: 2026-07-16 06:20:48 UTC
 #
-# Total archived domains:    590
-# New domains added today:   1
+# Total archived domains:    594
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -99,6 +99,7 @@
 ||bynwatch.de^
 ||ca-agentur.de^
 ||caballde.com^
+||campingspezialisten.com^
 ||canmidy.com^
 ||cartsaga.com^
 ||casualstore77.de^
@@ -303,6 +304,7 @@
 ||home-gear24.de^
 ||homeofficeradar.de^
 ||horizontix.de^
+||hornwald.com^
 ||hortura.de^
 ||houseofbuys.de^
 ||huard-stammholz.com^
@@ -495,6 +497,7 @@
 ||shevode.com^
 ||shopnory.de^
 ||shopunivers.de^
+||shujuwang.de^
 ||sieundihn.de^
 ||silberschmuckpro.com^
 ||skinqira.de^
@@ -539,6 +542,7 @@
 ||trailer-master.de^
 ||transition-velo.com^
 ||treemexholz.de^
+||trekkinggearwarehouse.com^
 ||trikotfc.com^
 ||trivanode.com^
 ||try.homepromag.com^
