@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-16 06:20:48 UTC
+# Last update: 2026-07-17 06:19:08 UTC
 #
-# Total archived domains:    594
-# New domains added today:   4
+# Total archived domains:    595
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -75,6 +75,7 @@
 ||betrugsrecht.de^
 ||beyham.com^
 ||bike-trailer24.de^
+||bikecube.de^
 ||bikegadgetde.com^
 ||bitloonx.de^
 ||bloemker-holz.de^
