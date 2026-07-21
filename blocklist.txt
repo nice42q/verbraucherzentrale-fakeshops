@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-17 06:19:08 UTC
+# Last update: 2026-07-21 06:30:11 UTC
 #
-# Total archived domains:    595
-# New domains added today:   1
+# Total archived domains:    604
+# New domains added today:   9
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -79,6 +79,7 @@
 ||bikegadgetde.com^
 ||bitloonx.de^
 ||bloemker-holz.de^
+||bonvya.com^
 ||boxloadpallet.com^
 ||bpbioheat.de^
 ||braunsale.de^
@@ -202,6 +203,7 @@
 ||erzgebirger-uhrwerk.com^
 ||ettern24.de^
 ||eufinancetechtoday.com^
+||eurlexodus.com^
 ||euvendorshub.online^
 ||exklusivrad.de^
 ||expressbrennholz.de^
@@ -239,6 +241,7 @@
 ||gartenersatz.de^
 ||gartenfarbewelt.com^
 ||garteni.de^
+||gartenmeistede.com^
 ||gartenmotor.de^
 ||gartenpflegegmbh.com^
 ||gartenpools24.de^
@@ -277,6 +280,7 @@
 ||hansacontainergmbh.de^
 ||hartholz-briketts.de^
 ||haus-apotheke.eu^
+||hausgeratewelt.com^
 ||heidel-heizoel.de^
 ||heimhof24.de^
 ||heinrich-handel.com^
@@ -303,6 +307,7 @@
 ||holzwerkeharz.de^
 ||holzwerkzeug-bestequalitat.de^
 ||home-gear24.de^
+||home-geare.de^
 ||homeofficeradar.de^
 ||horizontix.de^
 ||hornwald.com^
@@ -353,6 +358,7 @@
 ||klangaeder.com^
 ||kleinre.myshopify.com^
 ||klenkholzag.de^
+||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
 ||kraus-anwaelte.de^
@@ -436,6 +442,7 @@
 ||ophirum-web.de^
 ||ophirum.online^
 ||optimisticoffer.com^
+||orion-warenhandel.com^
 ||orion-warenhandel.de^
 ||osiris-deutschland.de^
 ||palorion.com^
@@ -482,6 +489,7 @@
 ||rqhtyztv.shop^
 ||rundholz-uhlstaedt.de^
 ||salessee.shop^
+||sarl-castelmag.com^
 ||savemosaic.com^
 ||savenesting.com^
 ||scheideckerholz.com^
@@ -499,6 +507,7 @@
 ||shopnory.de^
 ||shopunivers.de^
 ||shujuwang.de^
+||shutterlans.myshopify.com^
 ||sieundihn.de^
 ||silberschmuckpro.com^
 ||skinqira.de^
