@@ -3,16 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 595 historical domains from archive.
+# [INFO]    Loaded 604 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 37 clean and validated domains on VZ page.
-# [STATS]   Identified 9 BRAND NEW domains! Updating files...
-# [NEW]      -> bonvya.com
-# [NEW]      -> eurlexodus.com
-# [NEW]      -> gartenmeistede.com
-# [NEW]      -> hausgeratewelt.com
-# [NEW]      -> home-geare.de
-# [NEW]      -> koppermuller-markt.de
-# [NEW]      -> orion-warenhandel.com
-# [NEW]      -> sarl-castelmag.com
-# [NEW]      -> shutterlans.myshopify.com
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> ersatzteilesale.com
