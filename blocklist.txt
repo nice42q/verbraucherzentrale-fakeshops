@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-22 06:30:30 UTC
+# Last update: 2026-07-23 06:31:13 UTC
 #
-# Total archived domains:    605
-# New domains added today:   1
+# Total archived domains:    607
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -24,6 +24,7 @@
 ||anhaenger-klasen.de^
 ||anhaengerhub.de^
 ||anhangermaschinen.com^
+||anhangermaschinen.de^
 ||ankerflowtech.shop^
 ||anreutrp.com^
 ||anwalt-sirrenberg.com^
@@ -158,6 +159,7 @@
 ||dermavitalglow.com^
 ||deutchshop24.de^
 ||deutsche-warentests.de^
+||deutschemobel.com^
 ||deutschlandtv-4k.de^
 ||dexer-handel.de^
 ||dhg-versand.de^

@@ -15,6 +15,7 @@
 0.0.0.0 anhaenger-klasen.de
 0.0.0.0 anhaengerhub.de
 0.0.0.0 anhangermaschinen.com
+0.0.0.0 anhangermaschinen.de
 0.0.0.0 ankerflowtech.shop
 0.0.0.0 anreutrp.com
 0.0.0.0 anwalt-sirrenberg.com
@@ -149,6 +150,7 @@
 0.0.0.0 dermavitalglow.com
 0.0.0.0 deutchshop24.de
 0.0.0.0 deutsche-warentests.de
+0.0.0.0 deutschemobel.com
 0.0.0.0 deutschlandtv-4k.de
 0.0.0.0 dexer-handel.de
 0.0.0.0 dhg-versand.de
