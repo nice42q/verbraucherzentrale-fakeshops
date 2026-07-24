@@ -3,9 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 605 historical domains from archive.
+# [INFO]    Loaded 607 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 37 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> anhangermaschinen.de
-# [NEW]      -> deutschemobel.com
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
