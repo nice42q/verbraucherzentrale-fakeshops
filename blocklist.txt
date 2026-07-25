@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-23 06:31:13 UTC
+# Last update: 2026-07-25 06:19:29 UTC
 #
-# Total archived domains:    607
-# New domains added today:   2
+# Total archived domains:    612
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -315,6 +315,7 @@
 ||horizontix.de^
 ||hornwald.com^
 ||hortura.de^
+||houselytouchspace.com^
 ||houseofbuys.de^
 ||huard-stammholz.com^
 ||hyfen-tech.de^
@@ -463,6 +464,7 @@
 ||polenegermany.de^
 ||polluxer.com^
 ||porcelainchoice.com^
+||prazisionsteile.com^
 ||premieumgmbh.de^
 ||prestigemetalle.de^
 ||priceannihilator.com^
@@ -476,6 +478,7 @@
 ||ratataur.com^
 ||rechtsanwalt-sirrenberg.de^
 ||rechtskanzlei-karls.de^
+||redlich-becker.de^
 ||reindesigner-handel.de^
 ||reisholzgmbh.de^
 ||rekordpellets.com^
@@ -513,6 +516,7 @@
 ||shutterlans.myshopify.com^
 ||sieundihn.de^
 ||silberschmuckpro.com^
+||silveraureus.com^
 ||skinqira.de^
 ||sky-trikot-shop.de^
 ||sleevefleh.com^
@@ -526,6 +530,7 @@
 ||spielbank-badenwurttemberg.de^
 ||sportopath.de^
 ||stadlwerk.de^
+||stadsug.com^
 ||stammholz-gmbh.com^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
