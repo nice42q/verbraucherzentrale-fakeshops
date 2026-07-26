@@ -3,12 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 607 historical domains from archive.
+# [INFO]    Loaded 612 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 42 clean and validated domains on VZ page.
-# [STATS]   Identified 5 BRAND NEW domains! Updating files...
-# [NEW]      -> houselytouchspace.com
-# [NEW]      -> prazisionsteile.com
-# [NEW]      -> redlich-becker.de
-# [NEW]      -> silveraureus.com
-# [NEW]      -> stadsug.com
+# [INFO]    Found 41 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
