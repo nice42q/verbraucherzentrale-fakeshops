@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-25 06:19:29 UTC
+# Last update: 2026-07-28 06:28:29 UTC
 #
-# Total archived domains:    612
-# New domains added today:   5
+# Total archived domains:    620
+# New domains added today:   8
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -232,6 +232,7 @@
 ||festgeld-profis.de^
 ||flexsugges.com^
 ||flora-markt.de^
+||florina-kaufen.de^
 ||fumot-shop.de^
 ||fundfjord.com^
 ||fussballtrikothaus.com^
@@ -260,6 +261,7 @@
 ||get-epicooler.com^
 ||get-epicooler.topashopo.com^
 ||get-omnihear.com^
+||glow-garten.com^
 ||gmbhboes.de^
 ||goalkertech.com^
 ||goldankauf365.de^
@@ -275,6 +277,7 @@
 ||gueta-handel.de^
 ||gutmahroboter.myshopify.com^
 ||gwosdz-handel.de^
+||hagebaumarkt-muenchen.shop^
 ||haibikerabatt.com^
 ||handel57.de^
 ||handelshaus-buchem.de^
@@ -349,9 +352,11 @@
 ||kanzlei-keller-luers.de^
 ||kanzlei-neudeck.de^
 ||kanzleikonigstein.de^
+||kartenschatz.shop^
 ||kaufdesch.myshoplaza.com^
 ||kaufen-motorrader.de^
 ||kaufmar.de^
+||keinerleiholz.de^
 ||keyom.de^
 ||kh-heizol.de^
 ||kirchner-rechtsanwaelte.de^
@@ -365,6 +370,7 @@
 ||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
+||kramertechnik.de^
 ||kraus-anwaelte.de^
 ||kreative-zukunft.com^
 ||kreativebodenbelage.com^
@@ -449,6 +455,7 @@
 ||orion-warenhandel.com^
 ||orion-warenhandel.de^
 ||osiris-deutschland.de^
+||outdoorio.de^
 ||palorion.com^
 ||panelaeki.de^
 ||pedalpalast.de^
@@ -464,6 +471,7 @@
 ||polenegermany.de^
 ||polluxer.com^
 ||porcelainchoice.com^
+||pourra.shop^
 ||prazisionsteile.com^
 ||premieumgmbh.de^
 ||prestigemetalle.de^
