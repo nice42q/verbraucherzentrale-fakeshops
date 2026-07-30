@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-28 06:28:29 UTC
+# Last update: 2026-07-30 06:30:16 UTC
 #
-# Total archived domains:    620
-# New domains added today:   8
+# Total archived domains:    627
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -193,6 +193,7 @@
 ||elektriker-hoffmeyer.de^
 ||elektro-willi.de^
 ||elektrodan.com^
+||ellesses.de^
 ||elwenkoffer.de^
 ||elwenrimowa.de^
 ||emmakeller.de^
@@ -230,6 +231,7 @@
 ||felino-sport.de^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
+||firstgoldshop.com^
 ||flexsugges.com^
 ||flora-markt.de^
 ||florina-kaufen.de^
@@ -370,6 +372,7 @@
 ||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
+||kraftfahrrad.de^
 ||kramertechnik.de^
 ||kraus-anwaelte.de^
 ||kreative-zukunft.com^
@@ -384,6 +387,7 @@
 ||larc90.myshopify.com^
 ||lasten-anhanger.com^
 ||laufstyle.com^
+||lenaskunst.de^
 ||liaonmskj.com^
 ||liehrforstholz.de^
 ||likdl.shop^
@@ -404,6 +408,7 @@
 ||major-agentur.de^
 ||manfred-schnell.shop^
 ||marie-herbstkg.de^
+||marinesafetygear.com^
 ||marketmarkdowns.com^
 ||martml.com^
 ||maxcapitalkredit.de^
@@ -502,6 +507,7 @@
 ||rovlier.com^
 ||rqhtyztv.shop^
 ||rundholz-uhlstaedt.de^
+||rundumstrikot.de^
 ||salessee.shop^
 ||sarl-castelmag.com^
 ||savemosaic.com^
@@ -536,6 +542,7 @@
 ||soltect.de^
 ||sovora-shop.com^
 ||spielbank-badenwurttemberg.de^
+||splima.de^
 ||sportopath.de^
 ||stadlwerk.de^
 ||stadsug.com^
