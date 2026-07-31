@@ -3,14 +3,10 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 620 historical domains from archive.
+# [INFO]    Loaded 627 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 39 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> ellesses.de
-# [NEW]      -> firstgoldshop.com
-# [NEW]      -> kraftfahrrad.de
-# [NEW]      -> lenaskunst.de
-# [NEW]      -> marinesafetygear.com
-# [NEW]      -> rundumstrikot.de
-# [NEW]      -> splima.de
+# [INFO]    Found 41 clean and validated domains on VZ page.
+# [STATS]   Identified 3 BRAND NEW domains! Updating files...
+# [NEW]      -> bundes-finanzservice.de
+# [NEW]      -> nordevantis.de
+# [NEW]      -> werkzeugtechnik-jm.de

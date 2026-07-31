@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-30 06:30:16 UTC
+# Last update: 2026-07-31 06:45:34 UTC
 #
-# Total archived domains:    627
-# New domains added today:   7
+# Total archived domains:    630
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -97,6 +97,7 @@
 ||brookssale.store^
 ||bst-werkzeuge.de^
 ||bukkwood.com^
+||bundes-finanzservice.de^
 ||buyjethose.com^
 ||bxhdui.shop^
 ||bynwatch.de^
@@ -440,6 +441,7 @@
 ||nhbdgy.shop^
 ||nibeguq.com^
 ||nkgartengardenandliving.de^
+||nordevantis.de^
 ||nordic-pellets.de^
 ||nordtaschen.de^
 ||northkayak.de^
@@ -619,6 +621,7 @@
 ||werkzeugbauladen.com^
 ||werkzeuge-maschinen.com^
 ||werkzeugeholz.de^
+||werkzeugtechnik-jm.de^
 ||wertglanzedelmetall.de^
 ||wertlebenshop.com^
 ||westex-handel.de^
