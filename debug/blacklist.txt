@@ -3,10 +3,18 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 627 historical domains from archive.
+# [INFO]    Loaded 630 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 41 clean and validated domains on VZ page.
-# [STATS]   Identified 3 BRAND NEW domains! Updating files...
-# [NEW]      -> bundes-finanzservice.de
-# [NEW]      -> nordevantis.de
-# [NEW]      -> werkzeugtechnik-jm.de
+# [INFO]    Found 53 clean and validated domains on VZ page.
+# [STATS]   Identified 11 BRAND NEW domains! Updating files...
+# [NEW]      -> alskdrmo.shop
+# [NEW]      -> fixeklima.de
+# [NEW]      -> gaborshops.com
+# [NEW]      -> geekjack.net
+# [NEW]      -> ghkmaili.shop
+# [NEW]      -> hwg-gedern.com
+# [NEW]      -> joeholz.com
+# [NEW]      -> market.halewick.com
+# [NEW]      -> nanovault.de
+# [NEW]      -> ph-gartenmaschinen.de
+# [NEW]      -> terraqo.de

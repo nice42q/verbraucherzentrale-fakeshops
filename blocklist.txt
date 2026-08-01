@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-07-31 06:45:34 UTC
+# Last update: 2026-08-01 06:30:38 UTC
 #
-# Total archived domains:    630
-# New domains added today:   3
+# Total archived domains:    641
+# New domains added today:   11
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -17,6 +17,7 @@
 ||aicheleholzgmbh.de^
 ||aktion-motorrad.de^
 ||aktivmaxx.com^
+||alskdrmo.shop^
 ||aluvea.de^
 ||alverogmbh.myshopify.com^
 ||andreaswerkstatt.de^
@@ -233,6 +234,7 @@
 ||festgeld-finder.de^
 ||festgeld-profis.de^
 ||firstgoldshop.com^
+||fixeklima.de^
 ||flexsugges.com^
 ||flora-markt.de^
 ||florina-kaufen.de^
@@ -240,6 +242,7 @@
 ||fundfjord.com^
 ||fussballtrikothaus.com^
 ||gaborshoesisrael.com^
+||gaborshops.com^
 ||gap-outlet.de^
 ||garden-caddy.com^
 ||garden-caddy.de^
@@ -257,6 +260,7 @@
 ||gascovert.com^
 ||gbr-office.de^
 ||gebrauchtwagengarching-sixt.de^
+||geekjack.net^
 ||gelschuhe.de^
 ||gelvibe.de^
 ||gerlinelshop.com^
@@ -264,6 +268,7 @@
 ||get-epicooler.com^
 ||get-epicooler.topashopo.com^
 ||get-omnihear.com^
+||ghkmaili.shop^
 ||glow-garten.com^
 ||gmbhboes.de^
 ||goalkertech.com^
@@ -324,6 +329,7 @@
 ||houselytouchspace.com^
 ||houseofbuys.de^
 ||huard-stammholz.com^
+||hwg-gedern.com^
 ||hyfen-tech.de^
 ||ihreedelmetallprofis.de^
 ||ihrmunzhandler.com^
@@ -337,6 +343,7 @@
 ||jette-handel.de^
 ||jh-machines-nord.com^
 ||jhagriconseil.com^
+||joeholz.com^
 ||jordanmania.de^
 ||josef-gartentechnik.de^
 ||jubin-bicycle.com^
@@ -410,6 +417,7 @@
 ||manfred-schnell.shop^
 ||marie-herbstkg.de^
 ||marinesafetygear.com^
+||market.halewick.com^
 ||marketmarkdowns.com^
 ||martml.com^
 ||maxcapitalkredit.de^
@@ -433,6 +441,7 @@
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
 ||myplayground.store^
+||nanovault.de^
 ||narnos.de^
 ||nestleovae.com^
 ||nestmypad.com^
@@ -469,6 +478,7 @@
 ||pelletkraft.de^
 ||pellets-maschinen.de^
 ||pfannendeck.de^
+||ph-gartenmaschinen.de^
 ||pinggona.de^
 ||pingona.de^
 ||pingona.shop^
@@ -564,6 +574,7 @@
 ||teamstryk.de^
 ||technoant.co^
 ||teeto.de^
+||terraqo.de^
 ||terrariumhaustiere.com^
 ||thegentlemenstore.de^
 ||theisentransports.com^
