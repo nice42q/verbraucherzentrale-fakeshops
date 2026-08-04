@@ -47,6 +47,7 @@
 0.0.0.0 bakta8.myshopify.com
 0.0.0.0 ballqen.com
 0.0.0.0 bargainbayou.com
+0.0.0.0 baustoffe-sales.com
 0.0.0.0 bawz.store
 0.0.0.0 bayerwald-heizoel.de
 0.0.0.0 bazaarlydeals.com
@@ -70,6 +71,7 @@
 0.0.0.0 bike-trailer24.de
 0.0.0.0 bikecube.de
 0.0.0.0 bikegadgetde.com
+0.0.0.0 bioenergielogistik.de
 0.0.0.0 bitloonx.de
 0.0.0.0 bloemker-holz.de
 0.0.0.0 bonvya.com
@@ -239,6 +241,7 @@
 0.0.0.0 garden-caddy.de
 0.0.0.0 gardensvergen30.myshopify.com
 0.0.0.0 gardensvergen36.myshopify.com
+0.0.0.0 garten-market.com
 0.0.0.0 gartenersatz.de
 0.0.0.0 gartenfarbewelt.com
 0.0.0.0 garteni.de
@@ -554,6 +557,7 @@
 0.0.0.0 steeg-handel.de
 0.0.0.0 steinberg-munchen.com
 0.0.0.0 stella-mccartney.de
+0.0.0.0 stilwerk.shop
 0.0.0.0 strafverteidigerbuero-dortmund.de
 0.0.0.0 strobllandmaschinen.de
 0.0.0.0 supplierseu.com
