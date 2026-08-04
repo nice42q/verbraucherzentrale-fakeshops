@@ -5,6 +5,10 @@ import os
 import sys
 import json
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+from fake_useragent import UserAgent, FakeUserAgentError
+import random
 
 URL = "https://warnung.fakeshop-finder.de/"
 DEBUG_DIR = "debug"
@@ -49,6 +53,20 @@ def clean_domain(raw_string):
                 return None
     return None
 
+def get_random_user_agent():
+    try:
+        ua = UserAgent(browsers=["chrome", "firefox", "edge"])
+        return ua.random
+    except FakeUserAgentError:
+        # Fallback list – current, real User‑Agents (May 2026)
+        fallback_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.4; rv:145.0) Gecko/20100101 Firefox/145.0",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
+        ]
+        return random.choice(fallback_agents)
+
 def load_existing_domains():
     existing = set()
     if os.path.exists(DOMAINS_FILE):
@@ -64,15 +82,40 @@ def load_existing_domains():
 
 def fetch_vz_domains():
     log("[SYSTEM]", f"Fetching VZ warnings from {URL} ...")
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
     
+    session = requests.Session()
+    
+    # Basis‑Header (ohne User‑Agent – der wird pro Anfrage neu gesetzt)
+    session.headers.update({
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "de,en-US;q=0.7,en;q=0.3",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+    })
+
+    # Retry‑Strategie (max. 5 Versuche, exponentielle Backoffs)
+    retry_strategy = Retry(
+        total=5,
+        backoff_factor=0.5,  # Wartezeiten: 0.5s, 1s, 2s, 4s, 8s
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+
+    # User‑Agent pro Anfrage zufällig setzen
+    session.headers.update({"User-Agent": get_random_user_agent()})
+
     try:
-        response = requests.get(URL, headers=headers, timeout=20)
+        response = session.get(URL, timeout=30)
         response.raise_for_status()
-    except Exception as e:
-        log("[ERROR]", f"Connection failed: {e}")
+    except requests.exceptions.RequestException as e:
+        log("[ERROR]", f"Connection failed after retries: {e}")
+        # Optional: HTML für Fehleranalyse speichern
+        with open(os.path.join(DEBUG_DIR, "failed_page.html"), "w", encoding="utf-8") as f:
+            f.write(response.text if 'response' in locals() else "No response")
         sys.exit(1)
 
     soup = BeautifulSoup(response.text, 'html.parser')
