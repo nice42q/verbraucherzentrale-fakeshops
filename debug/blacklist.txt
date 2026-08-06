@@ -3,9 +3,8 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 645 historical domains from archive.
+# [INFO]    Loaded 647 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 53 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> eshop.kestmere.com
-# [NEW]      -> giebel-motorgeraetekg.de
+# [STATS]   Identified 1 BRAND NEW domains! Updating files...
+# [NEW]      -> verbraucherzentrale-finanzen.org
