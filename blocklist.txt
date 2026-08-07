@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-06 06:32:50 UTC
+# Last update: 2026-08-07 05:41:31 UTC
 #
-# Total archived domains:    648
-# New domains added today:   1
+# Total archived domains:    661
+# New domains added today:   13
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -20,6 +20,7 @@
 ||alskdrmo.shop^
 ||aluvea.de^
 ||alverogmbh.myshopify.com^
+||am-onlinehandel.de^
 ||andreaswerkstatt.de^
 ||angebote-kauf.de^
 ||anhaenger-klasen.de^
@@ -82,6 +83,7 @@
 ||bikegadgetde.com^
 ||bioenergielogistik.de^
 ||bitloonx.de^
+||blasgarten.de^
 ||bloemker-holz.de^
 ||bonvya.com^
 ||boxloadpallet.com^
@@ -167,6 +169,7 @@
 ||deutschlandtv-4k.de^
 ||dexer-handel.de^
 ||dhg-versand.de^
+||dieholzstucke.de^
 ||digitalhandel.shop^
 ||digitalkontor24.de^
 ||direktbericht.de^
@@ -311,6 +314,7 @@
 ||heizoel-fuchs24.de^
 ||heizoel-zentrale.de^
 ||heizprohandel.com^
+||heizwelt24.de^
 ||helmuteco.com^
 ||heyi-handel.de^
 ||hinato-tech.de^
@@ -382,6 +386,7 @@
 ||klangaeder.com^
 ||kleinre.myshopify.com^
 ||klenkholzag.de^
+||kmotorrad.de^
 ||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
@@ -427,11 +432,13 @@
 ||martml.com^
 ||maxcapitalkredit.de^
 ||maycoffeehouse.shop^
+||mediamarkt-gg.de^
 ||mein.lhk.de-plushilfe.com^
 ||meistervolt.de^
 ||mekura.de^
 ||midea-europa.de^
 ||midea-klima.de^
+||midea-klimaanlage.de^
 ||mideaklima.de^
 ||milono.de^
 ||ministryoftoys.eu^
@@ -443,6 +450,8 @@
 ||morenutritionde.shop^
 ||moriaccessoires.com^
 ||mossvibers.com^
+||motoproof.de^
+||mrifhvn.shop^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
 ||myplayground.store^
@@ -456,6 +465,7 @@
 ||nibeguq.com^
 ||nkgartengardenandliving.de^
 ||nordevantis.de^
+||nordhaus-handel.de^
 ||nordic-pellets.de^
 ||nordtaschen.de^
 ||northkayak.de^
@@ -571,6 +581,7 @@
 ||stilwerk.shop^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
+||sufrema-kaufen.de^
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
 ||tapex-tapes.de^
@@ -620,6 +631,7 @@
 ||vitrinaox.de^
 ||voglbaugeschaftgmbh.de^
 ||volkeep.de^
+||volkmann-rechtsanwaelte.de^
 ||volkswagen-fahrzeuge.de^
 ||volthausgeraete.de^
 ||voltradbike.de^
@@ -646,6 +658,7 @@
 ||westex-handell.de^
 ||wilhelm-daume-gmbh.myshopify.com^
 ||wilkesarahwelpen.de^
+||winklers-handel.de^
 ||wisdom-heimbedarf.com^
 ||wood-line24.de^
 ||worldofwineshop.de^

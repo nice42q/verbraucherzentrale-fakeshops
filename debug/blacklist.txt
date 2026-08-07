@@ -3,8 +3,20 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 647 historical domains from archive.
+# [INFO]    Loaded 648 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 53 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> verbraucherzentrale-finanzen.org
+# [INFO]    Found 64 clean and validated domains on VZ page.
+# [STATS]   Identified 13 BRAND NEW domains! Updating files...
+# [NEW]      -> am-onlinehandel.de
+# [NEW]      -> blasgarten.de
+# [NEW]      -> dieholzstucke.de
+# [NEW]      -> heizwelt24.de
+# [NEW]      -> kmotorrad.de
+# [NEW]      -> mediamarkt-gg.de
+# [NEW]      -> midea-klimaanlage.de
+# [NEW]      -> motoproof.de
+# [NEW]      -> mrifhvn.shop
+# [NEW]      -> nordhaus-handel.de
+# [NEW]      -> sufrema-kaufen.de
+# [NEW]      -> volkmann-rechtsanwaelte.de
+# [NEW]      -> winklers-handel.de
