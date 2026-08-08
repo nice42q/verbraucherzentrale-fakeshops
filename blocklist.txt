@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-07 05:41:31 UTC
+# Last update: 2026-08-08 04:58:40 UTC
 #
-# Total archived domains:    661
+# Total archived domains:    674
 # New domains added today:   13
 # -------------------------------------------
 #
@@ -204,7 +204,9 @@
 ||elwenkoffer.de^
 ||elwenrimowa.de^
 ||emmakeller.de^
+||energie-schnell.com^
 ||energiepreise24.com^
+||ennssale.shop^
 ||epicooler.checkoutera.com^
 ||epicooler.com^
 ||epicoolerde.consumereviewsguide.com^
@@ -213,6 +215,7 @@
 ||ersatzteilesale.com^
 ||erzgebirger-uhrwerk.com^
 ||eshop.kestmere.com^
+||eshop.quarryby.com^
 ||ettern24.de^
 ||eufinancetechtoday.com^
 ||eurlexodus.com^
@@ -239,6 +242,7 @@
 ||felino-sport.de^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
+||findaten.de^
 ||firstgoldshop.com^
 ||fixeklima.de^
 ||flexsugges.com^
@@ -252,6 +256,7 @@
 ||gap-outlet.de^
 ||garden-caddy.com^
 ||garden-caddy.de^
+||garden-de.myshopify.com^
 ||gardensvergen30.myshopify.com^
 ||gardensvergen36.myshopify.com^
 ||garten-market.com^
@@ -299,6 +304,7 @@
 ||handelshaus-buchem.de^
 ||handtholzhandelgmbh.de^
 ||hangel-handel.de^
+||hannibalcorp.com^
 ||hansacontainergmbh.de^
 ||hartholz-briketts.de^
 ||haus-apotheke.eu^
@@ -386,6 +392,7 @@
 ||klangaeder.com^
 ||kleinre.myshopify.com^
 ||klenkholzag.de^
+||klimacare24.shop^
 ||kmotorrad.de^
 ||koppermuller-markt.de^
 ||korfys.shop^
@@ -457,6 +464,7 @@
 ||myplayground.store^
 ||nanovault.de^
 ||narnos.de^
+||nautikbedarf.com^
 ||nestleovae.com^
 ||nestmypad.com^
 ||neurotweinrabatt.com^
@@ -536,6 +544,7 @@
 ||rundholz-uhlstaedt.de^
 ||rundumstrikot.de^
 ||salessee.shop^
+||samoonde.com^
 ||sarl-castelmag.com^
 ||savemosaic.com^
 ||savenesting.com^
@@ -579,8 +588,10 @@
 ||steinberg-munchen.com^
 ||stella-mccartney.de^
 ||stilwerk.shop^
+||store.quarryby.com^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
+||suessegenuss.com^
 ||sufrema-kaufen.de^
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
@@ -618,6 +629,7 @@
 ||valaires.com^
 ||valuedealbox.com^
 ||vanofashion.de^
+||vdel-electromenager.com^
 ||vega-energy.de^
 ||venorital.com^
 ||venticlub.de^
@@ -635,6 +647,7 @@
 ||volkswagen-fahrzeuge.de^
 ||volthausgeraete.de^
 ||voltradbike.de^
+||vone-shop.com^
 ||vynxaria.com^
 ||waerme-pumpen24.de^
 ||waldmannmode.de^
