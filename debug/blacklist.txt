@@ -3,20 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 661 historical domains from archive.
+# [INFO]    Loaded 674 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 77 clean and validated domains on VZ page.
-# [STATS]   Identified 13 BRAND NEW domains! Updating files...
-# [NEW]      -> energie-schnell.com
-# [NEW]      -> ennssale.shop
-# [NEW]      -> eshop.quarryby.com
-# [NEW]      -> findaten.de
-# [NEW]      -> garden-de.myshopify.com
-# [NEW]      -> hannibalcorp.com
-# [NEW]      -> klimacare24.shop
-# [NEW]      -> nautikbedarf.com
-# [NEW]      -> samoonde.com
-# [NEW]      -> store.quarryby.com
-# [NEW]      -> suessegenuss.com
-# [NEW]      -> vdel-electromenager.com
-# [NEW]      -> vone-shop.com
+# [INFO]    Found 68 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
