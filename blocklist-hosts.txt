@@ -107,6 +107,7 @@
 0.0.0.0 center-staubsauger.de
 0.0.0.0 cervaluxe.com
 0.0.0.0 charj7.myshopify.com
+0.0.0.0 chleaguy.com
 0.0.0.0 cibomat.com
 0.0.0.0 cibomatt.com
 0.0.0.0 cinderella-braut.de
@@ -215,6 +216,7 @@
 0.0.0.0 expressbrennholz.de
 0.0.0.0 extralangrotary.com
 0.0.0.0 ezigaretteplus.com
+0.0.0.0 fahrrad-zukunft.de
 0.0.0.0 fahrradbulls.com
 0.0.0.0 fahrradcitat.de
 0.0.0.0 fahrradco.de

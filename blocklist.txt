@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-08 04:58:40 UTC
+# Last update: 2026-08-11 05:10:56 UTC
 #
-# Total archived domains:    674
-# New domains added today:   13
+# Total archived domains:    676
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -116,6 +116,7 @@
 ||center-staubsauger.de^
 ||cervaluxe.com^
 ||charj7.myshopify.com^
+||chleaguy.com^
 ||cibomat.com^
 ||cibomatt.com^
 ||cinderella-braut.de^
@@ -224,6 +225,7 @@
 ||expressbrennholz.de^
 ||extralangrotary.com^
 ||ezigaretteplus.com^
+||fahrrad-zukunft.de^
 ||fahrradbulls.com^
 ||fahrradcitat.de^
 ||fahrradco.de^
