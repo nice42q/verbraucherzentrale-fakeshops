@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-11 05:10:56 UTC
+# Last update: 2026-08-12 05:40:01 UTC
 #
-# Total archived domains:    676
-# New domains added today:   2
+# Total archived domains:    677
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -331,6 +331,7 @@
 ||hohlfeldt-garten.de^
 ||holz-pellet-bestequalitat.de^
 ||holz-premium.de^
+||holzbriketts-profi.de^
 ||holzhambach.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^

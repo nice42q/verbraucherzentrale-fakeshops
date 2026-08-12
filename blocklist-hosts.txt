@@ -322,6 +322,7 @@
 0.0.0.0 hohlfeldt-garten.de
 0.0.0.0 holz-pellet-bestequalitat.de
 0.0.0.0 holz-premium.de
+0.0.0.0 holzbriketts-profi.de
 0.0.0.0 holzhambach.com
 0.0.0.0 holzkerssenbrock.de
 0.0.0.0 holzlangbau.de
