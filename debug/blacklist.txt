@@ -3,8 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 676 historical domains from archive.
+# [INFO]    Loaded 677 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 68 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> holzbriketts-profi.de
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
