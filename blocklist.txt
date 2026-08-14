@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-12 05:40:01 UTC
+# Last update: 2026-08-14 05:38:36 UTC
 #
-# Total archived domains:    677
-# New domains added today:   1
+# Total archived domains:    683
+# New domains added today:   6
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -82,6 +82,7 @@
 ||bikecube.de^
 ||bikegadgetde.com^
 ||bioenergielogistik.de^
+||bioholzpellets.de^
 ||bitloonx.de^
 ||blasgarten.de^
 ||bloemker-holz.de^
@@ -180,6 +181,7 @@
 ||dragxel.store^
 ||dreamsleepz.de^
 ||drune.de^
+||dunstabzugshaubenfilter24.com^
 ||dunstro.shop^
 ||dwellgallery.com^
 ||dwgbeautyshop.com^
@@ -236,6 +238,7 @@
 ||fahrradladen-gronau.de^
 ||fahrradladen-klasen.de^
 ||fahrradladenbrand.de^
+||falthammer-markt.com^
 ||fankluft.com^
 ||fankluft.wickwondershop.com^
 ||fasoo.de^
@@ -284,6 +287,7 @@
 ||get-omnihear.com^
 ||ghkmaili.shop^
 ||giebel-motorgeraetekg.de^
+||global-kaufhaus.com^
 ||glow-garten.com^
 ||gmbhboes.de^
 ||goalkertech.com^
@@ -419,6 +423,7 @@
 ||liaonmskj.com^
 ||liehrforstholz.de^
 ||likdl.shop^
+||limon-shop.at^
 ||living-smarter24.com^
 ||livohaus.com^
 ||loaspool.de^
@@ -523,6 +528,7 @@
 ||profitipp5.de^
 ||pronetivaro.com^
 ||quellshop.de^
+||ra-owl.de^
 ||rabattkorb.de^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
