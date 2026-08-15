@@ -3,13 +3,11 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 677 historical domains from archive.
+# [INFO]    Loaded 683 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 70 clean and validated domains on VZ page.
-# [STATS]   Identified 6 BRAND NEW domains! Updating files...
-# [NEW]      -> bioholzpellets.de
-# [NEW]      -> dunstabzugshaubenfilter24.com
-# [NEW]      -> falthammer-markt.com
-# [NEW]      -> global-kaufhaus.com
-# [NEW]      -> limon-shop.at
-# [NEW]      -> ra-owl.de
+# [INFO]    Found 74 clean and validated domains on VZ page.
+# [STATS]   Identified 4 BRAND NEW domains! Updating files...
+# [NEW]      -> hornwald.de
+# [NEW]      -> mammutjacke.com
+# [NEW]      -> mototeilecenter.com
+# [NEW]      -> solidewaren.com

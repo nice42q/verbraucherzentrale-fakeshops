@@ -338,6 +338,7 @@
 0.0.0.0 homeofficeradar.de
 0.0.0.0 horizontix.de
 0.0.0.0 hornwald.com
+0.0.0.0 hornwald.de
 0.0.0.0 hortura.de
 0.0.0.0 houselytouchspace.com
 0.0.0.0 houseofbuys.de
@@ -430,6 +431,7 @@
 0.0.0.0 mahroboter-freischneider.de
 0.0.0.0 mahroboterhaus.myshopify.com
 0.0.0.0 major-agentur.de
+0.0.0.0 mammutjacke.com
 0.0.0.0 manfred-schnell.shop
 0.0.0.0 marie-herbstkg.de
 0.0.0.0 marinesafetygear.com
@@ -457,6 +459,7 @@
 0.0.0.0 moriaccessoires.com
 0.0.0.0 mossvibers.com
 0.0.0.0 motoproof.de
+0.0.0.0 mototeilecenter.com
 0.0.0.0 mrifhvn.shop
 0.0.0.0 muenzenangebot24.com
 0.0.0.0 muenzenexpertshop.com
@@ -575,6 +578,7 @@
 0.0.0.0 softdays-shop.de
 0.0.0.0 solagoshop.de
 0.0.0.0 solarmira.de
+0.0.0.0 solidewaren.com
 0.0.0.0 soltect.de
 0.0.0.0 sovora-shop.com
 0.0.0.0 spielbank-badenwurttemberg.de

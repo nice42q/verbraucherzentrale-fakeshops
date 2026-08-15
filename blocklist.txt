@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-14 05:38:36 UTC
+# Last update: 2026-08-15 04:33:25 UTC
 #
-# Total archived domains:    683
-# New domains added today:   6
+# Total archived domains:    687
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -347,6 +347,7 @@
 ||homeofficeradar.de^
 ||horizontix.de^
 ||hornwald.com^
+||hornwald.de^
 ||hortura.de^
 ||houselytouchspace.com^
 ||houseofbuys.de^
@@ -439,6 +440,7 @@
 ||mahroboter-freischneider.de^
 ||mahroboterhaus.myshopify.com^
 ||major-agentur.de^
+||mammutjacke.com^
 ||manfred-schnell.shop^
 ||marie-herbstkg.de^
 ||marinesafetygear.com^
@@ -466,6 +468,7 @@
 ||moriaccessoires.com^
 ||mossvibers.com^
 ||motoproof.de^
+||mototeilecenter.com^
 ||mrifhvn.shop^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
@@ -584,6 +587,7 @@
 ||softdays-shop.de^
 ||solagoshop.de^
 ||solarmira.de^
+||solidewaren.com^
 ||soltect.de^
 ||sovora-shop.com^
 ||spielbank-badenwurttemberg.de^
