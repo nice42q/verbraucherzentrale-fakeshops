@@ -3,11 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 683 historical domains from archive.
+# [INFO]    Loaded 687 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 74 clean and validated domains on VZ page.
-# [STATS]   Identified 4 BRAND NEW domains! Updating files...
-# [NEW]      -> hornwald.de
-# [NEW]      -> mammutjacke.com
-# [NEW]      -> mototeilecenter.com
-# [NEW]      -> solidewaren.com
+# [INFO]    Found 66 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
