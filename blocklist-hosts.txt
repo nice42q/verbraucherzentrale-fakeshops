@@ -463,6 +463,7 @@
 0.0.0.0 mrifhvn.shop
 0.0.0.0 muenzenangebot24.com
 0.0.0.0 muenzenexpertshop.com
+0.0.0.0 muenzenvault.com
 0.0.0.0 myplayground.store
 0.0.0.0 nanovault.de
 0.0.0.0 narnos.de

@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-15 04:33:25 UTC
+# Last update: 2026-08-18 04:37:07 UTC
 #
-# Total archived domains:    687
-# New domains added today:   4
+# Total archived domains:    688
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -472,6 +472,7 @@
 ||mrifhvn.shop^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
+||muenzenvault.com^
 ||myplayground.store^
 ||nanovault.de^
 ||narnos.de^
