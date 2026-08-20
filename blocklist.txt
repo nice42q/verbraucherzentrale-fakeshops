@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-18 04:37:07 UTC
+# Last update: 2026-08-20 04:38:28 UTC
 #
-# Total archived domains:    688
-# New domains added today:   1
+# Total archived domains:    699
+# New domains added today:   11
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -87,6 +87,7 @@
 ||blasgarten.de^
 ||bloemker-holz.de^
 ||bonvya.com^
+||boomtownstreetwear.de^
 ||boxloadpallet.com^
 ||bpbioheat.de^
 ||braunsale.de^
@@ -225,8 +226,10 @@
 ||euvendorshub.online^
 ||exklusivrad.de^
 ||expressbrennholz.de^
+||expresskaminholz24.de^
 ||extralangrotary.com^
 ||ezigaretteplus.com^
+||fahrklarheit.de^
 ||fahrrad-zukunft.de^
 ||fahrradbulls.com^
 ||fahrradcitat.de^
@@ -255,6 +258,7 @@
 ||florina-kaufen.de^
 ||fumot-shop.de^
 ||fundfjord.com^
+||furneo-handel.com^
 ||fussballtrikothaus.com^
 ||gaborshoesisrael.com^
 ||gaborshops.com^
@@ -324,6 +328,7 @@
 ||heizholzbrikett.de^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
+||heizoel-welle.de^
 ||heizoel-zentrale.de^
 ||heizprohandel.com^
 ||heizwelt24.de^
@@ -345,6 +350,7 @@
 ||home-gear24.de^
 ||home-geare.de^
 ||homeofficeradar.de^
+||homvora.de^
 ||horizontix.de^
 ||hornwald.com^
 ||hornwald.de^
@@ -456,9 +462,11 @@
 ||midea-europa.de^
 ||midea-klima.de^
 ||midea-klimaanlage.de^
+||midea-klimashop.de^
 ||mideaklima.de^
 ||milono.de^
 ||ministryoftoys.eu^
+||mm-energies.de^
 ||mn.magazinmodern.de^
 ||mobel-lenk.shop^
 ||mobel-lenk.store^
@@ -469,6 +477,7 @@
 ||mossvibers.com^
 ||motoproof.de^
 ||mototeilecenter.com^
+||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
@@ -565,6 +574,7 @@
 ||schirmlieb.store^
 ||schmidmodesalzburg.de^
 ||schmidts-handel.de^
+||schnellenberger-haus.de^
 ||schuhhaus-greten.de^
 ||schumann-markt.com^
 ||secure.shopvio.co^
@@ -686,6 +696,7 @@
 ||wilhelm-daume-gmbh.myshopify.com^
 ||wilkesarahwelpen.de^
 ||winklers-handel.de^
+||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
 ||wood-line24.de^
 ||worldofwineshop.de^
