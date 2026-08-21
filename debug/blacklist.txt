@@ -3,18 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 688 historical domains from archive.
+# [INFO]    Loaded 699 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 55 clean and validated domains on VZ page.
-# [STATS]   Identified 11 BRAND NEW domains! Updating files...
-# [NEW]      -> boomtownstreetwear.de
-# [NEW]      -> expresskaminholz24.de
-# [NEW]      -> fahrklarheit.de
-# [NEW]      -> furneo-handel.com
-# [NEW]      -> heizoel-welle.de
-# [NEW]      -> homvora.de
-# [NEW]      -> midea-klimashop.de
-# [NEW]      -> mm-energies.de
-# [NEW]      -> mpq-ebiketechnik.de
-# [NEW]      -> schnellenberger-haus.de
-# [NEW]      -> winklers-wohnpower.de
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
