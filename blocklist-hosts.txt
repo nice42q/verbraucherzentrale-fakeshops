@@ -417,6 +417,7 @@
 0.0.0.0 larc90.myshopify.com
 0.0.0.0 lasten-anhanger.com
 0.0.0.0 laufstyle.com
+0.0.0.0 lebenskernde.com
 0.0.0.0 lenaskunst.de
 0.0.0.0 liaonmskj.com
 0.0.0.0 liehrforstholz.de
@@ -671,6 +672,7 @@
 0.0.0.0 wandtopay.com
 0.0.0.0 wasser-kaiser.com
 0.0.0.0 wealthicatorplattform.de
+0.0.0.0 weber-baumarkt.com
 0.0.0.0 weikershem.de
 0.0.0.0 welttrikot.com
 0.0.0.0 werkerswelt-moelln.de

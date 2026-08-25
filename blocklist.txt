@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-20 04:38:28 UTC
+# Last update: 2026-08-25 04:40:10 UTC
 #
-# Total archived domains:    699
-# New domains added today:   11
+# Total archived domains:    701
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -426,6 +426,7 @@
 ||larc90.myshopify.com^
 ||lasten-anhanger.com^
 ||laufstyle.com^
+||lebenskernde.com^
 ||lenaskunst.de^
 ||liaonmskj.com^
 ||liehrforstholz.de^
@@ -680,6 +681,7 @@
 ||wandtopay.com^
 ||wasser-kaiser.com^
 ||wealthicatorplattform.de^
+||weber-baumarkt.com^
 ||weikershem.de^
 ||welttrikot.com^
 ||werkerswelt-moelln.de^
