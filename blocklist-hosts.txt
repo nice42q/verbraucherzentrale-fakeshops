@@ -129,6 +129,7 @@
 0.0.0.0 cschwindt24.de
 0.0.0.0 csschwindt.de
 0.0.0.0 cusbseason.de
+0.0.0.0 dailyberlin.de
 0.0.0.0 das-feel-natural.de
 0.0.0.0 dasoo.de
 0.0.0.0 davesbiomarkt.de
@@ -181,6 +182,7 @@
 0.0.0.0 dztraktoren.de
 0.0.0.0 e-bikermarkt.de
 0.0.0.0 ebike-direct24.de
+0.0.0.0 ebikeprofi24.de
 0.0.0.0 ecobrennholz.de
 0.0.0.0 ecoholz-gmbh.eu
 0.0.0.0 econicosus.de
@@ -310,6 +312,7 @@
 0.0.0.0 hartholz-briketts.de
 0.0.0.0 haus-apotheke.eu
 0.0.0.0 hausgeratewelt.com
+0.0.0.0 haushaltsgeraete-profis.de
 0.0.0.0 heidel-heizoel.de
 0.0.0.0 heimhof24.de
 0.0.0.0 heinrich-handel.com

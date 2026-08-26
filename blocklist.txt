@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-25 04:40:10 UTC
+# Last update: 2026-08-26 04:41:02 UTC
 #
-# Total archived domains:    701
-# New domains added today:   2
+# Total archived domains:    704
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -138,6 +138,7 @@
 ||cschwindt24.de^
 ||csschwindt.de^
 ||cusbseason.de^
+||dailyberlin.de^
 ||das-feel-natural.de^
 ||dasoo.de^
 ||davesbiomarkt.de^
@@ -190,6 +191,7 @@
 ||dztraktoren.de^
 ||e-bikermarkt.de^
 ||ebike-direct24.de^
+||ebikeprofi24.de^
 ||ecobrennholz.de^
 ||ecoholz-gmbh.eu^
 ||econicosus.de^
@@ -319,6 +321,7 @@
 ||hartholz-briketts.de^
 ||haus-apotheke.eu^
 ||hausgeratewelt.com^
+||haushaltsgeraete-profis.de^
 ||heidel-heizoel.de^
 ||heimhof24.de^
 ||heinrich-handel.com^
