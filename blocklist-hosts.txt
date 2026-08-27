@@ -45,6 +45,7 @@
 0.0.0.0 avientrix.de
 0.0.0.0 baboktransports.com
 0.0.0.0 bagtrendshop.com
+0.0.0.0 bahntechnik-garten.de
 0.0.0.0 bakta8.myshopify.com
 0.0.0.0 ballqen.com
 0.0.0.0 bargainbayou.com
@@ -108,6 +109,7 @@
 0.0.0.0 cbvdshj.com
 0.0.0.0 center-staubsauger.de
 0.0.0.0 cervaluxe.com
+0.0.0.0 cfbl-premiumholz.de
 0.0.0.0 charj7.myshopify.com
 0.0.0.0 chleaguy.com
 0.0.0.0 cibomat.com
@@ -244,6 +246,7 @@
 0.0.0.0 festgeld-finder.de
 0.0.0.0 festgeld-profis.de
 0.0.0.0 findaten.de
+0.0.0.0 finpruefer.de
 0.0.0.0 firstgoldshop.com
 0.0.0.0 fixeklima.de
 0.0.0.0 flexsugges.com
@@ -329,6 +332,7 @@
 0.0.0.0 helmuteco.com
 0.0.0.0 heyi-handel.de
 0.0.0.0 hinato-tech.de
+0.0.0.0 hjz-handel.de
 0.0.0.0 hks-versand.de
 0.0.0.0 hoffmannholz.com
 0.0.0.0 hohlfeldt-garten.de
@@ -414,6 +418,7 @@
 0.0.0.0 kruegermadl.de
 0.0.0.0 kuchenheim.shop
 0.0.0.0 labexholz.de
+0.0.0.0 lamerahomemobel.shop
 0.0.0.0 lan-gensallz.com
 0.0.0.0 lan-gensalz.com
 0.0.0.0 lan-gensalz.de
@@ -458,6 +463,7 @@
 0.0.0.0 midea-klima.de
 0.0.0.0 midea-klimaanlage.de
 0.0.0.0 midea-klimashop.de
+0.0.0.0 midea-klimawelt.de
 0.0.0.0 mideaklima.de
 0.0.0.0 milono.de
 0.0.0.0 ministryoftoys.eu
@@ -481,6 +487,7 @@
 0.0.0.0 nanovault.de
 0.0.0.0 narnos.de
 0.0.0.0 nautikbedarf.com
+0.0.0.0 nebelrad.de
 0.0.0.0 nestleovae.com
 0.0.0.0 nestmypad.com
 0.0.0.0 neurotweinrabatt.com
@@ -528,6 +535,7 @@
 0.0.0.0 polluxer.com
 0.0.0.0 porcelainchoice.com
 0.0.0.0 pourra.shop
+0.0.0.0 praxisklinik-muelheim.de
 0.0.0.0 prazisionsteile.com
 0.0.0.0 premieumgmbh.de
 0.0.0.0 prestigemetalle.de
@@ -593,9 +601,11 @@
 0.0.0.0 softdays-shop.de
 0.0.0.0 solagoshop.de
 0.0.0.0 solarmira.de
+0.0.0.0 solarosales-green.com
 0.0.0.0 solidewaren.com
 0.0.0.0 soltect.de
 0.0.0.0 sovora-shop.com
+0.0.0.0 sparhaustechnik.de
 0.0.0.0 spielbank-badenwurttemberg.de
 0.0.0.0 splima.de
 0.0.0.0 sportopath.de
@@ -673,6 +683,7 @@
 0.0.0.0 wampole.de
 0.0.0.0 wampole.shop
 0.0.0.0 wandtopay.com
+0.0.0.0 waschmaschinen-spezialist.de
 0.0.0.0 wasser-kaiser.com
 0.0.0.0 wealthicatorplattform.de
 0.0.0.0 weber-baumarkt.com

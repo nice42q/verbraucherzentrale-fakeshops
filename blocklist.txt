@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-26 04:41:02 UTC
+# Last update: 2026-08-27 15:02:15 UTC
 #
-# Total archived domains:    704
-# New domains added today:   3
+# Total archived domains:    715
+# New domains added today:   11
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -54,6 +54,7 @@
 ||avientrix.de^
 ||baboktransports.com^
 ||bagtrendshop.com^
+||bahntechnik-garten.de^
 ||bakta8.myshopify.com^
 ||ballqen.com^
 ||bargainbayou.com^
@@ -117,6 +118,7 @@
 ||cbvdshj.com^
 ||center-staubsauger.de^
 ||cervaluxe.com^
+||cfbl-premiumholz.de^
 ||charj7.myshopify.com^
 ||chleaguy.com^
 ||cibomat.com^
@@ -253,6 +255,7 @@
 ||festgeld-finder.de^
 ||festgeld-profis.de^
 ||findaten.de^
+||finpruefer.de^
 ||firstgoldshop.com^
 ||fixeklima.de^
 ||flexsugges.com^
@@ -338,6 +341,7 @@
 ||helmuteco.com^
 ||heyi-handel.de^
 ||hinato-tech.de^
+||hjz-handel.de^
 ||hks-versand.de^
 ||hoffmannholz.com^
 ||hohlfeldt-garten.de^
@@ -423,6 +427,7 @@
 ||kruegermadl.de^
 ||kuchenheim.shop^
 ||labexholz.de^
+||lamerahomemobel.shop^
 ||lan-gensallz.com^
 ||lan-gensalz.com^
 ||lan-gensalz.de^
@@ -467,6 +472,7 @@
 ||midea-klima.de^
 ||midea-klimaanlage.de^
 ||midea-klimashop.de^
+||midea-klimawelt.de^
 ||mideaklima.de^
 ||milono.de^
 ||ministryoftoys.eu^
@@ -490,6 +496,7 @@
 ||nanovault.de^
 ||narnos.de^
 ||nautikbedarf.com^
+||nebelrad.de^
 ||nestleovae.com^
 ||nestmypad.com^
 ||neurotweinrabatt.com^
@@ -537,6 +544,7 @@
 ||polluxer.com^
 ||porcelainchoice.com^
 ||pourra.shop^
+||praxisklinik-muelheim.de^
 ||prazisionsteile.com^
 ||premieumgmbh.de^
 ||prestigemetalle.de^
@@ -602,9 +610,11 @@
 ||softdays-shop.de^
 ||solagoshop.de^
 ||solarmira.de^
+||solarosales-green.com^
 ||solidewaren.com^
 ||soltect.de^
 ||sovora-shop.com^
+||sparhaustechnik.de^
 ||spielbank-badenwurttemberg.de^
 ||splima.de^
 ||sportopath.de^
@@ -682,6 +692,7 @@
 ||wampole.de^
 ||wampole.shop^
 ||wandtopay.com^
+||waschmaschinen-spezialist.de^
 ||wasser-kaiser.com^
 ||wealthicatorplattform.de^
 ||weber-baumarkt.com^
