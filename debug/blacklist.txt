@@ -3,18 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 704 historical domains from archive.
+# [INFO]    Loaded 715 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 42 clean and validated domains on VZ page.
-# [STATS]   Identified 11 BRAND NEW domains! Updating files...
-# [NEW]      -> bahntechnik-garten.de
-# [NEW]      -> cfbl-premiumholz.de
-# [NEW]      -> finpruefer.de
-# [NEW]      -> hjz-handel.de
-# [NEW]      -> lamerahomemobel.shop
-# [NEW]      -> midea-klimawelt.de
-# [NEW]      -> nebelrad.de
-# [NEW]      -> praxisklinik-muelheim.de
-# [NEW]      -> solarosales-green.com
-# [NEW]      -> sparhaustechnik.de
-# [NEW]      -> waschmaschinen-spezialist.de
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
