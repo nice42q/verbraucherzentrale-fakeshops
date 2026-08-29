@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-27 15:02:15 UTC
+# Last update: 2026-08-29 10:53:46 UTC
 #
-# Total archived domains:    715
-# New domains added today:   11
+# Total archived domains:    732
+# New domains added today:   17
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -67,6 +67,7 @@
 ||belieul-stammholz.com^
 ||beratify.de^
 ||bergetappe-fahrradladen.de^
+||bergmann-outdoor.com^
 ||bergschatz.de^
 ||berichtkfz.de^
 ||berichtprofi.de^
@@ -78,6 +79,7 @@
 ||betashop-gmbh.com^
 ||betrugs-check.de^
 ||betrugsrecht.de^
+||bewegwelt.myshopify.com^
 ||beyham.com^
 ||bike-trailer24.de^
 ||bikecube.de^
@@ -194,6 +196,7 @@
 ||e-bikermarkt.de^
 ||ebike-direct24.de^
 ||ebikeprofi24.de^
+||ebm-heimwerk.com^
 ||ecobrennholz.de^
 ||ecoholz-gmbh.eu^
 ||econicosus.de^
@@ -227,6 +230,7 @@
 ||ettern24.de^
 ||eufinancetechtoday.com^
 ||eurlexodus.com^
+||eurotech-diamant.de^
 ||euvendorshub.online^
 ||exklusivrad.de^
 ||expressbrennholz.de^
@@ -327,6 +331,7 @@
 ||haushaltsgeraete-profis.de^
 ||heidel-heizoel.de^
 ||heimhof24.de^
+||heineoutlet.com^
 ||heinrich-handel.com^
 ||heiseno.de^
 ||heiz-fachmann.de^
@@ -339,6 +344,7 @@
 ||heizprohandel.com^
 ||heizwelt24.de^
 ||helmuteco.com^
+||hensel-markt.com^
 ||heyi-handel.de^
 ||hinato-tech.de^
 ||hjz-handel.de^
@@ -393,6 +399,7 @@
 ||kaffezone.de^
 ||kaimoro.de^
 ||kaiser-kauf.com^
+||kalkar-handel.com^
 ||kami-holz.de^
 ||kaminoland.de^
 ||kanzlei-keller-luers.de^
@@ -405,6 +412,7 @@
 ||keinerleiholz.de^
 ||keyom.de^
 ||kh-heizol.de^
+||kingtcg.shop^
 ||kirchner-rechtsanwaelte.de^
 ||kirschservices.de^
 ||kitchenfives.myshopify.com^
@@ -413,6 +421,7 @@
 ||klangaeder.com^
 ||kleinre.myshopify.com^
 ||klenkholzag.de^
+||klima-profi24.de^
 ||klimacare24.shop^
 ||kmotorrad.de^
 ||koppermuller-markt.de^
@@ -466,6 +475,7 @@
 ||maycoffeehouse.shop^
 ||mediamarkt-gg.de^
 ||mein.lhk.de-plushilfe.com^
+||meingartenwelt.com^
 ||meistervolt.de^
 ||mekura.de^
 ||midea-europa.de^
@@ -494,6 +504,7 @@
 ||muenzenvault.com^
 ||myplayground.store^
 ||nanovault.de^
+||narcyveloshop.com^
 ||narnos.de^
 ||nautikbedarf.com^
 ||nebelrad.de^
@@ -526,9 +537,11 @@
 ||orion-warenhandel.com^
 ||orion-warenhandel.de^
 ||osiris-deutschland.de^
+||otto-retouren.de^
 ||outdoorio.de^
 ||palorion.com^
 ||panelaeki.de^
+||paulusbrennholz.com^
 ||pedalpalast.de^
 ||pelletkraft.de^
 ||pellets-maschinen.de^
@@ -558,6 +571,7 @@
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
 ||ratataur.com^
+||rbpelleteck.com^
 ||rechtsanwalt-sirrenberg.de^
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
@@ -589,6 +603,7 @@
 ||schnellenberger-haus.de^
 ||schuhhaus-greten.de^
 ||schumann-markt.com^
+||seatoria.com^
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
 ||seifertundstil.de^
@@ -626,6 +641,7 @@
 ||steinberg-munchen.com^
 ||stella-mccartney.de^
 ||stilwerk.shop^
+||store.elmleigha.com^
 ||store.quarryby.com^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
@@ -674,6 +690,7 @@
 ||verbraucher-institut.com^
 ||verbraucherfokus-test.de^
 ||verbraucherzentrale-finanzen.org^
+||vezeretransports.com^
 ||vidaserenahogar.com^
 ||villause.com^
 ||vircominfo.de^

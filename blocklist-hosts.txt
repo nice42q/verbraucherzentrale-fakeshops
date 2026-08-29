@@ -58,6 +58,7 @@
 0.0.0.0 belieul-stammholz.com
 0.0.0.0 beratify.de
 0.0.0.0 bergetappe-fahrradladen.de
+0.0.0.0 bergmann-outdoor.com
 0.0.0.0 bergschatz.de
 0.0.0.0 berichtkfz.de
 0.0.0.0 berichtprofi.de
@@ -69,6 +70,7 @@
 0.0.0.0 betashop-gmbh.com
 0.0.0.0 betrugs-check.de
 0.0.0.0 betrugsrecht.de
+0.0.0.0 bewegwelt.myshopify.com
 0.0.0.0 beyham.com
 0.0.0.0 bike-trailer24.de
 0.0.0.0 bikecube.de
@@ -185,6 +187,7 @@
 0.0.0.0 e-bikermarkt.de
 0.0.0.0 ebike-direct24.de
 0.0.0.0 ebikeprofi24.de
+0.0.0.0 ebm-heimwerk.com
 0.0.0.0 ecobrennholz.de
 0.0.0.0 ecoholz-gmbh.eu
 0.0.0.0 econicosus.de
@@ -218,6 +221,7 @@
 0.0.0.0 ettern24.de
 0.0.0.0 eufinancetechtoday.com
 0.0.0.0 eurlexodus.com
+0.0.0.0 eurotech-diamant.de
 0.0.0.0 euvendorshub.online
 0.0.0.0 exklusivrad.de
 0.0.0.0 expressbrennholz.de
@@ -318,6 +322,7 @@
 0.0.0.0 haushaltsgeraete-profis.de
 0.0.0.0 heidel-heizoel.de
 0.0.0.0 heimhof24.de
+0.0.0.0 heineoutlet.com
 0.0.0.0 heinrich-handel.com
 0.0.0.0 heiseno.de
 0.0.0.0 heiz-fachmann.de
@@ -330,6 +335,7 @@
 0.0.0.0 heizprohandel.com
 0.0.0.0 heizwelt24.de
 0.0.0.0 helmuteco.com
+0.0.0.0 hensel-markt.com
 0.0.0.0 heyi-handel.de
 0.0.0.0 hinato-tech.de
 0.0.0.0 hjz-handel.de
@@ -384,6 +390,7 @@
 0.0.0.0 kaffezone.de
 0.0.0.0 kaimoro.de
 0.0.0.0 kaiser-kauf.com
+0.0.0.0 kalkar-handel.com
 0.0.0.0 kami-holz.de
 0.0.0.0 kaminoland.de
 0.0.0.0 kanzlei-keller-luers.de
@@ -396,6 +403,7 @@
 0.0.0.0 keinerleiholz.de
 0.0.0.0 keyom.de
 0.0.0.0 kh-heizol.de
+0.0.0.0 kingtcg.shop
 0.0.0.0 kirchner-rechtsanwaelte.de
 0.0.0.0 kirschservices.de
 0.0.0.0 kitchenfives.myshopify.com
@@ -404,6 +412,7 @@
 0.0.0.0 klangaeder.com
 0.0.0.0 kleinre.myshopify.com
 0.0.0.0 klenkholzag.de
+0.0.0.0 klima-profi24.de
 0.0.0.0 klimacare24.shop
 0.0.0.0 kmotorrad.de
 0.0.0.0 koppermuller-markt.de
@@ -457,6 +466,7 @@
 0.0.0.0 maycoffeehouse.shop
 0.0.0.0 mediamarkt-gg.de
 0.0.0.0 mein.lhk.de-plushilfe.com
+0.0.0.0 meingartenwelt.com
 0.0.0.0 meistervolt.de
 0.0.0.0 mekura.de
 0.0.0.0 midea-europa.de
@@ -485,6 +495,7 @@
 0.0.0.0 muenzenvault.com
 0.0.0.0 myplayground.store
 0.0.0.0 nanovault.de
+0.0.0.0 narcyveloshop.com
 0.0.0.0 narnos.de
 0.0.0.0 nautikbedarf.com
 0.0.0.0 nebelrad.de
@@ -517,9 +528,11 @@
 0.0.0.0 orion-warenhandel.com
 0.0.0.0 orion-warenhandel.de
 0.0.0.0 osiris-deutschland.de
+0.0.0.0 otto-retouren.de
 0.0.0.0 outdoorio.de
 0.0.0.0 palorion.com
 0.0.0.0 panelaeki.de
+0.0.0.0 paulusbrennholz.com
 0.0.0.0 pedalpalast.de
 0.0.0.0 pelletkraft.de
 0.0.0.0 pellets-maschinen.de
@@ -549,6 +562,7 @@
 0.0.0.0 radtrikottourdefrance.de
 0.0.0.0 radzubehoer24.com
 0.0.0.0 ratataur.com
+0.0.0.0 rbpelleteck.com
 0.0.0.0 rechtsanwalt-sirrenberg.de
 0.0.0.0 rechtskanzlei-karls.de
 0.0.0.0 redlich-becker.de
@@ -580,6 +594,7 @@
 0.0.0.0 schnellenberger-haus.de
 0.0.0.0 schuhhaus-greten.de
 0.0.0.0 schumann-markt.com
+0.0.0.0 seatoria.com
 0.0.0.0 secure.shopvio.co
 0.0.0.0 seidenblumen-ross.com
 0.0.0.0 seifertundstil.de
@@ -617,6 +632,7 @@
 0.0.0.0 steinberg-munchen.com
 0.0.0.0 stella-mccartney.de
 0.0.0.0 stilwerk.shop
+0.0.0.0 store.elmleigha.com
 0.0.0.0 store.quarryby.com
 0.0.0.0 strafverteidigerbuero-dortmund.de
 0.0.0.0 strobllandmaschinen.de
@@ -665,6 +681,7 @@
 0.0.0.0 verbraucher-institut.com
 0.0.0.0 verbraucherfokus-test.de
 0.0.0.0 verbraucherzentrale-finanzen.org
+0.0.0.0 vezeretransports.com
 0.0.0.0 vidaserenahogar.com
 0.0.0.0 villause.com
 0.0.0.0 vircominfo.de
