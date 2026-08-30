@@ -3,24 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 715 historical domains from archive.
+# [INFO]    Loaded 732 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 59 clean and validated domains on VZ page.
-# [STATS]   Identified 17 BRAND NEW domains! Updating files...
-# [NEW]      -> bergmann-outdoor.com
-# [NEW]      -> bewegwelt.myshopify.com
-# [NEW]      -> ebm-heimwerk.com
-# [NEW]      -> eurotech-diamant.de
-# [NEW]      -> heineoutlet.com
-# [NEW]      -> hensel-markt.com
-# [NEW]      -> kalkar-handel.com
-# [NEW]      -> kingtcg.shop
-# [NEW]      -> klima-profi24.de
-# [NEW]      -> meingartenwelt.com
-# [NEW]      -> narcyveloshop.com
-# [NEW]      -> otto-retouren.de
-# [NEW]      -> paulusbrennholz.com
-# [NEW]      -> rbpelleteck.com
-# [NEW]      -> seatoria.com
-# [NEW]      -> store.elmleigha.com
-# [NEW]      -> vezeretransports.com
+# [INFO]    Found 57 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
