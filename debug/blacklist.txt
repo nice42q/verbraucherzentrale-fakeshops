@@ -5,5 +5,30 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 732 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 53 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [INFO]    Found 71 clean and validated domains on VZ page.
+# [STATS]   Identified 25 BRAND NEW domains! Updating files...
+# [NEW]      -> aktioncode.com
+# [NEW]      -> autonivo.de
+# [NEW]      -> boismat.de
+# [NEW]      -> camerapicks.com
+# [NEW]      -> canyonoutlet.de
+# [NEW]      -> cyclemastersstore.com
+# [NEW]      -> derbyfahrrader.de
+# [NEW]      -> flyerfahrrad.com
+# [NEW]      -> frankefahrrad.de
+# [NEW]      -> fwnkeoyt.shop
+# [NEW]      -> grand-bazar.de
+# [NEW]      -> kuriovault.com
+# [NEW]      -> market.fieldcrofton.com
+# [NEW]      -> market.glenleigha.com
+# [NEW]      -> market.willowgroven.com
+# [NEW]      -> misterwinkler.de
+# [NEW]      -> mtiialolo.com
+# [NEW]      -> prosolargen-strip.de
+# [NEW]      -> rachow-handel.com
+# [NEW]      -> reynamobel.shop
+# [NEW]      -> sl-handel.com
+# [NEW]      -> store.woodgroven.com
+# [NEW]      -> taotdzhi.shop
+# [NEW]      -> tom-trailer.com
+# [NEW]      -> wrexio.com

@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-08-29 10:53:46 UTC
+# Last update: 2026-09-03 08:40:36 UTC
 #
-# Total archived domains:    732
-# New domains added today:   17
+# Total archived domains:    757
+# New domains added today:   25
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -16,6 +16,7 @@
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
 ||aktion-motorrad.de^
+||aktioncode.com^
 ||aktivmaxx.com^
 ||alskdrmo.shop^
 ||aluvea.de^
@@ -48,6 +49,7 @@
 ||autoforum-schoenau.de^
 ||autoforumoberursel.de^
 ||autogalerie29.de^
+||autonivo.de^
 ||autopark-groep.eu^
 ||autozubehormarkt.com^
 ||avezzanofahrrad.de^
@@ -89,6 +91,7 @@
 ||bitloonx.de^
 ||blasgarten.de^
 ||bloemker-holz.de^
+||boismat.de^
 ||bonvya.com^
 ||boomtownstreetwear.de^
 ||boxloadpallet.com^
@@ -113,8 +116,10 @@
 ||bynwatch.de^
 ||ca-agentur.de^
 ||caballde.com^
+||camerapicks.com^
 ||campingspezialisten.com^
 ||canmidy.com^
+||canyonoutlet.de^
 ||cartsaga.com^
 ||casualstore77.de^
 ||cbvdshj.com^
@@ -142,6 +147,7 @@
 ||cschwindt24.de^
 ||csschwindt.de^
 ||cusbseason.de^
+||cyclemastersstore.com^
 ||dailyberlin.de^
 ||das-feel-natural.de^
 ||dasoo.de^
@@ -169,6 +175,7 @@
 ||delecato.de^
 ||deracing-planet.com^
 ||derbybikesholding.de^
+||derbyfahrrader.de^
 ||derkundenclub.com^
 ||dermavitalglow.com^
 ||deutchshop24.de^
@@ -265,10 +272,13 @@
 ||flexsugges.com^
 ||flora-markt.de^
 ||florina-kaufen.de^
+||flyerfahrrad.com^
+||frankefahrrad.de^
 ||fumot-shop.de^
 ||fundfjord.com^
 ||furneo-handel.com^
 ||fussballtrikothaus.com^
+||fwnkeoyt.shop^
 ||gaborshoesisrael.com^
 ||gaborshops.com^
 ||gap-outlet.de^
@@ -310,6 +320,7 @@
 ||gomel-24.de^
 ||gomell-24.de^
 ||gommel-trading.de^
+||grand-bazar.de^
 ||greentrimmer.de^
 ||grilloon.de^
 ||grillssoon.de^
@@ -435,6 +446,7 @@
 ||kreditberatungs.de^
 ||kruegermadl.de^
 ||kuchenheim.shop^
+||kuriovault.com^
 ||labexholz.de^
 ||lamerahomemobel.shop^
 ||lan-gensallz.com^
@@ -468,7 +480,10 @@
 ||manfred-schnell.shop^
 ||marie-herbstkg.de^
 ||marinesafetygear.com^
+||market.fieldcrofton.com^
+||market.glenleigha.com^
 ||market.halewick.com^
+||market.willowgroven.com^
 ||marketmarkdowns.com^
 ||martml.com^
 ||maxcapitalkredit.de^
@@ -486,6 +501,7 @@
 ||mideaklima.de^
 ||milono.de^
 ||ministryoftoys.eu^
+||misterwinkler.de^
 ||mm-energies.de^
 ||mn.magazinmodern.de^
 ||mobel-lenk.shop^
@@ -499,6 +515,7 @@
 ||mototeilecenter.com^
 ||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
+||mtiialolo.com^
 ||muenzenangebot24.com^
 ||muenzenexpertshop.com^
 ||muenzenvault.com^
@@ -565,9 +582,11 @@
 ||profibrennde.com^
 ||profitipp5.de^
 ||pronetivaro.com^
+||prosolargen-strip.de^
 ||quellshop.de^
 ||ra-owl.de^
 ||rabattkorb.de^
+||rachow-handel.com^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
 ||ratataur.com^
@@ -579,6 +598,7 @@
 ||reisholzgmbh.de^
 ||rekordpellets.com^
 ||retrorunner.de^
+||reynamobel.shop^
 ||ridegefuhl.de^
 ||ridelbergu.de^
 ||rileyheftman.shop^
@@ -619,6 +639,7 @@
 ||silveraureus.com^
 ||skinqira.de^
 ||sky-trikot-shop.de^
+||sl-handel.com^
 ||sleevefleh.com^
 ||smart2trade.de^
 ||sneakers-metzingen.de^
@@ -643,12 +664,14 @@
 ||stilwerk.shop^
 ||store.elmleigha.com^
 ||store.quarryby.com^
+||store.woodgroven.com^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
 ||suessegenuss.com^
 ||sufrema-kaufen.de^
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
+||taotdzhi.shop^
 ||tapex-tapes.de^
 ||taschenalle.com^
 ||taschenclub.com^
@@ -663,6 +686,7 @@
 ||tickgreen.net^
 ||tkpelletsgmbh.de^
 ||tojo-heizoel.de^
+||tom-trailer.com^
 ||tonerklick24.de^
 ||topeat.lightview.shop^
 ||tophoven-teilekfz.de^
@@ -733,6 +757,7 @@
 ||wisdom-heimbedarf.com^
 ||wood-line24.de^
 ||worldofwineshop.de^
+||wrexio.com^
 ||xn--rnoholzpelletsgmbh-d3b.de^
 ||yonexs.at^
 ||zeigebericht.de^
