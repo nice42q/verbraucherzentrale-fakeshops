@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-03 08:40:36 UTC
+# Last update: 2026-09-04 08:35:18 UTC
 #
-# Total archived domains:    757
-# New domains added today:   25
+# Total archived domains:    784
+# New domains added today:   27
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -66,7 +66,9 @@
 ||bazaarlydeals.com^
 ||bch-oberursel.de^
 ||beambright.de^
+||beatrice-london.com^
 ||belieul-stammholz.com^
+||bellataylor-newyork.com^
 ||beratify.de^
 ||bergetappe-fahrradladen.de^
 ||bergmann-outdoor.com^
@@ -88,6 +90,7 @@
 ||bikegadgetde.com^
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
+||birnerforsttechnik.de^
 ||bitloonx.de^
 ||blasgarten.de^
 ||bloemker-holz.de^
@@ -123,16 +126,19 @@
 ||cartsaga.com^
 ||casualstore77.de^
 ||cbvdshj.com^
+||celeste-milano.com^
 ||center-staubsauger.de^
 ||cervaluxe.com^
 ||cfbl-premiumholz.de^
 ||charj7.myshopify.com^
+||charlotte-sydney.com^
 ||chleaguy.com^
 ||cibomat.com^
 ||cibomatt.com^
 ||cinderella-braut.de^
 ||civ-vertrieb.de^
 ||cjudelo.shop^
+||clara-copenhagen.com^
 ||cloudtritt.de^
 ||clubeboss.de^
 ||columbiasale.de^
@@ -214,13 +220,17 @@
 ||einschraubschlauch.com^
 ||eisner-kollegen.de^
 ||elbtal-kids.de^
+||electra-royal.de^
 ||electro-redeker.de^
+||elektriker-buchwald.de^
 ||elektriker-hoffmeyer.de^
 ||elektro-willi.de^
 ||elektrodan.com^
 ||ellesses.de^
 ||elwenkoffer.de^
 ||elwenrimowa.de^
+||emma-amsterdam.com^
+||emma-wellington.com^
 ||emmakeller.de^
 ||energie-schnell.com^
 ||energiepreise24.com^
@@ -334,6 +344,7 @@
 ||handelshaus-buchem.de^
 ||handtholzhandelgmbh.de^
 ||hangel-handel.de^
+||hannahamburg.com^
 ||hannibalcorp.com^
 ||hansacontainergmbh.de^
 ||hartholz-briketts.de^
@@ -382,6 +393,7 @@
 ||houselytouchspace.com^
 ||houseofbuys.de^
 ||huard-stammholz.com^
+||hubwerkshop24.com^
 ||hwg-gedern.com^
 ||hyfen-tech.de^
 ||ihreedelmetallprofis.de^
@@ -391,6 +403,7 @@
 ||interholz-de.com^
 ||interlux-zentrum.com^
 ||irina-liebmann.de^
+||isabella-buenosaires.com^
 ||jardinovano.com^
 ||jeehiova.com^
 ||jette-handel.de^
@@ -400,6 +413,7 @@
 ||jordanmania.de^
 ||josef-gartentechnik.de^
 ||jubin-bicycle.com^
+||julia-madrid.com^
 ||k-ebikegmbh.de^
 ||kaelte-bringer.de^
 ||kaercherde.shop^
@@ -453,14 +467,17 @@
 ||lan-gensalz.com^
 ||lan-gensalz.de^
 ||larc90.myshopify.com^
+||larshamburg.com^
 ||lasten-anhanger.com^
 ||laufstyle.com^
 ||lebenskernde.com^
 ||lenaskunst.de^
+||levinberlin.com^
 ||liaonmskj.com^
 ||liehrforstholz.de^
 ||likdl.shop^
 ||limon-shop.at^
+||lina-athens.com^
 ||living-smarter24.com^
 ||livohaus.com^
 ||loaspool.de^
@@ -478,6 +495,8 @@
 ||major-agentur.de^
 ||mammutjacke.com^
 ||manfred-schnell.shop^
+||margaret-london.com^
+||mariasydney.com^
 ||marie-herbstkg.de^
 ||marinesafetygear.com^
 ||market.fieldcrofton.com^
@@ -546,6 +565,7 @@
 ||off-campus.co^
 ||ole-musik.de^
 ||olivercabelldeutschland.de^
+||olivia-leeds.com^
 ||one-outlet.shop^
 ||onmycat.com^
 ||ophirum-web.de^
@@ -601,6 +621,7 @@
 ||reynamobel.shop^
 ||ridegefuhl.de^
 ||ridelbergu.de^
+||riley-vancouver.com^
 ||rileyheftman.shop^
 ||ripob.com^
 ||rixie-kauf.com^
@@ -635,6 +656,7 @@
 ||shujuwang.de^
 ||shutterlans.myshopify.com^
 ||sieundihn.de^
+||sigl-inso.de^
 ||silberschmuckpro.com^
 ||silveraureus.com^
 ||skinqira.de^
@@ -643,12 +665,17 @@
 ||sleevefleh.com^
 ||smart2trade.de^
 ||sneakers-metzingen.de^
+||sofia-barcelona.com^
 ||softdays-shop.de^
 ||solagoshop.de^
 ||solarmira.de^
 ||solarosales-green.com^
 ||solidewaren.com^
 ||soltect.de^
+||sophie-melbourne.com^
+||sophie-rotterdam.com^
+||sophieberlin.com^
+||sophievienna.com^
 ||sovora-shop.com^
 ||sparhaustechnik.de^
 ||spielbank-badenwurttemberg.de^

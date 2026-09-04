@@ -3,32 +3,34 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 732 historical domains from archive.
+# [INFO]    Loaded 757 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 71 clean and validated domains on VZ page.
-# [STATS]   Identified 25 BRAND NEW domains! Updating files...
-# [NEW]      -> aktioncode.com
-# [NEW]      -> autonivo.de
-# [NEW]      -> boismat.de
-# [NEW]      -> camerapicks.com
-# [NEW]      -> canyonoutlet.de
-# [NEW]      -> cyclemastersstore.com
-# [NEW]      -> derbyfahrrader.de
-# [NEW]      -> flyerfahrrad.com
-# [NEW]      -> frankefahrrad.de
-# [NEW]      -> fwnkeoyt.shop
-# [NEW]      -> grand-bazar.de
-# [NEW]      -> kuriovault.com
-# [NEW]      -> market.fieldcrofton.com
-# [NEW]      -> market.glenleigha.com
-# [NEW]      -> market.willowgroven.com
-# [NEW]      -> misterwinkler.de
-# [NEW]      -> mtiialolo.com
-# [NEW]      -> prosolargen-strip.de
-# [NEW]      -> rachow-handel.com
-# [NEW]      -> reynamobel.shop
-# [NEW]      -> sl-handel.com
-# [NEW]      -> store.woodgroven.com
-# [NEW]      -> taotdzhi.shop
-# [NEW]      -> tom-trailer.com
-# [NEW]      -> wrexio.com
+# [INFO]    Found 98 clean and validated domains on VZ page.
+# [STATS]   Identified 27 BRAND NEW domains! Updating files...
+# [NEW]      -> beatrice-london.com
+# [NEW]      -> bellataylor-newyork.com
+# [NEW]      -> birnerforsttechnik.de
+# [NEW]      -> celeste-milano.com
+# [NEW]      -> charlotte-sydney.com
+# [NEW]      -> clara-copenhagen.com
+# [NEW]      -> electra-royal.de
+# [NEW]      -> elektriker-buchwald.de
+# [NEW]      -> emma-amsterdam.com
+# [NEW]      -> emma-wellington.com
+# [NEW]      -> hannahamburg.com
+# [NEW]      -> hubwerkshop24.com
+# [NEW]      -> isabella-buenosaires.com
+# [NEW]      -> julia-madrid.com
+# [NEW]      -> larshamburg.com
+# [NEW]      -> levinberlin.com
+# [NEW]      -> lina-athens.com
+# [NEW]      -> margaret-london.com
+# [NEW]      -> mariasydney.com
+# [NEW]      -> olivia-leeds.com
+# [NEW]      -> riley-vancouver.com
+# [NEW]      -> sigl-inso.de
+# [NEW]      -> sofia-barcelona.com
+# [NEW]      -> sophie-melbourne.com
+# [NEW]      -> sophie-rotterdam.com
+# [NEW]      -> sophieberlin.com
+# [NEW]      -> sophievienna.com
