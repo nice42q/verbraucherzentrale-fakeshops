@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-04 08:35:18 UTC
+# Last update: 2026-09-05 08:09:19 UTC
 #
-# Total archived domains:    784
-# New domains added today:   27
+# Total archived domains:    792
+# New domains added today:   8
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -104,6 +104,7 @@
 ||brennholz-anhaenger.de^
 ||brennholz-quelle.de^
 ||brennholz-ws.de^
+||brennholzbredemeier.com^
 ||brennholzgarten.de^
 ||brennholzholzge.com^
 ||brennholzrupp.de^
@@ -275,9 +276,11 @@
 ||felino-sport.de^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
+||feuerholzexpress.de^
 ||findaten.de^
 ||finpruefer.de^
 ||firstgoldshop.com^
+||fixardo.de^
 ||fixeklima.de^
 ||flexsugges.com^
 ||flora-markt.de^
@@ -379,6 +382,7 @@
 ||holzhambach.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
+||holzscheitenatur.com^
 ||holzsofort.de^
 ||holzwerkeharz.de^
 ||holzwerkzeug-bestequalitat.de^
@@ -410,6 +414,7 @@
 ||jh-machines-nord.com^
 ||jhagriconseil.com^
 ||joeholz.com^
+||johdorbrennholz.com^
 ||jordanmania.de^
 ||josef-gartentechnik.de^
 ||jubin-bicycle.com^
@@ -683,6 +688,7 @@
 ||sportopath.de^
 ||stadlwerk.de^
 ||stadsug.com^
+||stammholz-forest.com^
 ||stammholz-gmbh.com^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
@@ -777,12 +783,14 @@
 ||wertlebenshop.com^
 ||westex-handel.de^
 ||westex-handell.de^
+||wetzlarindustrysolutions.com^
 ||wilhelm-daume-gmbh.myshopify.com^
 ||wilkesarahwelpen.de^
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
 ||wood-line24.de^
+||work-co.de^
 ||worldofwineshop.de^
 ||wrexio.com^
 ||xn--rnoholzpelletsgmbh-d3b.de^

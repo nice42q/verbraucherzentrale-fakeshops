@@ -3,34 +3,15 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 757 historical domains from archive.
+# [INFO]    Loaded 784 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 98 clean and validated domains on VZ page.
-# [STATS]   Identified 27 BRAND NEW domains! Updating files...
-# [NEW]      -> beatrice-london.com
-# [NEW]      -> bellataylor-newyork.com
-# [NEW]      -> birnerforsttechnik.de
-# [NEW]      -> celeste-milano.com
-# [NEW]      -> charlotte-sydney.com
-# [NEW]      -> clara-copenhagen.com
-# [NEW]      -> electra-royal.de
-# [NEW]      -> elektriker-buchwald.de
-# [NEW]      -> emma-amsterdam.com
-# [NEW]      -> emma-wellington.com
-# [NEW]      -> hannahamburg.com
-# [NEW]      -> hubwerkshop24.com
-# [NEW]      -> isabella-buenosaires.com
-# [NEW]      -> julia-madrid.com
-# [NEW]      -> larshamburg.com
-# [NEW]      -> levinberlin.com
-# [NEW]      -> lina-athens.com
-# [NEW]      -> margaret-london.com
-# [NEW]      -> mariasydney.com
-# [NEW]      -> olivia-leeds.com
-# [NEW]      -> riley-vancouver.com
-# [NEW]      -> sigl-inso.de
-# [NEW]      -> sofia-barcelona.com
-# [NEW]      -> sophie-melbourne.com
-# [NEW]      -> sophie-rotterdam.com
-# [NEW]      -> sophieberlin.com
-# [NEW]      -> sophievienna.com
+# [INFO]    Found 106 clean and validated domains on VZ page.
+# [STATS]   Identified 8 BRAND NEW domains! Updating files...
+# [NEW]      -> brennholzbredemeier.com
+# [NEW]      -> feuerholzexpress.de
+# [NEW]      -> fixardo.de
+# [NEW]      -> holzscheitenatur.com
+# [NEW]      -> johdorbrennholz.com
+# [NEW]      -> stammholz-forest.com
+# [NEW]      -> wetzlarindustrysolutions.com
+# [NEW]      -> work-co.de
