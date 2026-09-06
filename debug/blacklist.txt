@@ -3,15 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 784 historical domains from archive.
+# [INFO]    Loaded 792 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 106 clean and validated domains on VZ page.
-# [STATS]   Identified 8 BRAND NEW domains! Updating files...
-# [NEW]      -> brennholzbredemeier.com
-# [NEW]      -> feuerholzexpress.de
-# [NEW]      -> fixardo.de
-# [NEW]      -> holzscheitenatur.com
-# [NEW]      -> johdorbrennholz.com
-# [NEW]      -> stammholz-forest.com
-# [NEW]      -> wetzlarindustrysolutions.com
-# [NEW]      -> work-co.de
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
