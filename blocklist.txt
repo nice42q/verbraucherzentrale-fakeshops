@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-08 08:41:35 UTC
+# Last update: 2026-09-09 08:46:54 UTC
 #
-# Total archived domains:    798
-# New domains added today:   6
+# Total archived domains:    800
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -243,6 +243,7 @@
 ||epicooler.com^
 ||epicoolerde.consumereviewsguide.com^
 ||epicoolerklima.shop^
+||equaloxchange.shop^
 ||erix9.myshopify.com^
 ||ersatzteilesale.com^
 ||erzgebirger-uhrwerk.com^
@@ -766,6 +767,7 @@
 ||volthausgeraete.de^
 ||voltradbike.de^
 ||vone-shop.com^
+||vorwerk-tm.de^
 ||vynxaria.com^
 ||waerme-pumpen24.de^
 ||waldmannmode.de^

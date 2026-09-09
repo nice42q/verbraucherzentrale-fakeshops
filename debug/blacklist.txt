@@ -3,13 +3,9 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 792 historical domains from archive.
+# [INFO]    Loaded 798 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 99 clean and validated domains on VZ page.
-# [STATS]   Identified 6 BRAND NEW domains! Updating files...
-# [NEW]      -> apionier.com
-# [NEW]      -> biketools24.com
-# [NEW]      -> brennholz-bernd.com
-# [NEW]      -> gartenexperte24.com
-# [NEW]      -> gepaecktasch.com
-# [NEW]      -> holz-wagner.com
+# [INFO]    Found 101 clean and validated domains on VZ page.
+# [STATS]   Identified 2 BRAND NEW domains! Updating files...
+# [NEW]      -> equaloxchange.shop
+# [NEW]      -> vorwerk-tm.de
