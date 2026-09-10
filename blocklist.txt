@@ -2,9 +2,9 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-09 08:46:54 UTC
+# Last update: 2026-09-10 08:44:44 UTC
 #
-# Total archived domains:    800
+# Total archived domains:    802
 # New domains added today:   2
 # -------------------------------------------
 #
@@ -495,6 +495,7 @@
 ||loaspool.de^
 ||lola58.myshopify.com^
 ||luckybrand-deutschland.com^
+||luis-software.de^
 ||lunalli.de^
 ||lunaxadv.myshopify.com^
 ||luvikar.com^
@@ -507,6 +508,7 @@
 ||major-agentur.de^
 ||mammutjacke.com^
 ||manfred-schnell.shop^
+||manueleuropafahrschule.de^
 ||margaret-london.com^
 ||mariasydney.com^
 ||marie-herbstkg.de^

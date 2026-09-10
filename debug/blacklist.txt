@@ -3,9 +3,9 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 798 historical domains from archive.
+# [INFO]    Loaded 800 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 101 clean and validated domains on VZ page.
+# [INFO]    Found 103 clean and validated domains on VZ page.
 # [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> equaloxchange.shop
-# [NEW]      -> vorwerk-tm.de
+# [NEW]      -> luis-software.de
+# [NEW]      -> manueleuropafahrschule.de

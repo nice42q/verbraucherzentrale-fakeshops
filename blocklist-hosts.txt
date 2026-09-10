@@ -486,6 +486,7 @@
 0.0.0.0 loaspool.de
 0.0.0.0 lola58.myshopify.com
 0.0.0.0 luckybrand-deutschland.com
+0.0.0.0 luis-software.de
 0.0.0.0 lunalli.de
 0.0.0.0 lunaxadv.myshopify.com
 0.0.0.0 luvikar.com
@@ -498,6 +499,7 @@
 0.0.0.0 major-agentur.de
 0.0.0.0 mammutjacke.com
 0.0.0.0 manfred-schnell.shop
+0.0.0.0 manueleuropafahrschule.de
 0.0.0.0 margaret-london.com
 0.0.0.0 mariasydney.com
 0.0.0.0 marie-herbstkg.de
