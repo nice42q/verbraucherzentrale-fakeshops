@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-10 08:44:44 UTC
+# Last update: 2026-09-11 08:43:02 UTC
 #
-# Total archived domains:    802
-# New domains added today:   2
+# Total archived domains:    803
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -644,6 +644,7 @@
 ||romodana.de^
 ||rovlier.com^
 ||rqhtyztv.shop^
+||rudolphmaschine.de^
 ||rundholz-uhlstaedt.de^
 ||rundumstrikot.de^
 ||salessee.shop^
