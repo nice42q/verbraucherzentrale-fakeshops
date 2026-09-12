@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-11 08:43:02 UTC
+# Last update: 2026-09-12 08:28:15 UTC
 #
-# Total archived domains:    803
-# New domains added today:   1
+# Total archived domains:    809
+# New domains added today:   6
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -148,6 +148,7 @@
 ||columbiasale.de^
 ||containerbox-gmbh.de^
 ||containergierichgmbh.de^
+||containerschiffsreedereigmbh.de^
 ||coolzy.com^
 ||cosanne-baumarkt.com^
 ||crazyunbelieavablefunnel.com^
@@ -162,6 +163,7 @@
 ||das-feel-natural.de^
 ||dasoo.de^
 ||davesbiomarkt.de^
+||de.shopmaxxs.com^
 ||deal-aktion.de^
 ||dealballad.com^
 ||dealcourier.com^
@@ -249,6 +251,7 @@
 ||erzgebirger-uhrwerk.com^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
+||etrias.de^
 ||ettern24.de^
 ||eufinancetechtoday.com^
 ||eurlexodus.com^
@@ -539,6 +542,7 @@
 ||mn.magazinmodern.de^
 ||mobel-lenk.shop^
 ||mobel-lenk.store^
+||mobel-wahls.shop^
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
 ||morenutritionde.shop^
@@ -562,6 +566,7 @@
 ||nestmypad.com^
 ||neurotweinrabatt.com^
 ||nevari.de^
+||nexuswebshop.com^
 ||nhbdgy.shop^
 ||nibeguq.com^
 ||nkgartengardenandliving.de^
@@ -693,6 +698,7 @@
 ||sophievienna.com^
 ||sovora-shop.com^
 ||sparhaustechnik.de^
+||spedition-tml.de^
 ||spielbank-badenwurttemberg.de^
 ||splima.de^
 ||sportopath.de^
