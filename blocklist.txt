@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-12 08:28:15 UTC
+# Last update: 2026-09-16 09:09:12 UTC
 #
-# Total archived domains:    809
-# New domains added today:   6
+# Total archived domains:    813
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -100,6 +100,7 @@
 ||bonvya.com^
 ||boomtownstreetwear.de^
 ||boxloadpallet.com^
+||boxtrail.de^
 ||bpbioheat.de^
 ||braunsale.de^
 ||brenner-berlin.com^
@@ -111,6 +112,7 @@
 ||brennholzgarten.de^
 ||brennholzholzge.com^
 ||brennholzrupp.de^
+||brennstoffe-weddeling.com^
 ||brennstoffportal.de^
 ||brewheaven.shop^
 ||brinkmann-mode.de^
@@ -473,6 +475,7 @@
 ||kreative-zukunft.com^
 ||kreativebodenbelage.com^
 ||kreditberatungs.de^
+||kronsummitgmbh.de^
 ||kruegermadl.de^
 ||kuchenheim.shop^
 ||kuriovault.com^
@@ -655,6 +658,7 @@
 ||salessee.shop^
 ||samoonde.com^
 ||sarl-castelmag.com^
+||sasprodesca.com^
 ||savemosaic.com^
 ||savenesting.com^
 ||scheideckerholz.com^
