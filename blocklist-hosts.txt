@@ -594,6 +594,7 @@
 0.0.0.0 paulusbrennholz.com
 0.0.0.0 pedalpalast.de
 0.0.0.0 pelletkraft.de
+0.0.0.0 pelletpoint77gmbh.de
 0.0.0.0 pellets-maschinen.de
 0.0.0.0 pfannendeck.de
 0.0.0.0 ph-gartenmaschinen.de

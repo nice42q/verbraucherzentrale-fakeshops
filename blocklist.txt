@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-16 09:09:12 UTC
+# Last update: 2026-09-18 08:52:23 UTC
 #
-# Total archived domains:    813
-# New domains added today:   4
+# Total archived domains:    814
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -603,6 +603,7 @@
 ||paulusbrennholz.com^
 ||pedalpalast.de^
 ||pelletkraft.de^
+||pelletpoint77gmbh.de^
 ||pellets-maschinen.de^
 ||pfannendeck.de^
 ||ph-gartenmaschinen.de^
