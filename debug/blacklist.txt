@@ -3,8 +3,33 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 813 historical domains from archive.
+# [INFO]    Loaded 814 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 82 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> pelletpoint77gmbh.de
+# [INFO]    Found 108 clean and validated domains on VZ page.
+# [STATS]   Identified 26 BRAND NEW domains! Updating files...
+# [NEW]      -> agritechcenter.de
+# [NEW]      -> alpha3-gmbh.de
+# [NEW]      -> aristos24.de
+# [NEW]      -> atlascontainerlogistikgmbh.de
+# [NEW]      -> autohistorik.de
+# [NEW]      -> brennholz-hans.de
+# [NEW]      -> debot-maschinen.de
+# [NEW]      -> diermann-marketing.de
+# [NEW]      -> elbcontainer24.de
+# [NEW]      -> forstbedarf-blessing.de
+# [NEW]      -> gartenmotoren.de
+# [NEW]      -> gruenliva.de
+# [NEW]      -> holzgluck.de
+# [NEW]      -> ihk-eforen.de
+# [NEW]      -> kfnkapital-gruppe.de
+# [NEW]      -> klimaanlageportal.de
+# [NEW]      -> ludwigbergmanngmbh.de
+# [NEW]      -> meingartenportal.de
+# [NEW]      -> meinpfotennetzwerk.de
+# [NEW]      -> radmarkt-schaeler.de
+# [NEW]      -> saradhagroup.com
+# [NEW]      -> schmidtmaschine.de
+# [NEW]      -> steinhofen-partner.de
+# [NEW]      -> swabytec24.de
+# [NEW]      -> willms-forsttechnik.de
+# [NEW]      -> xn--uni-ksportgertegmbh-7ua63k.de

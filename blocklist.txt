@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-18 08:52:23 UTC
+# Last update: 2026-09-19 08:39:46 UTC
 #
-# Total archived domains:    814
-# New domains added today:   1
+# Total archived domains:    840
+# New domains added today:   26
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -13,11 +13,13 @@
 ||6pmhoodies.de^
 ||accompro.com^
 ||aeke-smart.com^
+||agritechcenter.de^
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
 ||aktion-motorrad.de^
 ||aktioncode.com^
 ||aktivmaxx.com^
+||alpha3-gmbh.de^
 ||alskdrmo.shop^
 ||aluvea.de^
 ||alverogmbh.myshopify.com^
@@ -40,9 +42,11 @@
 ||apothekeohnerezept.de^
 ||apricoit.com^
 ||archivede.com^
+||aristos24.de^
 ||arkenberlin.de^
 ||aroundying.de^
 ||astragroupholding.com^
+||atlascontainerlogistikgmbh.de^
 ||audi-services.com^
 ||auto-bund.com^
 ||auto-export-augsburg.de^
@@ -50,6 +54,7 @@
 ||autoforum-schoenau.de^
 ||autoforumoberursel.de^
 ||autogalerie29.de^
+||autohistorik.de^
 ||autonivo.de^
 ||autopark-groep.eu^
 ||autozubehormarkt.com^
@@ -106,6 +111,7 @@
 ||brenner-berlin.com^
 ||brennholz-anhaenger.de^
 ||brennholz-bernd.com^
+||brennholz-hans.de^
 ||brennholz-quelle.de^
 ||brennholz-ws.de^
 ||brennholzbredemeier.com^
@@ -170,6 +176,7 @@
 ||dealballad.com^
 ||dealcourier.com^
 ||dealmeadow.com^
+||debot-maschinen.de^
 ||degussa-anlagehandel.de^
 ||degussa-deutschland.de^
 ||degussa-edel.de^
@@ -199,6 +206,7 @@
 ||dexer-handel.de^
 ||dhg-versand.de^
 ||dieholzstucke.de^
+||diermann-marketing.de^
 ||digitalhandel.shop^
 ||digitalkontor24.de^
 ||direktbericht.de^
@@ -227,6 +235,7 @@
 ||einfach-oel.com^
 ||einschraubschlauch.com^
 ||eisner-kollegen.de^
+||elbcontainer24.de^
 ||elbtal-kids.de^
 ||electra-royal.de^
 ||electro-redeker.de^
@@ -295,6 +304,7 @@
 ||flora-markt.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
+||forstbedarf-blessing.de^
 ||frankefahrrad.de^
 ||fumot-shop.de^
 ||fundfjord.com^
@@ -316,6 +326,7 @@
 ||garteni.de^
 ||gartenmeistede.com^
 ||gartenmotor.de^
+||gartenmotoren.de^
 ||gartenpflegegmbh.com^
 ||gartenpools24.de^
 ||gartenpools24.shop^
@@ -349,6 +360,7 @@
 ||grilloon.de^
 ||grillssoon.de^
 ||groupeshf.com^
+||gruenliva.de^
 ||gueta-handel.de^
 ||gutmahroboter.myshopify.com^
 ||gwosdz-handel.de^
@@ -391,6 +403,7 @@
 ||holz-premium.de^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
+||holzgluck.de^
 ||holzhambach.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
@@ -412,6 +425,7 @@
 ||hubwerkshop24.com^
 ||hwg-gedern.com^
 ||hyfen-tech.de^
+||ihk-eforen.de^
 ||ihreedelmetallprofis.de^
 ||ihrmunzhandler.com^
 ||ikkimelpoppstar.de^
@@ -453,6 +467,7 @@
 ||kaufmar.de^
 ||keinerleiholz.de^
 ||keyom.de^
+||kfnkapital-gruppe.de^
 ||kh-heizol.de^
 ||kingtcg.shop^
 ||kirchner-rechtsanwaelte.de^
@@ -464,6 +479,7 @@
 ||kleinre.myshopify.com^
 ||klenkholzag.de^
 ||klima-profi24.de^
+||klimaanlageportal.de^
 ||klimacare24.shop^
 ||kmotorrad.de^
 ||koppermuller-markt.de^
@@ -501,6 +517,7 @@
 ||loaspool.de^
 ||lola58.myshopify.com^
 ||luckybrand-deutschland.com^
+||ludwigbergmanngmbh.de^
 ||luis-software.de^
 ||lunalli.de^
 ||lunaxadv.myshopify.com^
@@ -529,7 +546,9 @@
 ||maycoffeehouse.shop^
 ||mediamarkt-gg.de^
 ||mein.lhk.de-plushilfe.com^
+||meingartenportal.de^
 ||meingartenwelt.com^
+||meinpfotennetzwerk.de^
 ||meistervolt.de^
 ||mekura.de^
 ||midea-europa.de^
@@ -630,6 +649,7 @@
 ||ra-owl.de^
 ||rabattkorb.de^
 ||rachow-handel.com^
+||radmarkt-schaeler.de^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
 ||ratataur.com^
@@ -658,6 +678,7 @@
 ||rundumstrikot.de^
 ||salessee.shop^
 ||samoonde.com^
+||saradhagroup.com^
 ||sarl-castelmag.com^
 ||sasprodesca.com^
 ||savemosaic.com^
@@ -665,6 +686,7 @@
 ||scheideckerholz.com^
 ||schirmlieb.store^
 ||schmidmodesalzburg.de^
+||schmidtmaschine.de^
 ||schmidts-handel.de^
 ||schnellenberger-haus.de^
 ||schuhhaus-greten.de^
@@ -714,6 +736,7 @@
 ||starkwerkzeug.de^
 ||steeg-handel.de^
 ||steinberg-munchen.com^
+||steinhofen-partner.de^
 ||stella-mccartney.de^
 ||stilwerk.shop^
 ||store.elmleigha.com^
@@ -725,6 +748,7 @@
 ||sufrema-kaufen.de^
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
+||swabytec24.de^
 ||taotdzhi.shop^
 ||tapex-tapes.de^
 ||taschenalle.com^
@@ -808,6 +832,7 @@
 ||wetzlarindustrysolutions.com^
 ||wilhelm-daume-gmbh.myshopify.com^
 ||wilkesarahwelpen.de^
+||willms-forsttechnik.de^
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
@@ -816,6 +841,7 @@
 ||worldofwineshop.de^
 ||wrexio.com^
 ||xn--rnoholzpelletsgmbh-d3b.de^
+||xn--uni-ksportgertegmbh-7ua63k.de^
 ||yonexs.at^
 ||zeigebericht.de^
 ||zentrof.com^
