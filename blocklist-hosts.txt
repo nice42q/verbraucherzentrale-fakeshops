@@ -4,6 +4,7 @@
 0.0.0.0 6pmhoodies.de
 0.0.0.0 accompro.com
 0.0.0.0 aeke-smart.com
+0.0.0.0 aeribold.com
 0.0.0.0 agritechcenter.de
 0.0.0.0 ai-energy.net
 0.0.0.0 aicheleholzgmbh.de
@@ -57,6 +58,7 @@
 0.0.0.0 bakta8.myshopify.com
 0.0.0.0 ballqen.com
 0.0.0.0 bargainbayou.com
+0.0.0.0 bauer-brennstoffe.com
 0.0.0.0 baustoffe-sales.com
 0.0.0.0 bawz.store
 0.0.0.0 bayerwald-heizoel.de
@@ -82,7 +84,9 @@
 0.0.0.0 betrugsrecht.de
 0.0.0.0 bewegwelt.myshopify.com
 0.0.0.0 beyham.com
+0.0.0.0 bike-striptechnology.de
 0.0.0.0 bike-trailer24.de
+0.0.0.0 bikecouture.de
 0.0.0.0 bikecube.de
 0.0.0.0 bikegadgetde.com
 0.0.0.0 biketools24.com
@@ -95,6 +99,8 @@
 0.0.0.0 boismat.de
 0.0.0.0 bonvya.com
 0.0.0.0 boomtownstreetwear.de
+0.0.0.0 boostertresor.com
+0.0.0.0 borde-brennholzpaulusgmbh.com
 0.0.0.0 boxloadpallet.com
 0.0.0.0 boxtrail.de
 0.0.0.0 bpbioheat.de
@@ -146,6 +152,7 @@
 0.0.0.0 clubeboss.de
 0.0.0.0 columbiasale.de
 0.0.0.0 containerbox-gmbh.de
+0.0.0.0 containercst-gmbh.de
 0.0.0.0 containergierichgmbh.de
 0.0.0.0 containerschiffsreedereigmbh.de
 0.0.0.0 coolzy.com
@@ -159,8 +166,10 @@
 0.0.0.0 cusbseason.de
 0.0.0.0 cyclemastersstore.com
 0.0.0.0 dailyberlin.de
+0.0.0.0 dalacker-energie.com
 0.0.0.0 das-feel-natural.de
 0.0.0.0 dasoo.de
+0.0.0.0 datenfin.de
 0.0.0.0 davesbiomarkt.de
 0.0.0.0 de.shopmaxxs.com
 0.0.0.0 deal-aktion.de
@@ -214,7 +223,9 @@
 0.0.0.0 dyson-de.de
 0.0.0.0 dztraktoren.de
 0.0.0.0 e-bikermarkt.de
+0.0.0.0 ealzsidb.shop
 0.0.0.0 ebike-direct24.de
+0.0.0.0 ebike-outlestore.de
 0.0.0.0 ebikeprofi24.de
 0.0.0.0 ebm-heimwerk.com
 0.0.0.0 ecobrennholz.de
@@ -259,6 +270,7 @@
 0.0.0.0 eurlexodus.com
 0.0.0.0 eurotech-diamant.de
 0.0.0.0 euvendorshub.online
+0.0.0.0 eventsamrhein.de
 0.0.0.0 exklusivrad.de
 0.0.0.0 expressbrennholz.de
 0.0.0.0 expresskaminholz24.de
@@ -285,6 +297,7 @@
 0.0.0.0 felino-sport.de
 0.0.0.0 festgeld-finder.de
 0.0.0.0 festgeld-profis.de
+0.0.0.0 festgeldtracker.us.com
 0.0.0.0 feuerholzexpress.de
 0.0.0.0 findaten.de
 0.0.0.0 finpruefer.de
@@ -295,6 +308,7 @@
 0.0.0.0 flora-markt.de
 0.0.0.0 florina-kaufen.de
 0.0.0.0 flyerfahrrad.com
+0.0.0.0 forsage-gartenkauf.com
 0.0.0.0 forstbedarf-blessing.de
 0.0.0.0 frankefahrrad.de
 0.0.0.0 fumot-shop.de
@@ -335,6 +349,7 @@
 0.0.0.0 get-epicooler.topashopo.com
 0.0.0.0 get-omnihear.com
 0.0.0.0 gfadenoaillac.com
+0.0.0.0 gfhltechnik.de
 0.0.0.0 ghkmaili.shop
 0.0.0.0 giebel-motorgeraetekg.de
 0.0.0.0 global-kaufhaus.com
@@ -379,6 +394,7 @@
 0.0.0.0 heizholzbrikett.de
 0.0.0.0 heizoel-discount.de
 0.0.0.0 heizoel-fuchs24.de
+0.0.0.0 heizoel-preise.com
 0.0.0.0 heizoel-welle.de
 0.0.0.0 heizoel-zentrale.de
 0.0.0.0 heizprohandel.com
@@ -396,6 +412,7 @@
 0.0.0.0 holz-wagner.com
 0.0.0.0 holzbriketts-profi.de
 0.0.0.0 holzgluck.de
+0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhambach.com
 0.0.0.0 holzkerssenbrock.de
 0.0.0.0 holzlangbau.de
@@ -518,6 +535,7 @@
 0.0.0.0 maatfusion.com
 0.0.0.0 maehrobot.shop
 0.0.0.0 mahershop24.com
+0.0.0.0 mahlwerk-meisterei.de
 0.0.0.0 mahroboter-freischneider.de
 0.0.0.0 mahroboterhaus.myshopify.com
 0.0.0.0 major-agentur.de
@@ -531,6 +549,7 @@
 0.0.0.0 market.fieldcrofton.com
 0.0.0.0 market.glenleigha.com
 0.0.0.0 market.halewick.com
+0.0.0.0 market.stonebournea.com
 0.0.0.0 market.willowgroven.com
 0.0.0.0 marketmarkdowns.com
 0.0.0.0 martml.com
@@ -552,6 +571,7 @@
 0.0.0.0 milono.de
 0.0.0.0 ministryoftoys.eu
 0.0.0.0 misterwinkler.de
+0.0.0.0 mkkrcwss.shop
 0.0.0.0 mm-energies.de
 0.0.0.0 mn.magazinmodern.de
 0.0.0.0 mobel-lenk.shop
@@ -591,6 +611,7 @@
 0.0.0.0 northkayak.de
 0.0.0.0 norvahaus.de
 0.0.0.0 novambients.de
+0.0.0.0 nowfahrrad.de
 0.0.0.0 nqior.shop
 0.0.0.0 nuxifuland.shop
 0.0.0.0 oakhabitsy.com
@@ -607,6 +628,7 @@
 0.0.0.0 orion-warenhandel.com
 0.0.0.0 orion-warenhandel.de
 0.0.0.0 osiris-deutschland.de
+0.0.0.0 ostermaierbrennholz.de
 0.0.0.0 otto-retouren.de
 0.0.0.0 outdoorio.de
 0.0.0.0 palorion.com
@@ -683,6 +705,7 @@
 0.0.0.0 schnellenberger-haus.de
 0.0.0.0 schuhhaus-greten.de
 0.0.0.0 schumann-markt.com
+0.0.0.0 scierie-garmier.de
 0.0.0.0 seatoria.com
 0.0.0.0 secure.shopvio.co
 0.0.0.0 seidenblumen-ross.com
@@ -732,7 +755,9 @@
 0.0.0.0 stella-mccartney.de
 0.0.0.0 stilwerk.shop
 0.0.0.0 store.elmleigha.com
+0.0.0.0 store.kingslora.com
 0.0.0.0 store.quarryby.com
+0.0.0.0 store.ternwick.com
 0.0.0.0 store.woodgroven.com
 0.0.0.0 strafverteidigerbuero-dortmund.de
 0.0.0.0 strobllandmaschinen.de
@@ -741,6 +766,7 @@
 0.0.0.0 supplierseu.com
 0.0.0.0 supplierseu.myshopify.com
 0.0.0.0 swabytec24.de
+0.0.0.0 talidix.com
 0.0.0.0 taotdzhi.shop
 0.0.0.0 tapex-tapes.de
 0.0.0.0 taschenalle.com
@@ -789,6 +815,7 @@
 0.0.0.0 villause.com
 0.0.0.0 vircominfo.de
 0.0.0.0 vircomtechnik.de
+0.0.0.0 vision-velo.com
 0.0.0.0 vitrinaox.de
 0.0.0.0 voglbaugeschaftgmbh.de
 0.0.0.0 volkeep.de
@@ -796,6 +823,7 @@
 0.0.0.0 volkswagen-fahrzeuge.de
 0.0.0.0 volthausgeraete.de
 0.0.0.0 voltradbike.de
+0.0.0.0 volturexa.de
 0.0.0.0 vone-shop.com
 0.0.0.0 vorwerk-tm.de
 0.0.0.0 vynxaria.com
@@ -812,6 +840,7 @@
 0.0.0.0 welttrikot.com
 0.0.0.0 werkerswelt-moelln.de
 0.0.0.0 werkstoffholz.de
+0.0.0.0 werkswagen-porsche.de
 0.0.0.0 werkzeug-brandl.com
 0.0.0.0 werkzeugbauladen.com
 0.0.0.0 werkzeuge-maschinen.com
@@ -835,8 +864,10 @@
 0.0.0.0 xn--rnoholzpelletsgmbh-d3b.de
 0.0.0.0 xn--uni-ksportgertegmbh-7ua63k.de
 0.0.0.0 yonexs.at
+0.0.0.0 yzorigwl.shop
 0.0.0.0 zeigebericht.de
 0.0.0.0 zentrof.com
+0.0.0.0 zeols.com
 0.0.0.0 zierfischebayer.de
 0.0.0.0 zoofaster.de
 0.0.0.0 zorilenta.com

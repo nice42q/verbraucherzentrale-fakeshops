@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-22 09:09:05 UTC
+# Last update: 2026-09-24 09:05:23 UTC
 #
-# Total archived domains:    841
-# New domains added today:   1
+# Total archived domains:    872
+# New domains added today:   31
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -13,6 +13,7 @@
 ||6pmhoodies.de^
 ||accompro.com^
 ||aeke-smart.com^
+||aeribold.com^
 ||agritechcenter.de^
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
@@ -66,6 +67,7 @@
 ||bakta8.myshopify.com^
 ||ballqen.com^
 ||bargainbayou.com^
+||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||bawz.store^
 ||bayerwald-heizoel.de^
@@ -91,7 +93,9 @@
 ||betrugsrecht.de^
 ||bewegwelt.myshopify.com^
 ||beyham.com^
+||bike-striptechnology.de^
 ||bike-trailer24.de^
+||bikecouture.de^
 ||bikecube.de^
 ||bikegadgetde.com^
 ||biketools24.com^
@@ -104,6 +108,8 @@
 ||boismat.de^
 ||bonvya.com^
 ||boomtownstreetwear.de^
+||boostertresor.com^
+||borde-brennholzpaulusgmbh.com^
 ||boxloadpallet.com^
 ||boxtrail.de^
 ||bpbioheat.de^
@@ -155,6 +161,7 @@
 ||clubeboss.de^
 ||columbiasale.de^
 ||containerbox-gmbh.de^
+||containercst-gmbh.de^
 ||containergierichgmbh.de^
 ||containerschiffsreedereigmbh.de^
 ||coolzy.com^
@@ -168,8 +175,10 @@
 ||cusbseason.de^
 ||cyclemastersstore.com^
 ||dailyberlin.de^
+||dalacker-energie.com^
 ||das-feel-natural.de^
 ||dasoo.de^
+||datenfin.de^
 ||davesbiomarkt.de^
 ||de.shopmaxxs.com^
 ||deal-aktion.de^
@@ -223,7 +232,9 @@
 ||dyson-de.de^
 ||dztraktoren.de^
 ||e-bikermarkt.de^
+||ealzsidb.shop^
 ||ebike-direct24.de^
+||ebike-outlestore.de^
 ||ebikeprofi24.de^
 ||ebm-heimwerk.com^
 ||ecobrennholz.de^
@@ -268,6 +279,7 @@
 ||eurlexodus.com^
 ||eurotech-diamant.de^
 ||euvendorshub.online^
+||eventsamrhein.de^
 ||exklusivrad.de^
 ||expressbrennholz.de^
 ||expresskaminholz24.de^
@@ -294,6 +306,7 @@
 ||felino-sport.de^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
+||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||findaten.de^
 ||finpruefer.de^
@@ -304,6 +317,7 @@
 ||flora-markt.de^
 ||florina-kaufen.de^
 ||flyerfahrrad.com^
+||forsage-gartenkauf.com^
 ||forstbedarf-blessing.de^
 ||frankefahrrad.de^
 ||fumot-shop.de^
@@ -344,6 +358,7 @@
 ||get-epicooler.topashopo.com^
 ||get-omnihear.com^
 ||gfadenoaillac.com^
+||gfhltechnik.de^
 ||ghkmaili.shop^
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
@@ -388,6 +403,7 @@
 ||heizholzbrikett.de^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
+||heizoel-preise.com^
 ||heizoel-welle.de^
 ||heizoel-zentrale.de^
 ||heizprohandel.com^
@@ -405,6 +421,7 @@
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
 ||holzgluck.de^
+||holzgutexpress.de^
 ||holzhambach.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
@@ -527,6 +544,7 @@
 ||maatfusion.com^
 ||maehrobot.shop^
 ||mahershop24.com^
+||mahlwerk-meisterei.de^
 ||mahroboter-freischneider.de^
 ||mahroboterhaus.myshopify.com^
 ||major-agentur.de^
@@ -540,6 +558,7 @@
 ||market.fieldcrofton.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
+||market.stonebournea.com^
 ||market.willowgroven.com^
 ||marketmarkdowns.com^
 ||martml.com^
@@ -561,6 +580,7 @@
 ||milono.de^
 ||ministryoftoys.eu^
 ||misterwinkler.de^
+||mkkrcwss.shop^
 ||mm-energies.de^
 ||mn.magazinmodern.de^
 ||mobel-lenk.shop^
@@ -600,6 +620,7 @@
 ||northkayak.de^
 ||norvahaus.de^
 ||novambients.de^
+||nowfahrrad.de^
 ||nqior.shop^
 ||nuxifuland.shop^
 ||oakhabitsy.com^
@@ -616,6 +637,7 @@
 ||orion-warenhandel.com^
 ||orion-warenhandel.de^
 ||osiris-deutschland.de^
+||ostermaierbrennholz.de^
 ||otto-retouren.de^
 ||outdoorio.de^
 ||palorion.com^
@@ -692,6 +714,7 @@
 ||schnellenberger-haus.de^
 ||schuhhaus-greten.de^
 ||schumann-markt.com^
+||scierie-garmier.de^
 ||seatoria.com^
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
@@ -741,7 +764,9 @@
 ||stella-mccartney.de^
 ||stilwerk.shop^
 ||store.elmleigha.com^
+||store.kingslora.com^
 ||store.quarryby.com^
+||store.ternwick.com^
 ||store.woodgroven.com^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
@@ -750,6 +775,7 @@
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
 ||swabytec24.de^
+||talidix.com^
 ||taotdzhi.shop^
 ||tapex-tapes.de^
 ||taschenalle.com^
@@ -798,6 +824,7 @@
 ||villause.com^
 ||vircominfo.de^
 ||vircomtechnik.de^
+||vision-velo.com^
 ||vitrinaox.de^
 ||voglbaugeschaftgmbh.de^
 ||volkeep.de^
@@ -805,6 +832,7 @@
 ||volkswagen-fahrzeuge.de^
 ||volthausgeraete.de^
 ||voltradbike.de^
+||volturexa.de^
 ||vone-shop.com^
 ||vorwerk-tm.de^
 ||vynxaria.com^
@@ -821,6 +849,7 @@
 ||welttrikot.com^
 ||werkerswelt-moelln.de^
 ||werkstoffholz.de^
+||werkswagen-porsche.de^
 ||werkzeug-brandl.com^
 ||werkzeugbauladen.com^
 ||werkzeuge-maschinen.com^
@@ -844,8 +873,10 @@
 ||xn--rnoholzpelletsgmbh-d3b.de^
 ||xn--uni-ksportgertegmbh-7ua63k.de^
 ||yonexs.at^
+||yzorigwl.shop^
 ||zeigebericht.de^
 ||zentrof.com^
+||zeols.com^
 ||zierfischebayer.de^
 ||zoofaster.de^
 ||zorilenta.com^
