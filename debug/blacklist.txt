@@ -3,38 +3,11 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 841 historical domains from archive.
+# [INFO]    Loaded 872 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 81 clean and validated domains on VZ page.
-# [STATS]   Identified 31 BRAND NEW domains! Updating files...
-# [NEW]      -> aeribold.com
-# [NEW]      -> bauer-brennstoffe.com
-# [NEW]      -> bike-striptechnology.de
-# [NEW]      -> bikecouture.de
-# [NEW]      -> boostertresor.com
-# [NEW]      -> borde-brennholzpaulusgmbh.com
-# [NEW]      -> containercst-gmbh.de
-# [NEW]      -> dalacker-energie.com
-# [NEW]      -> datenfin.de
-# [NEW]      -> ealzsidb.shop
-# [NEW]      -> ebike-outlestore.de
-# [NEW]      -> eventsamrhein.de
-# [NEW]      -> festgeldtracker.us.com
-# [NEW]      -> forsage-gartenkauf.com
-# [NEW]      -> gfhltechnik.de
-# [NEW]      -> heizoel-preise.com
-# [NEW]      -> holzgutexpress.de
-# [NEW]      -> mahlwerk-meisterei.de
-# [NEW]      -> market.stonebournea.com
-# [NEW]      -> mkkrcwss.shop
-# [NEW]      -> nowfahrrad.de
-# [NEW]      -> ostermaierbrennholz.de
-# [NEW]      -> scierie-garmier.de
-# [NEW]      -> store.kingslora.com
-# [NEW]      -> store.ternwick.com
-# [NEW]      -> talidix.com
-# [NEW]      -> vision-velo.com
-# [NEW]      -> volturexa.de
-# [NEW]      -> werkswagen-porsche.de
-# [NEW]      -> yzorigwl.shop
-# [NEW]      -> zeols.com
+# [INFO]    Found 85 clean and validated domains on VZ page.
+# [STATS]   Identified 4 BRAND NEW domains! Updating files...
+# [NEW]      -> brennholzhochwald-de.com
+# [NEW]      -> edelmetallshop24.com
+# [NEW]      -> muenzencorner.com
+# [NEW]      -> sabrobrand.shop

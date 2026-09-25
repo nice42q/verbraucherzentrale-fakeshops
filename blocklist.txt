@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-24 09:05:23 UTC
+# Last update: 2026-09-25 09:27:42 UTC
 #
-# Total archived domains:    872
-# New domains added today:   31
+# Total archived domains:    876
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -122,6 +122,7 @@
 ||brennholz-ws.de^
 ||brennholzbredemeier.com^
 ||brennholzgarten.de^
+||brennholzhochwald-de.com^
 ||brennholzholzge.com^
 ||brennholzrupp.de^
 ||brennstoffe-weddeling.com^
@@ -240,6 +241,7 @@
 ||ecobrennholz.de^
 ||ecoholz-gmbh.eu^
 ||econicosus.de^
+||edelmetallshop24.com^
 ||edelrhein-metalle.de^
 ||edelstil.shop^
 ||ehspelletsgmbh.de^
@@ -597,6 +599,7 @@
 ||mrifhvn.shop^
 ||mtiialolo.com^
 ||muenzenangebot24.com^
+||muenzencorner.com^
 ||muenzenexpertshop.com^
 ||muenzenvault.com^
 ||myplayground.store^
@@ -699,6 +702,7 @@
 ||rudolphmaschine.de^
 ||rundholz-uhlstaedt.de^
 ||rundumstrikot.de^
+||sabrobrand.shop^
 ||salessee.shop^
 ||samoonde.com^
 ||saradhagroup.com^

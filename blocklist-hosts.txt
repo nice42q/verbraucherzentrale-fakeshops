@@ -113,6 +113,7 @@
 0.0.0.0 brennholz-ws.de
 0.0.0.0 brennholzbredemeier.com
 0.0.0.0 brennholzgarten.de
+0.0.0.0 brennholzhochwald-de.com
 0.0.0.0 brennholzholzge.com
 0.0.0.0 brennholzrupp.de
 0.0.0.0 brennstoffe-weddeling.com
@@ -231,6 +232,7 @@
 0.0.0.0 ecobrennholz.de
 0.0.0.0 ecoholz-gmbh.eu
 0.0.0.0 econicosus.de
+0.0.0.0 edelmetallshop24.com
 0.0.0.0 edelrhein-metalle.de
 0.0.0.0 edelstil.shop
 0.0.0.0 ehspelletsgmbh.de
@@ -588,6 +590,7 @@
 0.0.0.0 mrifhvn.shop
 0.0.0.0 mtiialolo.com
 0.0.0.0 muenzenangebot24.com
+0.0.0.0 muenzencorner.com
 0.0.0.0 muenzenexpertshop.com
 0.0.0.0 muenzenvault.com
 0.0.0.0 myplayground.store
@@ -690,6 +693,7 @@
 0.0.0.0 rudolphmaschine.de
 0.0.0.0 rundholz-uhlstaedt.de
 0.0.0.0 rundumstrikot.de
+0.0.0.0 sabrobrand.shop
 0.0.0.0 salessee.shop
 0.0.0.0 samoonde.com
 0.0.0.0 saradhagroup.com
