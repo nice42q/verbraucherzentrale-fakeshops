@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-25 09:27:42 UTC
+# Last update: 2026-09-26 09:12:55 UTC
 #
-# Total archived domains:    876
-# New domains added today:   4
+# Total archived domains:    893
+# New domains added today:   17
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -46,6 +46,7 @@
 ||aristos24.de^
 ||arkenberlin.de^
 ||aroundying.de^
+||ascherslebener-holzhandel.de^
 ||astragroupholding.com^
 ||atlascontainerlogistikgmbh.de^
 ||audi-services.com^
@@ -126,6 +127,7 @@
 ||brennholzholzge.com^
 ||brennholzrupp.de^
 ||brennstoffe-weddeling.com^
+||brennstoffemokstat.shop^
 ||brennstoffportal.de^
 ||brewheaven.shop^
 ||brinkmann-mode.de^
@@ -181,6 +183,8 @@
 ||dasoo.de^
 ||datenfin.de^
 ||davesbiomarkt.de^
+||de.bio-brennholz.de^
+||de.novintra.shop^
 ||de.shopmaxxs.com^
 ||deal-aktion.de^
 ||dealballad.com^
@@ -221,6 +225,7 @@
 ||digitalkontor24.de^
 ||direktbericht.de^
 ||diseasy.shop^
+||distri-globe.de^
 ||dlxn-mode.de^
 ||dr-michael-huss.de^
 ||dragxel.store^
@@ -241,6 +246,7 @@
 ||ecobrennholz.de^
 ||ecoholz-gmbh.eu^
 ||econicosus.de^
+||ecoworkss.store^
 ||edelmetallshop24.com^
 ||edelrhein-metalle.de^
 ||edelstil.shop^
@@ -275,6 +281,7 @@
 ||erzgebirger-uhrwerk.com^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
+||eshop.stonebournea.com^
 ||etrias.de^
 ||ettern24.de^
 ||eufinancetechtoday.com^
@@ -299,6 +306,7 @@
 ||fahrradladen-gronau.de^
 ||fahrradladen-klasen.de^
 ||fahrradladenbrand.de^
+||fahrzeugspur.de^
 ||falthammer-markt.com^
 ||fankluft.com^
 ||fankluft.wickwondershop.com^
@@ -410,6 +418,7 @@
 ||heizoel-zentrale.de^
 ||heizprohandel.com^
 ||heizwelt24.de^
+||hellhausgarten.com^
 ||helmuteco.com^
 ||hensel-markt.com^
 ||heyi-handel.de^
@@ -557,6 +566,7 @@
 ||mariasydney.com^
 ||marie-herbstkg.de^
 ||marinesafetygear.com^
+||market.ashfielden.com^
 ||market.fieldcrofton.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
@@ -671,6 +681,7 @@
 ||profitipp5.de^
 ||pronetivaro.com^
 ||prosolargen-strip.de^
+||qrlsvssy.shop^
 ||quellshop.de^
 ||ra-owl.de^
 ||rabattkorb.de^
@@ -795,6 +806,7 @@
 ||tickgreen.net^
 ||tkpelletsgmbh.de^
 ||tojo-heizoel.de^
+||tokietmo.shop^
 ||tom-trailer.com^
 ||tonerklick24.de^
 ||topeat.lightview.shop^
@@ -808,6 +820,7 @@
 ||trivanode.com^
 ||try.homepromag.com^
 ||tuvas-tech.de^
+||ufheimwerker-de.com^
 ||uhrenchecker.de^
 ||ulmgmbh.com^
 ||unico-studio.com^
@@ -825,6 +838,7 @@
 ||verbraucherzentrale-finanzen.org^
 ||vezeretransports.com^
 ||vidaserenahogar.com^
+||viewhaushaltswaren.shop^
 ||villause.com^
 ||vircominfo.de^
 ||vircomtechnik.de^
@@ -851,6 +865,7 @@
 ||weber-baumarkt.com^
 ||weikershem.de^
 ||welttrikot.com^
+||wensauer-holz.com^
 ||werkerswelt-moelln.de^
 ||werkstoffholz.de^
 ||werkswagen-porsche.de^
@@ -870,6 +885,7 @@
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
+||wloka-brennholz.de^
 ||wood-line24.de^
 ||work-co.de^
 ||worldofwineshop.de^
@@ -877,6 +893,7 @@
 ||xn--rnoholzpelletsgmbh-d3b.de^
 ||xn--uni-ksportgertegmbh-7ua63k.de^
 ||yonexs.at^
+||ysa-handels.com^
 ||yzorigwl.shop^
 ||zeigebericht.de^
 ||zentrof.com^

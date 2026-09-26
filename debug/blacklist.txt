@@ -3,11 +3,24 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 872 historical domains from archive.
+# [INFO]    Loaded 876 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 85 clean and validated domains on VZ page.
-# [STATS]   Identified 4 BRAND NEW domains! Updating files...
-# [NEW]      -> brennholzhochwald-de.com
-# [NEW]      -> edelmetallshop24.com
-# [NEW]      -> muenzencorner.com
-# [NEW]      -> sabrobrand.shop
+# [INFO]    Found 102 clean and validated domains on VZ page.
+# [STATS]   Identified 17 BRAND NEW domains! Updating files...
+# [NEW]      -> ascherslebener-holzhandel.de
+# [NEW]      -> brennstoffemokstat.shop
+# [NEW]      -> de.bio-brennholz.de
+# [NEW]      -> de.novintra.shop
+# [NEW]      -> distri-globe.de
+# [NEW]      -> ecoworkss.store
+# [NEW]      -> eshop.stonebournea.com
+# [NEW]      -> fahrzeugspur.de
+# [NEW]      -> hellhausgarten.com
+# [NEW]      -> market.ashfielden.com
+# [NEW]      -> qrlsvssy.shop
+# [NEW]      -> tokietmo.shop
+# [NEW]      -> ufheimwerker-de.com
+# [NEW]      -> viewhaushaltswaren.shop
+# [NEW]      -> wensauer-holz.com
+# [NEW]      -> wloka-brennholz.de
+# [NEW]      -> ysa-handels.com
