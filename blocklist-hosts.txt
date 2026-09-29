@@ -8,6 +8,7 @@
 0.0.0.0 agritechcenter.de
 0.0.0.0 ai-energy.net
 0.0.0.0 aicheleholzgmbh.de
+0.0.0.0 aknowi.de
 0.0.0.0 aktion-motorrad.de
 0.0.0.0 aktioncode.com
 0.0.0.0 aktivmaxx.com
@@ -324,6 +325,7 @@
 0.0.0.0 fumot-shop.de
 0.0.0.0 fundfjord.com
 0.0.0.0 furneo-handel.com
+0.0.0.0 furnilivora.com
 0.0.0.0 fussballtrikothaus.com
 0.0.0.0 fwnkeoyt.shop
 0.0.0.0 gaborshoesisrael.com
@@ -478,6 +480,7 @@
 0.0.0.0 kalkar-handel.com
 0.0.0.0 kami-holz.de
 0.0.0.0 kaminoland.de
+0.0.0.0 kanzlei-hexental.de
 0.0.0.0 kanzlei-keller-luers.de
 0.0.0.0 kanzlei-neudeck.de
 0.0.0.0 kanzleikonigstein.de
@@ -704,6 +707,7 @@
 0.0.0.0 rudolphmaschine.de
 0.0.0.0 rundholz-uhlstaedt.de
 0.0.0.0 rundumstrikot.de
+0.0.0.0 sabineheidelberg.de
 0.0.0.0 sabrobrand.shop
 0.0.0.0 salessee.shop
 0.0.0.0 samoonde.com

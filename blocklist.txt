@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-26 09:12:55 UTC
+# Last update: 2026-09-29 10:28:38 UTC
 #
-# Total archived domains:    893
-# New domains added today:   17
+# Total archived domains:    897
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -17,6 +17,7 @@
 ||agritechcenter.de^
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
+||aknowi.de^
 ||aktion-motorrad.de^
 ||aktioncode.com^
 ||aktivmaxx.com^
@@ -333,6 +334,7 @@
 ||fumot-shop.de^
 ||fundfjord.com^
 ||furneo-handel.com^
+||furnilivora.com^
 ||fussballtrikothaus.com^
 ||fwnkeoyt.shop^
 ||gaborshoesisrael.com^
@@ -487,6 +489,7 @@
 ||kalkar-handel.com^
 ||kami-holz.de^
 ||kaminoland.de^
+||kanzlei-hexental.de^
 ||kanzlei-keller-luers.de^
 ||kanzlei-neudeck.de^
 ||kanzleikonigstein.de^
@@ -713,6 +716,7 @@
 ||rudolphmaschine.de^
 ||rundholz-uhlstaedt.de^
 ||rundumstrikot.de^
+||sabineheidelberg.de^
 ||sabrobrand.shop^
 ||salessee.shop^
 ||samoonde.com^
