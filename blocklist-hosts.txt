@@ -819,6 +819,7 @@
 0.0.0.0 uhrenchecker.de
 0.0.0.0 ulmgmbh.com
 0.0.0.0 unico-studio.com
+0.0.0.0 universalsack.com
 0.0.0.0 urhenwchmuckrosel.de
 0.0.0.0 usezazzi.com
 0.0.0.0 valaires.com
@@ -874,6 +875,7 @@
 0.0.0.0 westex-handel.de
 0.0.0.0 westex-handell.de
 0.0.0.0 wetzlarindustrysolutions.com
+0.0.0.0 wiga-pharma.de
 0.0.0.0 wilhelm-daume-gmbh.myshopify.com
 0.0.0.0 wilkesarahwelpen.de
 0.0.0.0 willms-forsttechnik.de
