@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-09-30 10:20:12 UTC
+# Last update: 2026-10-01 10:46:49 UTC
 #
-# Total archived domains:    899
-# New domains added today:   2
+# Total archived domains:    910
+# New domains added today:   11
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -57,6 +57,7 @@
 ||autoforum-schoenau.de^
 ||autoforumoberursel.de^
 ||autogalerie29.de^
+||autohaus-temuer.de^
 ||autohistorik.de^
 ||autonivo.de^
 ||autopark-groep.eu^
@@ -127,6 +128,7 @@
 ||brennholzhochwald-de.com^
 ||brennholzholzge.com^
 ||brennholzrupp.de^
+||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
 ||brennstoffportal.de^
@@ -243,6 +245,7 @@
 ||ebike-direct24.de^
 ||ebike-outlestore.de^
 ||ebikeprofi24.de^
+||ebikezeit-fahrrad.de^
 ||ebm-heimwerk.com^
 ||ecobrennholz.de^
 ||ecoholz-gmbh.eu^
@@ -319,6 +322,8 @@
 ||festgeld-profis.de^
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
+||feuerholzliebe.de^
+||finbefund.de^
 ||findaten.de^
 ||finpruefer.de^
 ||firstgoldshop.com^
@@ -422,6 +427,7 @@
 ||heizwelt24.de^
 ||hellhausgarten.com^
 ||helmuteco.com^
+||helvaron.shop^
 ||hensel-markt.com^
 ||heyi-handel.de^
 ||hinato-tech.de^
@@ -429,6 +435,7 @@
 ||hks-versand.de^
 ||hoffmannholz.com^
 ||hohlfeldt-garten.de^
+||holz-market.com^
 ||holz-pellet-bestequalitat.de^
 ||holz-premium.de^
 ||holz-wagner.com^
@@ -438,6 +445,8 @@
 ||holzhambach.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
+||holzliefernexpress.de^
+||holzregional.de^
 ||holzscheitenatur.com^
 ||holzsofort.de^
 ||holzwerkeharz.de^
@@ -452,6 +461,7 @@
 ||hortura.de^
 ||houselytouchspace.com^
 ||houseofbuys.de^
+||hselbe-fahrrad.de^
 ||huard-stammholz.com^
 ||hubwerkshop24.com^
 ||hwg-gedern.com^
@@ -808,6 +818,7 @@
 ||thegentlemenstore.de^
 ||theisentransports.com^
 ||tickgreen.net^
+||tischlereijache-shop.de^
 ||tkpelletsgmbh.de^
 ||tojo-heizoel.de^
 ||tokietmo.shop^
