@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-02 10:21:38 UTC
+# Last update: 2026-10-03 09:43:08 UTC
 #
-# Total archived domains:    911
-# New domains added today:   1
+# Total archived domains:    933
+# New domains added today:   22
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -14,9 +14,11 @@
 ||accompro.com^
 ||aeke-smart.com^
 ||aeribold.com^
+||aerzteregistrat.de^
 ||agritechcenter.de^
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
+||aio-vita.com^
 ||aknowi.de^
 ||aktion-motorrad.de^
 ||aktioncode.com^
@@ -65,6 +67,7 @@
 ||avezzanofahrrad.de^
 ||avientrix.de^
 ||baboktransports.com^
+||backenundsuben.com^
 ||bagtrendshop.com^
 ||bahntechnik-garten.de^
 ||bakta8.myshopify.com^
@@ -154,6 +157,7 @@
 ||center-staubsauger.de^
 ||cervaluxe.com^
 ||cfbl-premiumholz.de^
+||charentesalliance.com^
 ||charj7.myshopify.com^
 ||charlotte-sydney.com^
 ||chleaguy.com^
@@ -182,6 +186,7 @@
 ||cyclemastersstore.com^
 ||dailyberlin.de^
 ||dalacker-energie.com^
+||dankers-containers.de^
 ||das-feel-natural.de^
 ||dasoo.de^
 ||datenfin.de^
@@ -229,7 +234,9 @@
 ||direktbericht.de^
 ||diseasy.shop^
 ||distri-globe.de^
+||diyhandels-de.com^
 ||dlxn-mode.de^
+||doormey.myshopify.com^
 ||dr-michael-huss.de^
 ||dragxel.store^
 ||dreamsleepz.de^
@@ -241,6 +248,7 @@
 ||dyson-de.de^
 ||dztraktoren.de^
 ||e-bikermarkt.de^
+||e24-shopech.com^
 ||ealzsidb.shop^
 ||ebike-direct24.de^
 ||ebike-outlestore.de^
@@ -383,6 +391,7 @@
 ||gmbhboes.de^
 ||goalkertech.com^
 ||goldankauf365.de^
+||goldbesitz.com^
 ||goldenngoosee.com^
 ||goldhandel-richter.de^
 ||gomel-24.de^
@@ -390,6 +399,7 @@
 ||gommel-trading.de^
 ||grand-bazar.de^
 ||greentrimmer.de^
+||grillhausug.com^
 ||grilloon.de^
 ||grillssoon.de^
 ||groupeshf.com^
@@ -417,9 +427,11 @@
 ||heiseno.de^
 ||heiz-fachmann.de^
 ||heizelo.de^
+||heizholz-express.com^
 ||heizholzbrikett.de^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
+||heizoel-online.com^
 ||heizoel-preise.com^
 ||heizoel-welle.de^
 ||heizoel-zentrale.de^
@@ -449,6 +461,7 @@
 ||holzregional.de^
 ||holzscheitenatur.com^
 ||holzsofort.de^
+||holzwaermedirekt.de^
 ||holzwerkeharz.de^
 ||holzwerkzeug-bestequalitat.de^
 ||home-gear24.de^
@@ -548,6 +561,7 @@
 ||laufstyle.com^
 ||lebenskernde.com^
 ||lenaskunst.de^
+||lesboisdubreuil.com^
 ||levinberlin.com^
 ||liaonmskj.com^
 ||liehrforstholz.de^
@@ -613,6 +627,7 @@
 ||mobel-wahls.shop^
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
+||mollerbrennholzhandelgmbh.de^
 ||morenutritionde.shop^
 ||moriaccessoires.com^
 ||mossvibers.com^
@@ -625,6 +640,7 @@
 ||muenzencorner.com^
 ||muenzenexpertshop.com^
 ||muenzenvault.com^
+||musicianshop.de^
 ||myplayground.store^
 ||nanovault.de^
 ||narcyveloshop.com^
@@ -690,6 +706,7 @@
 ||premieumgmbh.de^
 ||prestigemetalle.de^
 ||priceannihilator.com^
+||primini.shop^
 ||profibrennde.com^
 ||profitipp5.de^
 ||pronetivaro.com^
@@ -699,6 +716,7 @@
 ||ra-owl.de^
 ||rabattkorb.de^
 ||rachow-handel.com^
+||racineelectromenager.com^
 ||radmarkt-schaeler.de^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
@@ -725,6 +743,7 @@
 ||rqhtyztv.shop^
 ||rudolphmaschine.de^
 ||rundholz-uhlstaedt.de^
+||rundholzdirekt.de^
 ||rundumstrikot.de^
 ||sabineheidelberg.de^
 ||sabrobrand.shop^
@@ -735,6 +754,7 @@
 ||sasprodesca.com^
 ||savemosaic.com^
 ||savenesting.com^
+||scandiwarm.com^
 ||scheideckerholz.com^
 ||schirmlieb.store^
 ||schmidmodesalzburg.de^
@@ -744,6 +764,7 @@
 ||schuhhaus-greten.de^
 ||schumann-markt.com^
 ||scierie-garmier.de^
+||sciponoe.com^
 ||seatoria.com^
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
@@ -852,6 +873,7 @@
 ||verbraucher-institut.com^
 ||verbraucherfokus-test.de^
 ||verbraucherzentrale-finanzen.org^
+||verlinggroup.com^
 ||vezeretransports.com^
 ||vidaserenahogar.com^
 ||viewhaushaltswaren.shop^

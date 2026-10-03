@@ -3,8 +3,29 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 910 historical domains from archive.
+# [INFO]    Loaded 911 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 103 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> weinlandhub.com
+# [INFO]    Found 126 clean and validated domains on VZ page.
+# [STATS]   Identified 22 BRAND NEW domains! Updating files...
+# [NEW]      -> aerzteregistrat.de
+# [NEW]      -> aio-vita.com
+# [NEW]      -> backenundsuben.com
+# [NEW]      -> charentesalliance.com
+# [NEW]      -> dankers-containers.de
+# [NEW]      -> diyhandels-de.com
+# [NEW]      -> doormey.myshopify.com
+# [NEW]      -> e24-shopech.com
+# [NEW]      -> goldbesitz.com
+# [NEW]      -> grillhausug.com
+# [NEW]      -> heizholz-express.com
+# [NEW]      -> heizoel-online.com
+# [NEW]      -> holzwaermedirekt.de
+# [NEW]      -> lesboisdubreuil.com
+# [NEW]      -> mollerbrennholzhandelgmbh.de
+# [NEW]      -> musicianshop.de
+# [NEW]      -> primini.shop
+# [NEW]      -> racineelectromenager.com
+# [NEW]      -> rundholzdirekt.de
+# [NEW]      -> scandiwarm.com
+# [NEW]      -> sciponoe.com
+# [NEW]      -> verlinggroup.com
