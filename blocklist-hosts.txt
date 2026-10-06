@@ -21,6 +21,7 @@
 0.0.0.0 am-onlinehandel.de
 0.0.0.0 andreaswerkstatt.de
 0.0.0.0 angebote-kauf.de
+0.0.0.0 anhaenger-brennholz.de
 0.0.0.0 anhaenger-klasen.de
 0.0.0.0 anhaengerhub.de
 0.0.0.0 anhangermaschinen.com
@@ -121,6 +122,7 @@
 0.0.0.0 brennholzgarten.de
 0.0.0.0 brennholzhochwald-de.com
 0.0.0.0 brennholzholzge.com
+0.0.0.0 brennholzkraft.com
 0.0.0.0 brennholzrupp.de
 0.0.0.0 brennkiste.de
 0.0.0.0 brennstoffe-weddeling.com
