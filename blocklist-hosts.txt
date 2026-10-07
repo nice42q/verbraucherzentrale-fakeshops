@@ -115,6 +115,7 @@
 0.0.0.0 brenner-berlin.com
 0.0.0.0 brennholz-anhaenger.de
 0.0.0.0 brennholz-bernd.com
+0.0.0.0 brennholz-deckarm.shop
 0.0.0.0 brennholz-hans.de
 0.0.0.0 brennholz-quelle.de
 0.0.0.0 brennholz-ws.de
@@ -387,6 +388,7 @@
 0.0.0.0 goldbesitz.com
 0.0.0.0 goldenngoosee.com
 0.0.0.0 goldhandel-richter.de
+0.0.0.0 goldstern-elektro.com
 0.0.0.0 gomel-24.de
 0.0.0.0 gomell-24.de
 0.0.0.0 gommel-trading.de
@@ -448,6 +450,7 @@
 0.0.0.0 holzgluck.de
 0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhambach.com
+0.0.0.0 holzkamin.com
 0.0.0.0 holzkerssenbrock.de
 0.0.0.0 holzlangbau.de
 0.0.0.0 holzliefernexpress.de
@@ -597,12 +600,14 @@
 0.0.0.0 maxcapitalkredit.de
 0.0.0.0 maycoffeehouse.shop
 0.0.0.0 mediamarkt-gg.de
+0.0.0.0 meifenspiel.com
 0.0.0.0 mein.lhk.de-plushilfe.com
 0.0.0.0 meingartenportal.de
 0.0.0.0 meingartenwelt.com
 0.0.0.0 meinpfotennetzwerk.de
 0.0.0.0 meistervolt.de
 0.0.0.0 mekura.de
+0.0.0.0 melano-berlin.com
 0.0.0.0 midea-europa.de
 0.0.0.0 midea-klima.de
 0.0.0.0 midea-klimaanlage.de

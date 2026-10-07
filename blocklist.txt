@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-06 11:04:43 UTC
+# Last update: 2026-10-07 10:54:17 UTC
 #
-# Total archived domains:    935
-# New domains added today:   2
+# Total archived domains:    940
+# New domains added today:   5
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -124,6 +124,7 @@
 ||brenner-berlin.com^
 ||brennholz-anhaenger.de^
 ||brennholz-bernd.com^
+||brennholz-deckarm.shop^
 ||brennholz-hans.de^
 ||brennholz-quelle.de^
 ||brennholz-ws.de^
@@ -396,6 +397,7 @@
 ||goldbesitz.com^
 ||goldenngoosee.com^
 ||goldhandel-richter.de^
+||goldstern-elektro.com^
 ||gomel-24.de^
 ||gomell-24.de^
 ||gommel-trading.de^
@@ -457,6 +459,7 @@
 ||holzgluck.de^
 ||holzgutexpress.de^
 ||holzhambach.com^
+||holzkamin.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
 ||holzliefernexpress.de^
@@ -606,12 +609,14 @@
 ||maxcapitalkredit.de^
 ||maycoffeehouse.shop^
 ||mediamarkt-gg.de^
+||meifenspiel.com^
 ||mein.lhk.de-plushilfe.com^
 ||meingartenportal.de^
 ||meingartenwelt.com^
 ||meinpfotennetzwerk.de^
 ||meistervolt.de^
 ||mekura.de^
+||melano-berlin.com^
 ||midea-europa.de^
 ||midea-klima.de^
 ||midea-klimaanlage.de^

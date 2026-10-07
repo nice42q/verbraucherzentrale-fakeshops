@@ -3,9 +3,12 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 933 historical domains from archive.
+# [INFO]    Loaded 935 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 123 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> anhaenger-brennholz.de
-# [NEW]      -> brennholzkraft.com
+# [INFO]    Found 127 clean and validated domains on VZ page.
+# [STATS]   Identified 5 BRAND NEW domains! Updating files...
+# [NEW]      -> brennholz-deckarm.shop
+# [NEW]      -> goldstern-elektro.com
+# [NEW]      -> holzkamin.com
+# [NEW]      -> meifenspiel.com
+# [NEW]      -> melano-berlin.com
