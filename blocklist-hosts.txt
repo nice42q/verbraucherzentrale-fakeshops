@@ -159,6 +159,7 @@
 0.0.0.0 cibomatt.com
 0.0.0.0 cinderella-braut.de
 0.0.0.0 civ-vertrieb.de
+0.0.0.0 cjtzat.shop
 0.0.0.0 cjudelo.shop
 0.0.0.0 clara-copenhagen.com
 0.0.0.0 cloudtritt.de
@@ -170,6 +171,8 @@
 0.0.0.0 containerschiffsreedereigmbh.de
 0.0.0.0 coolzy.com
 0.0.0.0 cosanne-baumarkt.com
+0.0.0.0 cosmic-tower.ch
+0.0.0.0 cosmictower.ch
 0.0.0.0 crazyunbelieavablefunnel.com
 0.0.0.0 crcmfcsb.shop
 0.0.0.0 csbclo.de
@@ -242,6 +245,8 @@
 0.0.0.0 dyson-de.de
 0.0.0.0 dztraktoren.de
 0.0.0.0 e-bikermarkt.de
+0.0.0.0 e-bikesmkgmbh-de.com
+0.0.0.0 e-bikesmkgmbh.com
 0.0.0.0 e24-shopech.com
 0.0.0.0 ealzsidb.shop
 0.0.0.0 ebike-direct24.de
@@ -426,6 +431,7 @@
 0.0.0.0 heizholzbrikett.de
 0.0.0.0 heizoel-discount.de
 0.0.0.0 heizoel-fuchs24.de
+0.0.0.0 heizoel-genial.com
 0.0.0.0 heizoel-online.com
 0.0.0.0 heizoel-preise.com
 0.0.0.0 heizoel-welle.de

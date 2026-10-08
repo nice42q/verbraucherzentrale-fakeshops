@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-07 10:54:17 UTC
+# Last update: 2026-10-08 11:11:38 UTC
 #
-# Total archived domains:    940
-# New domains added today:   5
+# Total archived domains:    946
+# New domains added today:   6
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -168,6 +168,7 @@
 ||cibomatt.com^
 ||cinderella-braut.de^
 ||civ-vertrieb.de^
+||cjtzat.shop^
 ||cjudelo.shop^
 ||clara-copenhagen.com^
 ||cloudtritt.de^
@@ -179,6 +180,8 @@
 ||containerschiffsreedereigmbh.de^
 ||coolzy.com^
 ||cosanne-baumarkt.com^
+||cosmic-tower.ch^
+||cosmictower.ch^
 ||crazyunbelieavablefunnel.com^
 ||crcmfcsb.shop^
 ||csbclo.de^
@@ -251,6 +254,8 @@
 ||dyson-de.de^
 ||dztraktoren.de^
 ||e-bikermarkt.de^
+||e-bikesmkgmbh-de.com^
+||e-bikesmkgmbh.com^
 ||e24-shopech.com^
 ||ealzsidb.shop^
 ||ebike-direct24.de^
@@ -435,6 +440,7 @@
 ||heizholzbrikett.de^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
+||heizoel-genial.com^
 ||heizoel-online.com^
 ||heizoel-preise.com^
 ||heizoel-welle.de^
