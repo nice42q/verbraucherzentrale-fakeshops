@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-08 11:11:38 UTC
+# Last update: 2026-10-09 11:10:28 UTC
 #
-# Total archived domains:    946
-# New domains added today:   6
+# Total archived domains:    963
+# New domains added today:   17
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -33,6 +33,7 @@
 ||anhaenger-brennholz.de^
 ||anhaenger-klasen.de^
 ||anhaengerhub.de^
+||anhaengerliebe.de^
 ||anhangermaschinen.com^
 ||anhangermaschinen.de^
 ||ankerflowtech.shop^
@@ -132,11 +133,13 @@
 ||brennholzgarten.de^
 ||brennholzhochwald-de.com^
 ||brennholzholzge.com^
+||brennholzkontorscharf.de^
 ||brennholzkraft.com^
 ||brennholzrupp.de^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
+||brennstoffhandel-behnke.de^
 ||brennstoffportal.de^
 ||brewheaven.shop^
 ||brinkmann-mode.de^
@@ -326,6 +329,7 @@
 ||fahrradladen-gronau.de^
 ||fahrradladen-klasen.de^
 ||fahrradladenbrand.de^
+||fahrradu.de^
 ||fahrzeugspur.de^
 ||falthammer-markt.com^
 ||fankluft.com^
@@ -377,6 +381,7 @@
 ||gartenpflegegmbh.com^
 ||gartenpools24.de^
 ||gartenpools24.shop^
+||gartentechnikwelt.de^
 ||gartenundanhaenger.de^
 ||gascovert.com^
 ||gbr-office.de^
@@ -462,6 +467,8 @@
 ||holz-premium.de^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
+||holzfeuerlust.de^
+||holzfurwinter.com^
 ||holzgluck.de^
 ||holzgutexpress.de^
 ||holzhambach.com^
@@ -560,6 +567,7 @@
 ||kronsummitgmbh.de^
 ||kruegermadl.de^
 ||kuchenheim.shop^
+||kuk-kaffee.de^
 ||kuriovault.com^
 ||labexholz.de^
 ||lamerahomemobel.shop^
@@ -575,12 +583,14 @@
 ||lesboisdubreuil.com^
 ||levinberlin.com^
 ||liaonmskj.com^
+||lichtwappen.de^
 ||liehrforstholz.de^
 ||likdl.shop^
 ||limon-shop.at^
 ||lina-athens.com^
 ||living-smarter24.com^
 ||livohaus.com^
+||lkwpetru-shop.com^
 ||loaspool.de^
 ||lola58.myshopify.com^
 ||luckybrand-deutschland.com^
@@ -591,6 +601,7 @@
 ||luvikar.com^
 ||m.sakerplus.de^
 ||maatfusion.com^
+||machinery-technologyeuropeltd.de^
 ||maehrobot.shop^
 ||mahershop24.com^
 ||mahlwerk-meisterei.de^
@@ -611,9 +622,11 @@
 ||market.stonebournea.com^
 ||market.willowgroven.com^
 ||marketmarkdowns.com^
+||marktkaminofenholz.com^
 ||martml.com^
 ||maxcapitalkredit.de^
 ||maycoffeehouse.shop^
+||mayer-geraete24.de^
 ||mediamarkt-gg.de^
 ||meifenspiel.com^
 ||mein.lhk.de-plushilfe.com^
@@ -730,6 +743,7 @@
 ||rabattkorb.de^
 ||rachow-handel.com^
 ||racineelectromenager.com^
+||radfit24.com^
 ||radmarkt-schaeler.de^
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
@@ -741,6 +755,7 @@
 ||reindesigner-handel.de^
 ||reisholzgmbh.de^
 ||rekordpellets.com^
+||reptailshop.de^
 ||retrorunner.de^
 ||reynamobel.shop^
 ||ridegefuhl.de^
@@ -835,6 +850,7 @@
 ||strobllandmaschinen.de^
 ||suessegenuss.com^
 ||sufrema-kaufen.de^
+||sunpowerprofi.de^
 ||supplierseu.com^
 ||supplierseu.myshopify.com^
 ||swabytec24.de^
@@ -847,6 +863,7 @@
 ||teamstryk.de^
 ||technoant.co^
 ||teeto.de^
+||tektronix-gmbh.com^
 ||terraqo.de^
 ||terrariumhaustiere.com^
 ||thegentlemenstore.de^

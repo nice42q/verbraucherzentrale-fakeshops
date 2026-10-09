@@ -3,13 +3,24 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 940 historical domains from archive.
+# [INFO]    Loaded 946 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 108 clean and validated domains on VZ page.
-# [STATS]   Identified 6 BRAND NEW domains! Updating files...
-# [NEW]      -> cjtzat.shop
-# [NEW]      -> cosmic-tower.ch
-# [NEW]      -> cosmictower.ch
-# [NEW]      -> e-bikesmkgmbh-de.com
-# [NEW]      -> e-bikesmkgmbh.com
-# [NEW]      -> heizoel-genial.com
+# [INFO]    Found 125 clean and validated domains on VZ page.
+# [STATS]   Identified 17 BRAND NEW domains! Updating files...
+# [NEW]      -> anhaengerliebe.de
+# [NEW]      -> brennholzkontorscharf.de
+# [NEW]      -> brennstoffhandel-behnke.de
+# [NEW]      -> fahrradu.de
+# [NEW]      -> gartentechnikwelt.de
+# [NEW]      -> holzfeuerlust.de
+# [NEW]      -> holzfurwinter.com
+# [NEW]      -> kuk-kaffee.de
+# [NEW]      -> lichtwappen.de
+# [NEW]      -> lkwpetru-shop.com
+# [NEW]      -> machinery-technologyeuropeltd.de
+# [NEW]      -> marktkaminofenholz.com
+# [NEW]      -> mayer-geraete24.de
+# [NEW]      -> radfit24.com
+# [NEW]      -> reptailshop.de
+# [NEW]      -> sunpowerprofi.de
+# [NEW]      -> tektronix-gmbh.com
