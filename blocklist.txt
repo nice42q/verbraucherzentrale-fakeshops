@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-09 11:10:28 UTC
+# Last update: 2026-10-10 10:27:49 UTC
 #
-# Total archived domains:    963
-# New domains added today:   17
+# Total archived domains:    986
+# New domains added today:   23
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -75,6 +75,7 @@
 ||bakta8.myshopify.com^
 ||ballqen.com^
 ||bargainbayou.com^
+||batterie-industrie-germany.de^
 ||bauer-brennstoffe.com^
 ||baustoffe-sales.com^
 ||bawz.store^
@@ -92,6 +93,7 @@
 ||berichtkfz.de^
 ||berichtprofi.de^
 ||berkler-maschinen.de^
+||berlin-brennstoffe.de^
 ||berma-handel.de^
 ||bermar-grills.de^
 ||beste-anhaenger.de^
@@ -136,6 +138,7 @@
 ||brennholzkontorscharf.de^
 ||brennholzkraft.com^
 ||brennholzrupp.de^
+||brennholzschneblegmbh.com^
 ||brennkiste.de^
 ||brennstoffe-weddeling.com^
 ||brennstoffemokstat.shop^
@@ -156,6 +159,7 @@
 ||campingspezialisten.com^
 ||canmidy.com^
 ||canyonoutlet.de^
+||carpruf.de^
 ||cartsaga.com^
 ||casualstore77.de^
 ||cbvdshj.com^
@@ -202,6 +206,7 @@
 ||davesbiomarkt.de^
 ||de.bio-brennholz.de^
 ||de.novintra.shop^
+||de.plantiter.shop^
 ||de.shopmaxxs.com^
 ||deal-aktion.de^
 ||dealballad.com^
@@ -343,6 +348,7 @@
 ||festgeldtracker.us.com^
 ||feuerholzexpress.de^
 ||feuerholzliebe.de^
+||feuerund-holz.de^
 ||finbefund.de^
 ||findaten.de^
 ||finpruefer.de^
@@ -390,6 +396,7 @@
 ||gelschuhe.de^
 ||gelvibe.de^
 ||gepaecktasch.com^
+||gerardusbraas.com^
 ||gerlinelshop.com^
 ||get-airzuma.topashopo.com^
 ||get-epicooler.com^
@@ -403,6 +410,7 @@
 ||glow-garten.com^
 ||gmbhboes.de^
 ||goalkertech.com^
+||goillo.com^
 ||goldankauf365.de^
 ||goldbesitz.com^
 ||goldenngoosee.com^
@@ -434,6 +442,7 @@
 ||haus-apotheke.eu^
 ||hausgeratewelt.com^
 ||haushaltsgeraete-profis.de^
+||hauspellets.de^
 ||heidel-heizoel.de^
 ||heimhof24.de^
 ||heineoutlet.com^
@@ -443,6 +452,7 @@
 ||heizelo.de^
 ||heizholz-express.com^
 ||heizholzbrikett.de^
+||heizoel-bio.com^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
 ||heizoel-genial.com^
@@ -623,7 +633,9 @@
 ||market.willowgroven.com^
 ||marketmarkdowns.com^
 ||marktkaminofenholz.com^
+||marnau.shop^
 ||martml.com^
+||maschine1shop.com^
 ||maxcapitalkredit.de^
 ||maycoffeehouse.shop^
 ||mayer-geraete24.de^
@@ -643,6 +655,8 @@
 ||midea-klimawelt.de^
 ||mideaklima.de^
 ||milono.de^
+||mimosashop.de^
+||minibagger360.de^
 ||ministryoftoys.eu^
 ||misterwinkler.de^
 ||mkkrcwss.shop^
@@ -668,6 +682,7 @@
 ||muenzenvault.com^
 ||musicianshop.de^
 ||myplayground.store^
+||nagelein-handel.com^
 ||nanovault.de^
 ||narcyveloshop.com^
 ||narnos.de^
@@ -675,6 +690,7 @@
 ||nebelrad.de^
 ||nestleovae.com^
 ||nestmypad.com^
+||netzpro.shop^
 ||neurotweinrabatt.com^
 ||nevari.de^
 ||nexuswebshop.com^
@@ -715,6 +731,7 @@
 ||pelletkraft.de^
 ||pelletpoint77gmbh.de^
 ||pellets-maschinen.de^
+||peptide-shop.org^
 ||pfannendeck.de^
 ||ph-gartenmaschinen.de^
 ||pinggona.de^
@@ -780,6 +797,7 @@
 ||saradhagroup.com^
 ||sarl-castelmag.com^
 ||sasprodesca.com^
+||sasstone.com^
 ||savemosaic.com^
 ||savenesting.com^
 ||scandiwarm.com^
@@ -793,6 +811,7 @@
 ||schumann-markt.com^
 ||scierie-garmier.de^
 ||sciponoe.com^
+||scs-elektro.de^
 ||seatoria.com^
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
@@ -808,6 +827,7 @@
 ||sigl-inso.de^
 ||silberschmuckpro.com^
 ||silveraureus.com^
+||sissoko-keita.com^
 ||skinqira.de^
 ||sky-trikot-shop.de^
 ||sl-handel.com^
@@ -837,6 +857,7 @@
 ||stammholz-gmbh.com^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
+||steflio.com^
 ||steinberg-munchen.com^
 ||steinhofen-partner.de^
 ||stella-mccartney.de^
@@ -896,6 +917,7 @@
 ||valaires.com^
 ||valuedealbox.com^
 ||vanofashion.de^
+||varzunel.com^
 ||vdel-electromenager.com^
 ||vega-energy.de^
 ||venorital.com^
@@ -956,6 +978,7 @@
 ||winklers-wohnpower.de^
 ||wisdom-heimbedarf.com^
 ||wloka-brennholz.de^
+||wohnelva.de^
 ||wood-line24.de^
 ||work-co.de^
 ||worldofwineshop.de^
