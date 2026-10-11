@@ -3,30 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 963 historical domains from archive.
+# [INFO]    Loaded 986 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 148 clean and validated domains on VZ page.
-# [STATS]   Identified 23 BRAND NEW domains! Updating files...
-# [NEW]      -> batterie-industrie-germany.de
-# [NEW]      -> berlin-brennstoffe.de
-# [NEW]      -> brennholzschneblegmbh.com
-# [NEW]      -> carpruf.de
-# [NEW]      -> de.plantiter.shop
-# [NEW]      -> feuerund-holz.de
-# [NEW]      -> gerardusbraas.com
-# [NEW]      -> goillo.com
-# [NEW]      -> hauspellets.de
-# [NEW]      -> heizoel-bio.com
-# [NEW]      -> marnau.shop
-# [NEW]      -> maschine1shop.com
-# [NEW]      -> mimosashop.de
-# [NEW]      -> minibagger360.de
-# [NEW]      -> nagelein-handel.com
-# [NEW]      -> netzpro.shop
-# [NEW]      -> peptide-shop.org
-# [NEW]      -> sasstone.com
-# [NEW]      -> scs-elektro.de
-# [NEW]      -> sissoko-keita.com
-# [NEW]      -> steflio.com
-# [NEW]      -> varzunel.com
-# [NEW]      -> wohnelva.de
+# [INFO]    Found 147 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
