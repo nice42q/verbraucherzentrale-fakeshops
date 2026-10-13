@@ -725,6 +725,7 @@
 0.0.0.0 peptide-shop.org
 0.0.0.0 pfannendeck.de
 0.0.0.0 ph-gartenmaschinen.de
+0.0.0.0 philoro.online
 0.0.0.0 pinggona.de
 0.0.0.0 pingona.de
 0.0.0.0 pingona.shop
@@ -908,6 +909,7 @@
 0.0.0.0 valaires.com
 0.0.0.0 valuedealbox.com
 0.0.0.0 vanofashion.de
+0.0.0.0 vape-de.de
 0.0.0.0 varzunel.com
 0.0.0.0 vdel-electromenager.com
 0.0.0.0 vega-energy.de

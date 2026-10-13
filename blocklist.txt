@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-10 10:27:49 UTC
+# Last update: 2026-10-13 11:30:04 UTC
 #
-# Total archived domains:    986
-# New domains added today:   23
+# Total archived domains:    988
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -734,6 +734,7 @@
 ||peptide-shop.org^
 ||pfannendeck.de^
 ||ph-gartenmaschinen.de^
+||philoro.online^
 ||pinggona.de^
 ||pingona.de^
 ||pingona.shop^
@@ -917,6 +918,7 @@
 ||valaires.com^
 ||valuedealbox.com^
 ||vanofashion.de^
+||vape-de.de^
 ||varzunel.com^
 ||vdel-electromenager.com^
 ||vega-energy.de^
