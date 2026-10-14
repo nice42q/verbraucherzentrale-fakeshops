@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-13 11:30:04 UTC
+# Last update: 2026-10-14 09:21:26 UTC
 #
-# Total archived domains:    988
-# New domains added today:   2
+# Total archived domains:    995
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -131,6 +131,7 @@
 ||brennholz-hans.de^
 ||brennholz-quelle.de^
 ||brennholz-ws.de^
+||brennholzangebot.com^
 ||brennholzbredemeier.com^
 ||brennholzgarten.de^
 ||brennholzhochwald-de.com^
@@ -230,6 +231,7 @@
 ||dein-heizoelmarkt.de^
 ||dekorations-o-grod.de^
 ||delecato.de^
+||delphios.shop^
 ||deracing-planet.com^
 ||derbybikesholding.de^
 ||derbyfahrrader.de^
@@ -343,6 +345,7 @@
 ||fastenergy24.com^
 ||fatoobal.com^
 ||felino-sport.de^
+||fest-holz.com^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
 ||festgeldtracker.us.com^
@@ -431,6 +434,7 @@
 ||gwosdz-handel.de^
 ||hagebaumarkt-muenchen.shop^
 ||haibikerabatt.com^
+||halseband-technik.de^
 ||handel57.de^
 ||handelshaus-buchem.de^
 ||handtholzhandelgmbh.de^
@@ -538,6 +542,7 @@
 ||kaimoro.de^
 ||kaiser-kauf.com^
 ||kalkar-handel.com^
+||kaltesholz.com^
 ||kami-holz.de^
 ||kaminoland.de^
 ||kanzlei-hexental.de^
@@ -613,6 +618,7 @@
 ||maatfusion.com^
 ||machinery-technologyeuropeltd.de^
 ||maehrobot.shop^
+||magiluxe-store.com^
 ||mahershop24.com^
 ||mahlwerk-meisterei.de^
 ||mahroboter-freischneider.de^
@@ -756,6 +762,7 @@
 ||pronetivaro.com^
 ||prosolargen-strip.de^
 ||qrlsvssy.shop^
+||quarvesta.shop^
 ||quellshop.de^
 ||ra-owl.de^
 ||rabattkorb.de^
