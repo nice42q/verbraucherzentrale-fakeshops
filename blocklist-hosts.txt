@@ -234,6 +234,7 @@
 0.0.0.0 deutschlandtv-4k.de
 0.0.0.0 dexer-handel.de
 0.0.0.0 dhg-versand.de
+0.0.0.0 dieameisenmaler.myshopify.com
 0.0.0.0 dieholzstucke.de
 0.0.0.0 diermann-marketing.de
 0.0.0.0 digitalhandel.shop
@@ -805,6 +806,7 @@
 0.0.0.0 schmidmodesalzburg.de
 0.0.0.0 schmidtmaschine.de
 0.0.0.0 schmidts-handel.de
+0.0.0.0 schmitz-bio-ol.de
 0.0.0.0 schnellenberger-haus.de
 0.0.0.0 schuhhaus-greten.de
 0.0.0.0 schumann-markt.com
@@ -979,6 +981,7 @@
 0.0.0.0 wisdom-heimbedarf.com
 0.0.0.0 wloka-brennholz.de
 0.0.0.0 wohnelva.de
+0.0.0.0 wohnenideenalltag.com
 0.0.0.0 wood-line24.de
 0.0.0.0 work-co.de
 0.0.0.0 worldofwineshop.de

@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-14 09:21:26 UTC
+# Last update: 2026-10-16 08:49:09 UTC
 #
-# Total archived domains:    995
-# New domains added today:   7
+# Total archived domains:    998
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -243,6 +243,7 @@
 ||deutschlandtv-4k.de^
 ||dexer-handel.de^
 ||dhg-versand.de^
+||dieameisenmaler.myshopify.com^
 ||dieholzstucke.de^
 ||diermann-marketing.de^
 ||digitalhandel.shop^
@@ -814,6 +815,7 @@
 ||schmidmodesalzburg.de^
 ||schmidtmaschine.de^
 ||schmidts-handel.de^
+||schmitz-bio-ol.de^
 ||schnellenberger-haus.de^
 ||schuhhaus-greten.de^
 ||schumann-markt.com^
@@ -988,6 +990,7 @@
 ||wisdom-heimbedarf.com^
 ||wloka-brennholz.de^
 ||wohnelva.de^
+||wohnenideenalltag.com^
 ||wood-line24.de^
 ||work-co.de^
 ||worldofwineshop.de^
