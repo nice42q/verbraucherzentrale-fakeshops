@@ -3,10 +3,34 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 995 historical domains from archive.
+# [INFO]    Loaded 998 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 107 clean and validated domains on VZ page.
-# [STATS]   Identified 3 BRAND NEW domains! Updating files...
-# [NEW]      -> dieameisenmaler.myshopify.com
-# [NEW]      -> schmitz-bio-ol.de
-# [NEW]      -> wohnenideenalltag.com
+# [INFO]    Found 134 clean and validated domains on VZ page.
+# [STATS]   Identified 27 BRAND NEW domains! Updating files...
+# [NEW]      -> brennholzprofipretzl.de
+# [NEW]      -> buchlaterne.de
+# [NEW]      -> campusfahrradergmbh.de
+# [NEW]      -> centraltradingshop.com
+# [NEW]      -> cf-handelsshop.com
+# [NEW]      -> daily-outfit.de
+# [NEW]      -> dieameisenmaler.com
+# [NEW]      -> eg-tradeshop.com
+# [NEW]      -> einstefeg.shop
+# [NEW]      -> escobike.shop
+# [NEW]      -> finsiegel.de
+# [NEW]      -> fxtpi.shop
+# [NEW]      -> hannoverebikes.de
+# [NEW]      -> hauslich.com
+# [NEW]      -> kaufello.shop
+# [NEW]      -> kcfvsjpr.shop
+# [NEW]      -> msihandelgmbh.de
+# [NEW]      -> neology-stripe.de
+# [NEW]      -> nicoudo.com
+# [NEW]      -> oko-spechtbrennholzgmbh.de
+# [NEW]      -> pelletkontor.de
+# [NEW]      -> rmwpharw.shop
+# [NEW]      -> saia-maschinen.com
+# [NEW]      -> tc-germany.com
+# [NEW]      -> vogeler-technik.de
+# [NEW]      -> wmuwoebj.shop
+# [NEW]      -> zvelonium.de
