@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-17 08:19:22 UTC
+# Last update: 2026-10-21 09:11:17 UTC
 #
-# Total archived domains:    1025
-# New domains added today:   27
+# Total archived domains:    1026
+# New domains added today:   1
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -807,6 +807,7 @@
 ||reynamobel.shop^
 ||ridegefuhl.de^
 ||ridelbergu.de^
+||riedelweinglaser.de^
 ||riley-vancouver.com^
 ||rileyheftman.shop^
 ||ripob.com^
