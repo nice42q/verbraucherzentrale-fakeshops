@@ -3,8 +3,21 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1025 historical domains from archive.
+# [INFO]    Loaded 1026 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 115 clean and validated domains on VZ page.
-# [STATS]   Identified 1 BRAND NEW domains! Updating files...
-# [NEW]      -> riedelweinglaser.de
+# [INFO]    Found 108 clean and validated domains on VZ page.
+# [STATS]   Identified 14 BRAND NEW domains! Updating files...
+# [NEW]      -> auraverely.com
+# [NEW]      -> b-chauffage.de
+# [NEW]      -> berger-brennstoffe.com
+# [NEW]      -> bhsbrennholzservicegmbh.de
+# [NEW]      -> bonprixmode.com
+# [NEW]      -> brennholzmuscheid.com
+# [NEW]      -> brennholztuehandel.de
+# [NEW]      -> brennstoffe-kappus.com
+# [NEW]      -> btrgservices.com
+# [NEW]      -> kanzlei-owl.com
+# [NEW]      -> madegsly.com
+# [NEW]      -> purekaffee.com
+# [NEW]      -> servicehanschen-kg.com
+# [NEW]      -> weteextees.com
