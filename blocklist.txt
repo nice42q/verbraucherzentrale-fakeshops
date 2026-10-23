@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-22 09:14:05 UTC
+# Last update: 2026-10-23 09:10:22 UTC
 #
-# Total archived domains:    1040
-# New domains added today:   14
+# Total archived domains:    1075
+# New domains added today:   35
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -95,6 +95,7 @@
 ||bergschatz.de^
 ||berichtkfz.de^
 ||berichtprofi.de^
+||berkklan.myshopify.com^
 ||berkler-maschinen.de^
 ||berlin-brennstoffe.de^
 ||berma-handel.de^
@@ -134,6 +135,7 @@
 ||brennholz-bernd.com^
 ||brennholz-deckarm.shop^
 ||brennholz-hans.de^
+||brennholz-kammer.de^
 ||brennholz-quelle.de^
 ||brennholz-ws.de^
 ||brennholzangebot.com^
@@ -247,6 +249,7 @@
 ||dekorations-o-grod.de^
 ||delecato.de^
 ||delphios.shop^
+||delvaxor.shop^
 ||deracing-planet.com^
 ||derbybikesholding.de^
 ||derbyfahrrader.de^
@@ -401,6 +404,7 @@
 ||garden-de.myshopify.com^
 ||gardensvergen30.myshopify.com^
 ||gardensvergen36.myshopify.com^
+||garmica.shop^
 ||garten-market.com^
 ||gartenersatz.de^
 ||gartenexperte24.com^
@@ -435,12 +439,14 @@
 ||glow-garten.com^
 ||gmbhboes.de^
 ||goalkertech.com^
+||goia-direkt.de^
 ||goillo.com^
 ||goldankauf365.de^
 ||goldbesitz.com^
 ||goldenngoosee.com^
 ||goldhandel-richter.de^
 ||goldstern-elektro.com^
+||golfnavi.shop^
 ||gomel-24.de^
 ||gomell-24.de^
 ||gommel-trading.de^
@@ -449,6 +455,7 @@
 ||grillhausug.com^
 ||grilloon.de^
 ||grillssoon.de^
+||grondberg.de^
 ||groupeshf.com^
 ||gruenliva.de^
 ||gueta-handel.de^
@@ -466,10 +473,12 @@
 ||hannoverebikes.de^
 ||hansacontainergmbh.de^
 ||hartholz-briketts.de^
+||hauke-verteilung.com^
 ||haus-apotheke.eu^
 ||hausgeratewelt.com^
 ||haushaltsgeraete-profis.de^
 ||hauslich.com^
+||hausora.shop^
 ||hauspellets.de^
 ||heidel-heizoel.de^
 ||heimhof24.de^
@@ -522,6 +531,7 @@
 ||holzwerkzeug-bestequalitat.de^
 ||home-gear24.de^
 ||home-geare.de^
+||homeneext.shop^
 ||homeofficeradar.de^
 ||homvora.de^
 ||horizontix.de^
@@ -535,6 +545,7 @@
 ||hubwerkshop24.com^
 ||hwg-gedern.com^
 ||hyfen-tech.de^
+||hysellia.com^
 ||ihk-eforen.de^
 ||ihreedelmetallprofis.de^
 ||ihrmunzhandler.com^
@@ -565,6 +576,7 @@
 ||kaffezone.de^
 ||kaimoro.de^
 ||kaiser-kauf.com^
+||kaiserstadtcontainergmbh.de^
 ||kalkar-handel.com^
 ||kaltesholz.com^
 ||kami-holz.de^
@@ -609,6 +621,7 @@
 ||kronsummitgmbh.de^
 ||kruegermadl.de^
 ||kuchenheim.shop^
+||kuchtafe.myshopify.com^
 ||kuk-kaffee.de^
 ||kuriovault.com^
 ||labexholz.de^
@@ -652,6 +665,7 @@
 ||mahroboter-freischneider.de^
 ||mahroboterhaus.myshopify.com^
 ||major-agentur.de^
+||makerklang.shop^
 ||mammutjacke.com^
 ||manfred-schnell.shop^
 ||manueleuropafahrschule.de^
@@ -661,6 +675,7 @@
 ||marinesafetygear.com^
 ||market.ashfielden.com^
 ||market.fieldcrofton.com^
+||market.galeririva.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
 ||market.stonebournea.com^
@@ -676,6 +691,7 @@
 ||mediamarkt-gg.de^
 ||meifenspiel.com^
 ||mein.lhk.de-plushilfe.com^
+||meineebike.shop^
 ||meingartenportal.de^
 ||meingartenwelt.com^
 ||meinpfotennetzwerk.de^
@@ -692,13 +708,16 @@
 ||mimosashop.de^
 ||minibagger360.de^
 ||ministryoftoys.eu^
+||mirrorlabel.de^
 ||misterwinkler.de^
 ||mkkrcwss.shop^
 ||mm-energies.de^
 ||mn.magazinmodern.de^
+||mnpozxtv.shop^
 ||mobel-lenk.shop^
 ||mobel-lenk.store^
 ||mobel-wahls.shop^
+||mobeloutletneheim.shop^
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
 ||mollerbrennholzhandelgmbh.de^
@@ -717,6 +736,7 @@
 ||muenzenvault.com^
 ||musicianshop.de^
 ||myplayground.store^
+||mytelhandys.de^
 ||nagelein-handel.com^
 ||nanovault.de^
 ||narcyveloshop.com^
@@ -738,6 +758,7 @@
 ||nordhaus-handel.de^
 ||nordic-pellets.de^
 ||nordtaschen.de^
+||nordza.de^
 ||northkayak.de^
 ||norvahaus.de^
 ||novambients.de^
@@ -769,7 +790,9 @@
 ||pelletkontor.de^
 ||pelletkraft.de^
 ||pelletpoint77gmbh.de^
+||pellets-anhanger-premium.de^
 ||pellets-maschinen.de^
+||pepestiershop.com^
 ||peptide-shop.org^
 ||pfannendeck.de^
 ||ph-gartenmaschinen.de^
@@ -790,10 +813,13 @@
 ||prestigemetalle.de^
 ||priceannihilator.com^
 ||primini.shop^
+||print-1.com^
 ||profibrennde.com^
 ||profitipp5.de^
 ||pronetivaro.com^
 ||prosolargen-strip.de^
+||pucaage.com^
+||puppeace.de^
 ||purekaffee.com^
 ||qrlsvssy.shop^
 ||quarvesta.shop^
@@ -807,6 +833,7 @@
 ||radtrikottourdefrance.de^
 ||radzubehoer24.com^
 ||ratataur.com^
+||raumnote.de^
 ||rbpelleteck.com^
 ||rechtsanwalt-sirrenberg.de^
 ||rechtskanzlei-karls.de^
@@ -828,6 +855,7 @@
 ||roesing-kaufhaus.com^
 ||rohrreinigung-rothschild.de^
 ||romodana.de^
+||rostock-scooter.de^
 ||rovlier.com^
 ||rqhtyztv.shop^
 ||rudolphmaschine.de^
@@ -842,6 +870,7 @@
 ||saradhagroup.com^
 ||sarl-castelmag.com^
 ||sasprodesca.com^
+||saspromordi.com^
 ||sasstone.com^
 ||savemosaic.com^
 ||savenesting.com^
@@ -910,6 +939,7 @@
 ||stella-mccartney.de^
 ||stilwerk.shop^
 ||store.elmleigha.com^
+||store.elvaritaro.com^
 ||store.kingslora.com^
 ||store.quarryby.com^
 ||store.ternwick.com^
@@ -937,6 +967,7 @@
 ||terrariumhaustiere.com^
 ||thegentlemenstore.de^
 ||theisentransports.com^
+||thevintagefactory.de^
 ||tickgreen.net^
 ||tischlereijache-shop.de^
 ||tkpelletsgmbh.de^
@@ -955,6 +986,7 @@
 ||trivanode.com^
 ||try.homepromag.com^
 ||tuvas-tech.de^
+||uaxmncug.shop^
 ||ufheimwerker-de.com^
 ||uhrenchecker.de^
 ||ulmgmbh.com^
@@ -983,6 +1015,7 @@
 ||vircomtechnik.de^
 ||vision-velo.com^
 ||vitrinaox.de^
+||vnpsfyme.shop^
 ||vogeler-technik.de^
 ||voglbaugeschaftgmbh.de^
 ||volkeep.de^
@@ -1005,6 +1038,7 @@
 ||weber-baumarkt.com^
 ||weikershem.de^
 ||weinlandhub.com^
+||weldora.de^
 ||welttrikot.com^
 ||wensauer-holz.com^
 ||werkerswelt-moelln.de^
@@ -1045,6 +1079,7 @@
 ||zentrof.com^
 ||zeols.com^
 ||zierfischebayer.de^
+||znvzhsbw.shop^
 ||zoofaster.de^
 ||zorilenta.com^
 ||zvelonium.de^
