@@ -3,42 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1040 historical domains from archive.
+# [INFO]    Loaded 1075 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
 # [INFO]    Found 143 clean and validated domains on VZ page.
-# [STATS]   Identified 35 BRAND NEW domains! Updating files...
-# [NEW]      -> berkklan.myshopify.com
-# [NEW]      -> brennholz-kammer.de
-# [NEW]      -> delvaxor.shop
-# [NEW]      -> garmica.shop
-# [NEW]      -> goia-direkt.de
-# [NEW]      -> golfnavi.shop
-# [NEW]      -> grondberg.de
-# [NEW]      -> hauke-verteilung.com
-# [NEW]      -> hausora.shop
-# [NEW]      -> homeneext.shop
-# [NEW]      -> hysellia.com
-# [NEW]      -> kaiserstadtcontainergmbh.de
-# [NEW]      -> kuchtafe.myshopify.com
-# [NEW]      -> makerklang.shop
-# [NEW]      -> market.galeririva.com
-# [NEW]      -> meineebike.shop
-# [NEW]      -> mirrorlabel.de
-# [NEW]      -> mnpozxtv.shop
-# [NEW]      -> mobeloutletneheim.shop
-# [NEW]      -> mytelhandys.de
-# [NEW]      -> nordza.de
-# [NEW]      -> pellets-anhanger-premium.de
-# [NEW]      -> pepestiershop.com
-# [NEW]      -> print-1.com
-# [NEW]      -> pucaage.com
-# [NEW]      -> puppeace.de
-# [NEW]      -> raumnote.de
-# [NEW]      -> rostock-scooter.de
-# [NEW]      -> saspromordi.com
-# [NEW]      -> store.elvaritaro.com
-# [NEW]      -> thevintagefactory.de
-# [NEW]      -> uaxmncug.shop
-# [NEW]      -> vnpsfyme.shop
-# [NEW]      -> weldora.de
-# [NEW]      -> znvzhsbw.shop
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
