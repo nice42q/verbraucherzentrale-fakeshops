@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-23 09:10:22 UTC
+# Last update: 2026-10-29 10:44:52 UTC
 #
-# Total archived domains:    1075
-# New domains added today:   35
+# Total archived domains:    1078
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -937,6 +937,7 @@
 ||steinberg-munchen.com^
 ||steinhofen-partner.de^
 ||stella-mccartney.de^
+||stiefelwerkstatt.shop^
 ||stilwerk.shop^
 ||store.elmleigha.com^
 ||store.elvaritaro.com^
@@ -996,6 +997,7 @@
 ||usezazzi.com^
 ||valaires.com^
 ||valuedealbox.com^
+||vanessamaishop.de^
 ||vanofashion.de^
 ||vape-de.de^
 ||varzunel.com^
@@ -1042,6 +1044,7 @@
 ||welttrikot.com^
 ||wensauer-holz.com^
 ||werkerswelt-moelln.de^
+||werksraeder-24.de^
 ||werkstoffholz.de^
 ||werkswagen-porsche.de^
 ||werkzeug-brandl.com^
