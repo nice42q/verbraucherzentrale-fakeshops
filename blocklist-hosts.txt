@@ -98,6 +98,7 @@
 0.0.0.0 betrugsrecht.de
 0.0.0.0 bewegwelt.myshopify.com
 0.0.0.0 beyham.com
+0.0.0.0 bgmbgroupe.com
 0.0.0.0 bhsbrennholzservicegmbh.de
 0.0.0.0 bike-striptechnology.de
 0.0.0.0 bike-trailer24.de
@@ -107,6 +108,7 @@
 0.0.0.0 biketools24.com
 0.0.0.0 bioenergielogistik.de
 0.0.0.0 bioholzpellets.de
+0.0.0.0 biokontor.shop
 0.0.0.0 birnerforsttechnik.de
 0.0.0.0 bitloonx.de
 0.0.0.0 blasgarten.de
