@@ -3,9 +3,32 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1078 historical domains from archive.
+# [INFO]    Loaded 1080 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 96 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> bgmbgroupe.com
-# [NEW]      -> biokontor.shop
+# [INFO]    Found 121 clean and validated domains on VZ page.
+# [STATS]   Identified 25 BRAND NEW domains! Updating files...
+# [NEW]      -> albuni-24.de
+# [NEW]      -> casualtry.de
+# [NEW]      -> cjuuri.shop
+# [NEW]      -> feuerholzkiste.de
+# [NEW]      -> fumotde.de
+# [NEW]      -> garage-autosteve.com
+# [NEW]      -> gartenhandel-poltermann.de
+# [NEW]      -> glutbar.de
+# [NEW]      -> hanseatischercontainerservicegmbh.de
+# [NEW]      -> haushaltswarendiscount.shop
+# [NEW]      -> holzhandelholzhauer.com
+# [NEW]      -> kahla-official.com
+# [NEW]      -> kfzdaten24.de
+# [NEW]      -> krovian.shop
+# [NEW]      -> lanyera.com
+# [NEW]      -> leagpellts.de
+# [NEW]      -> maxtono.de
+# [NEW]      -> ndb-shop.com
+# [NEW]      -> oko-heizung.de
+# [NEW]      -> pawmony.shop
+# [NEW]      -> slktggph.shop
+# [NEW]      -> swabytec24.com
+# [NEW]      -> uqsjmnnr.shop
+# [NEW]      -> vuubdofp.shop
+# [NEW]      -> zenpa.shop
