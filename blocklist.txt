@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-10-31 10:14:02 UTC
+# Last update: 2026-11-01 11:05:28 UTC
 #
-# Total archived domains:    1105
-# New domains added today:   25
+# Total archived domains:    1112
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -159,6 +159,7 @@
 ||brennstoffemokstat.shop^
 ||brennstoffhandel-behnke.de^
 ||brennstoffportal.de^
+||brettspielmeister.shop^
 ||brewheaven.shop^
 ||brinkmann-mode.de^
 ||brookssale.store^
@@ -568,6 +569,7 @@
 ||interlux-zentrum.com^
 ||irina-liebmann.de^
 ||isabella-buenosaires.com^
+||jads-silencer.com^
 ||jardinovano.com^
 ||jeehiova.com^
 ||jette-handel.de^
@@ -623,6 +625,7 @@
 ||klima-profi24.de^
 ||klimaanlageportal.de^
 ||klimacare24.shop^
+||klimatmas.com^
 ||kmotorrad.de^
 ||koppermuller-markt.de^
 ||korfys.shop^
@@ -652,6 +655,7 @@
 ||laufstyle.com^
 ||leagpellts.de^
 ||lebenskernde.com^
+||leisewind.com^
 ||lenaskunst.de^
 ||lesboisdubreuil.com^
 ||levinberlin.com^
@@ -769,6 +773,7 @@
 ||netzpro.shop^
 ||neurotweinrabatt.com^
 ||nevari.de^
+||newblue-tradingshop.com^
 ||nexuswebshop.com^
 ||nhbdgy.shop^
 ||nibeguq.com^
@@ -876,6 +881,7 @@
 ||rmwpharw.shop^
 ||roesing-kaufhaus.com^
 ||rohrreinigung-rothschild.de^
+||rollopark.com^
 ||romodana.de^
 ||rostock-scooter.de^
 ||rovlier.com^
@@ -954,6 +960,7 @@
 ||stadsug.com^
 ||stammholz-forest.com^
 ||stammholz-gmbh.com^
+||starkg.de^
 ||starkwerkzeug.de^
 ||steeg-handel.de^
 ||steflio.com^
