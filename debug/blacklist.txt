@@ -3,14 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1105 historical domains from archive.
+# [INFO]    Loaded 1112 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 126 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> brettspielmeister.shop
-# [NEW]      -> jads-silencer.com
-# [NEW]      -> klimatmas.com
-# [NEW]      -> leisewind.com
-# [NEW]      -> newblue-tradingshop.com
-# [NEW]      -> rollopark.com
-# [NEW]      -> starkg.de
+# [INFO]    Found 120 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
