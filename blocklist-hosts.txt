@@ -20,6 +20,7 @@
 0.0.0.0 aluvea.de
 0.0.0.0 alverogmbh.myshopify.com
 0.0.0.0 am-onlinehandel.de
+0.0.0.0 ancientcoinjournal.com
 0.0.0.0 andreaswerkstatt.de
 0.0.0.0 angebote-kauf.de
 0.0.0.0 anhaenger-brennholz.de
@@ -365,6 +366,7 @@
 0.0.0.0 fastenergy24.com
 0.0.0.0 fatoobal.com
 0.0.0.0 felino-sport.de
+0.0.0.0 ferreira-container.com
 0.0.0.0 fest-holz.com
 0.0.0.0 festgeld-finder.de
 0.0.0.0 festgeld-profis.de
@@ -507,6 +509,7 @@
 0.0.0.0 helmuteco.com
 0.0.0.0 helvaron.shop
 0.0.0.0 hensel-markt.com
+0.0.0.0 heudorfer-fahrradladen.de
 0.0.0.0 heyi-handel.de
 0.0.0.0 hinato-tech.de
 0.0.0.0 hjz-handel.de
@@ -824,6 +827,7 @@
 0.0.0.0 polenegermany.de
 0.0.0.0 polluxer.com
 0.0.0.0 porcelainchoice.com
+0.0.0.0 portanol.shop
 0.0.0.0 pourra.shop
 0.0.0.0 praxisklinik-muelheim.de
 0.0.0.0 prazisionsteile.com

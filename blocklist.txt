@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-01 11:05:28 UTC
+# Last update: 2026-11-03 11:42:07 UTC
 #
-# Total archived domains:    1112
-# New domains added today:   7
+# Total archived domains:    1116
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -29,6 +29,7 @@
 ||aluvea.de^
 ||alverogmbh.myshopify.com^
 ||am-onlinehandel.de^
+||ancientcoinjournal.com^
 ||andreaswerkstatt.de^
 ||angebote-kauf.de^
 ||anhaenger-brennholz.de^
@@ -374,6 +375,7 @@
 ||fastenergy24.com^
 ||fatoobal.com^
 ||felino-sport.de^
+||ferreira-container.com^
 ||fest-holz.com^
 ||festgeld-finder.de^
 ||festgeld-profis.de^
@@ -516,6 +518,7 @@
 ||helmuteco.com^
 ||helvaron.shop^
 ||hensel-markt.com^
+||heudorfer-fahrradladen.de^
 ||heyi-handel.de^
 ||hinato-tech.de^
 ||hjz-handel.de^
@@ -833,6 +836,7 @@
 ||polenegermany.de^
 ||polluxer.com^
 ||porcelainchoice.com^
+||portanol.shop^
 ||pourra.shop^
 ||praxisklinik-muelheim.de^
 ||prazisionsteile.com^
