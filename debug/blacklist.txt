@@ -3,11 +3,13 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1112 historical domains from archive.
+# [INFO]    Loaded 1116 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 124 clean and validated domains on VZ page.
-# [STATS]   Identified 4 BRAND NEW domains! Updating files...
-# [NEW]      -> ancientcoinjournal.com
-# [NEW]      -> ferreira-container.com
-# [NEW]      -> heudorfer-fahrradladen.de
-# [NEW]      -> portanol.shop
+# [INFO]    Found 127 clean and validated domains on VZ page.
+# [STATS]   Identified 6 BRAND NEW domains! Updating files...
+# [NEW]      -> engelhardt-holzhandlung.de
+# [NEW]      -> gaborschuhe.com
+# [NEW]      -> heizelektromark.de
+# [NEW]      -> lidlrabatt.com
+# [NEW]      -> pellet-werk.com
+# [NEW]      -> whndiisb.shop

@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-03 11:42:07 UTC
+# Last update: 2026-11-04 12:02:11 UTC
 #
-# Total archived domains:    1116
-# New domains added today:   4
+# Total archived domains:    1122
+# New domains added today:   6
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -329,6 +329,7 @@
 ||emmakeller.de^
 ||energie-schnell.com^
 ||energiepreise24.com^
+||engelhardt-holzhandlung.de^
 ||ennssale.shop^
 ||epicooler.checkoutera.com^
 ||epicooler.com^
@@ -406,6 +407,7 @@
 ||fussballtrikothaus.com^
 ||fwnkeoyt.shop^
 ||fxtpi.shop^
+||gaborschuhe.com^
 ||gaborshoesisrael.com^
 ||gaborshops.com^
 ||gap-outlet.de^
@@ -501,6 +503,7 @@
 ||heinrich-handel.com^
 ||heiseno.de^
 ||heiz-fachmann.de^
+||heizelektromark.de^
 ||heizelo.de^
 ||heizholz-express.com^
 ||heizholzbrikett.de^
@@ -664,6 +667,7 @@
 ||levinberlin.com^
 ||liaonmskj.com^
 ||lichtwappen.de^
+||lidlrabatt.com^
 ||liehrforstholz.de^
 ||likdl.shop^
 ||limon-shop.at^
@@ -817,6 +821,7 @@
 ||paulusbrennholz.com^
 ||pawmony.shop^
 ||pedalpalast.de^
+||pellet-werk.com^
 ||pelletkontor.de^
 ||pelletkraft.de^
 ||pelletpoint77gmbh.de^
@@ -1095,6 +1100,7 @@
 ||westex-handell.de^
 ||weteextees.com^
 ||wetzlarindustrysolutions.com^
+||whndiisb.shop^
 ||wiga-pharma.de^
 ||wilhelm-daume-gmbh.myshopify.com^
 ||wilkesarahwelpen.de^
