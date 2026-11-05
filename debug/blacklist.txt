@@ -3,13 +3,18 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1116 historical domains from archive.
+# [INFO]    Loaded 1122 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 127 clean and validated domains on VZ page.
-# [STATS]   Identified 6 BRAND NEW domains! Updating files...
-# [NEW]      -> engelhardt-holzhandlung.de
-# [NEW]      -> gaborschuhe.com
-# [NEW]      -> heizelektromark.de
-# [NEW]      -> lidlrabatt.com
-# [NEW]      -> pellet-werk.com
-# [NEW]      -> whndiisb.shop
+# [INFO]    Found 110 clean and validated domains on VZ page.
+# [STATS]   Identified 11 BRAND NEW domains! Updating files...
+# [NEW]      -> bauhauuss.de
+# [NEW]      -> frischedec.com
+# [NEW]      -> frischedecke.com
+# [NEW]      -> grocery-awholesale.shop
+# [NEW]      -> moelders24.de
+# [NEW]      -> okobrennstoffeforstergmbh.com
+# [NEW]      -> skiwaxcare.com
+# [NEW]      -> varileoutdoors.shop
+# [NEW]      -> vornelaki.com
+# [NEW]      -> winzerglueck.com
+# [NEW]      -> workco.de

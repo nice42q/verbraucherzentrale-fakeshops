@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-04 12:02:11 UTC
+# Last update: 2026-11-05 11:57:57 UTC
 #
-# Total archived domains:    1122
-# New domains added today:   6
+# Total archived domains:    1133
+# New domains added today:   11
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -81,6 +81,7 @@
 ||bargainbayou.com^
 ||batterie-industrie-germany.de^
 ||bauer-brennstoffe.com^
+||bauhauuss.de^
 ||baustoffe-sales.com^
 ||bawz.store^
 ||bayerwald-heizoel.de^
@@ -399,6 +400,8 @@
 ||forsage-gartenkauf.com^
 ||forstbedarf-blessing.de^
 ||frankefahrrad.de^
+||frischedec.com^
+||frischedecke.com^
 ||fumot-shop.de^
 ||fumotde.de^
 ||fundfjord.com^
@@ -470,6 +473,7 @@
 ||grillhausug.com^
 ||grilloon.de^
 ||grillssoon.de^
+||grocery-awholesale.shop^
 ||grondberg.de^
 ||groupeshf.com^
 ||gruenliva.de^
@@ -750,6 +754,7 @@
 ||mobeloutletneheim.shop^
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
+||moelders24.de^
 ||mollerbrennholzhandelgmbh.de^
 ||morenutritionde.shop^
 ||moriaccessoires.com^
@@ -802,6 +807,7 @@
 ||off-campus.co^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
+||okobrennstoffeforstergmbh.com^
 ||ole-musik.de^
 ||olivercabelldeutschland.de^
 ||olivia-leeds.com^
@@ -942,6 +948,7 @@
 ||silveraureus.com^
 ||sissoko-keita.com^
 ||skinqira.de^
+||skiwaxcare.com^
 ||sky-trikot-shop.de^
 ||sl-handel.com^
 ||sleevefleh.com^
@@ -1041,6 +1048,7 @@
 ||vanessamaishop.de^
 ||vanofashion.de^
 ||vape-de.de^
+||varileoutdoors.shop^
 ||varzunel.com^
 ||vdel-electromenager.com^
 ||vega-energy.de^
@@ -1068,6 +1076,7 @@
 ||voltradbike.de^
 ||volturexa.de^
 ||vone-shop.com^
+||vornelaki.com^
 ||vorwerk-tm.de^
 ||vuubdofp.shop^
 ||vynxaria.com^
@@ -1107,6 +1116,7 @@
 ||willms-forsttechnik.de^
 ||winklers-handel.de^
 ||winklers-wohnpower.de^
+||winzerglueck.com^
 ||wisdom-heimbedarf.com^
 ||wloka-brennholz.de^
 ||wmuwoebj.shop^
@@ -1114,6 +1124,7 @@
 ||wohnenideenalltag.com^
 ||wood-line24.de^
 ||work-co.de^
+||workco.de^
 ||worldofwineshop.de^
 ||wrexio.com^
 ||xn--rnoholzpelletsgmbh-d3b.de^
