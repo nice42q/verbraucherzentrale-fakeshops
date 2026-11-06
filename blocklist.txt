@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-05 11:57:57 UTC
+# Last update: 2026-11-06 11:53:47 UTC
 #
-# Total archived domains:    1133
-# New domains added today:   11
+# Total archived domains:    1140
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -117,6 +117,7 @@
 ||bikecouture.de^
 ||bikecube.de^
 ||bikegadgetde.com^
+||bikeservice-store.com^
 ||biketools24.com^
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
@@ -382,6 +383,7 @@
 ||festgeld-finder.de^
 ||festgeld-profis.de^
 ||festgeldtracker.us.com^
+||feuer-und-holz.store^
 ||feuerholzexpress.de^
 ||feuerholzkiste.de^
 ||feuerholzliebe.de^
@@ -501,6 +503,7 @@
 ||hauslich.com^
 ||hausora.shop^
 ||hauspellets.de^
+||havlo.de^
 ||heidel-heizoel.de^
 ||heimhof24.de^
 ||heineoutlet.com^
@@ -532,6 +535,7 @@
 ||hks-versand.de^
 ||hoffmannholz.com^
 ||hohlfeldt-garten.de^
+||holz-josh.de^
 ||holz-market.com^
 ||holz-pellet-bestequalitat.de^
 ||holz-premium.de^
@@ -550,6 +554,7 @@
 ||holzregional.de^
 ||holzscheitenatur.com^
 ||holzsofort.de^
+||holzverkauf-lfl.shop^
 ||holzwaermedirekt.de^
 ||holzwerkeharz.de^
 ||holzwerkzeug-bestequalitat.de^
@@ -755,6 +760,7 @@
 ||modehaus-schroers.com^
 ||moebelcenterremscheid.de^
 ||moelders24.de^
+||moellerbrennholz.de^
 ||mollerbrennholzhandelgmbh.de^
 ||morenutritionde.shop^
 ||moriaccessoires.com^
@@ -1140,4 +1146,5 @@
 ||znvzhsbw.shop^
 ||zoofaster.de^
 ||zorilenta.com^
+||zovrilo.com^
 ||zvelonium.de^
