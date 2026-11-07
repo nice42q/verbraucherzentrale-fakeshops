@@ -3,14 +3,7 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1133 historical domains from archive.
+# [INFO]    Loaded 1140 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 117 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> bikeservice-store.com
-# [NEW]      -> feuer-und-holz.store
-# [NEW]      -> havlo.de
-# [NEW]      -> holz-josh.de
-# [NEW]      -> holzverkauf-lfl.shop
-# [NEW]      -> moellerbrennholz.de
-# [NEW]      -> zovrilo.com
+# [INFO]    Found 114 clean and validated domains on VZ page.
+# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
