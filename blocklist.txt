@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-06 11:53:47 UTC
+# Last update: 2026-11-10 12:16:28 UTC
 #
-# Total archived domains:    1140
-# New domains added today:   7
+# Total archived domains:    1142
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -475,6 +475,7 @@
 ||grillhausug.com^
 ||grilloon.de^
 ||grillssoon.de^
+||grinmeup.shop^
 ||grocery-awholesale.shop^
 ||grondberg.de^
 ||groupeshf.com^
@@ -586,6 +587,7 @@
 ||isabella-buenosaires.com^
 ||jads-silencer.com^
 ||jardinovano.com^
+||jcs-technologies.de^
 ||jeehiova.com^
 ||jette-handel.de^
 ||jh-machines-nord.com^
