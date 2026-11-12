@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-10 12:16:28 UTC
+# Last update: 2026-11-12 12:18:41 UTC
 #
-# Total archived domains:    1142
-# New domains added today:   2
+# Total archived domains:    1145
+# New domains added today:   3
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -126,6 +126,7 @@
 ||bitloonx.de^
 ||blasgarten.de^
 ||bloemker-holz.de^
+||boatpumpzone.com^
 ||boismat.de^
 ||bonprixmode.com^
 ||bonvya.com^
@@ -548,6 +549,7 @@
 ||holzgutexpress.de^
 ||holzhambach.com^
 ||holzhandelholzhauer.com^
+||holzhofgmbh.de^
 ||holzkamin.com^
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
@@ -950,6 +952,7 @@
 ||shopunivers.de^
 ||shujuwang.de^
 ||shutterlans.myshopify.com^
+||sicama.eu^
 ||sieundihn.de^
 ||sigl-inso.de^
 ||silberschmuckpro.com^

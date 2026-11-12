@@ -117,6 +117,7 @@
 0.0.0.0 bitloonx.de
 0.0.0.0 blasgarten.de
 0.0.0.0 bloemker-holz.de
+0.0.0.0 boatpumpzone.com
 0.0.0.0 boismat.de
 0.0.0.0 bonprixmode.com
 0.0.0.0 bonvya.com
@@ -539,6 +540,7 @@
 0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhambach.com
 0.0.0.0 holzhandelholzhauer.com
+0.0.0.0 holzhofgmbh.de
 0.0.0.0 holzkamin.com
 0.0.0.0 holzkerssenbrock.de
 0.0.0.0 holzlangbau.de
@@ -941,6 +943,7 @@
 0.0.0.0 shopunivers.de
 0.0.0.0 shujuwang.de
 0.0.0.0 shutterlans.myshopify.com
+0.0.0.0 sicama.eu
 0.0.0.0 sieundihn.de
 0.0.0.0 sigl-inso.de
 0.0.0.0 silberschmuckpro.com
