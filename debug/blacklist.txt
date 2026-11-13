@@ -3,10 +3,17 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1142 historical domains from archive.
+# [INFO]    Loaded 1145 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 70 clean and validated domains on VZ page.
-# [STATS]   Identified 3 BRAND NEW domains! Updating files...
-# [NEW]      -> boatpumpzone.com
-# [NEW]      -> holzhofgmbh.de
-# [NEW]      -> sicama.eu
+# [INFO]    Found 80 clean and validated domains on VZ page.
+# [STATS]   Identified 10 BRAND NEW domains! Updating files...
+# [NEW]      -> bellaro-store.de
+# [NEW]      -> bikestock-shop.de
+# [NEW]      -> cowboy-brothers.de
+# [NEW]      -> goldtanne.de
+# [NEW]      -> holzcoins.com
+# [NEW]      -> instore-fashion.de
+# [NEW]      -> kickhoodies.de
+# [NEW]      -> morgenwarme.de
+# [NEW]      -> smarthos.de
+# [NEW]      -> soniferaheim.de

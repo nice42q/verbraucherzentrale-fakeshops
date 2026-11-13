@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-12 12:18:41 UTC
+# Last update: 2026-11-13 11:56:41 UTC
 #
-# Total archived domains:    1145
-# New domains added today:   3
+# Total archived domains:    1155
+# New domains added today:   10
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -90,6 +90,7 @@
 ||beambright.de^
 ||beatrice-london.com^
 ||belieul-stammholz.com^
+||bellaro-store.de^
 ||bellataylor-newyork.com^
 ||beratify.de^
 ||berger-brennstoffe.com^
@@ -118,6 +119,7 @@
 ||bikecube.de^
 ||bikegadgetde.com^
 ||bikeservice-store.com^
+||bikestock-shop.de^
 ||biketools24.com^
 ||bioenergielogistik.de^
 ||bioholzpellets.de^
@@ -216,6 +218,7 @@
 ||cosanne-baumarkt.com^
 ||cosmic-tower.ch^
 ||cosmictower.ch^
+||cowboy-brothers.de^
 ||crazyunbelieavablefunnel.com^
 ||crcmfcsb.shop^
 ||csbclo.de^
@@ -467,6 +470,7 @@
 ||goldenngoosee.com^
 ||goldhandel-richter.de^
 ||goldstern-elektro.com^
+||goldtanne.de^
 ||golfnavi.shop^
 ||gomel-24.de^
 ||gomell-24.de^
@@ -543,6 +547,7 @@
 ||holz-premium.de^
 ||holz-wagner.com^
 ||holzbriketts-profi.de^
+||holzcoins.com^
 ||holzfeuerlust.de^
 ||holzfurwinter.com^
 ||holzgluck.de^
@@ -583,6 +588,7 @@
 ||ihrmunzhandler.com^
 ||ikkimelpoppstar.de^
 ||imperial-hamburg.de^
+||instore-fashion.de^
 ||interholz-de.com^
 ||interlux-zentrum.com^
 ||irina-liebmann.de^
@@ -632,6 +638,7 @@
 ||kfnkapital-gruppe.de^
 ||kfzdaten24.de^
 ||kh-heizol.de^
+||kickhoodies.de^
 ||kingtcg.shop^
 ||kirchner-rechtsanwaelte.de^
 ||kirschservices.de^
@@ -767,6 +774,7 @@
 ||moellerbrennholz.de^
 ||mollerbrennholzhandelgmbh.de^
 ||morenutritionde.shop^
+||morgenwarme.de^
 ||moriaccessoires.com^
 ||mossvibers.com^
 ||motoproof.de^
@@ -965,6 +973,7 @@
 ||sleevefleh.com^
 ||slktggph.shop^
 ||smart2trade.de^
+||smarthos.de^
 ||sneakers-metzingen.de^
 ||sofia-barcelona.com^
 ||softdays-shop.de^
@@ -973,6 +982,7 @@
 ||solarosales-green.com^
 ||solidewaren.com^
 ||soltect.de^
+||soniferaheim.de^
 ||sophie-melbourne.com^
 ||sophie-rotterdam.com^
 ||sophieberlin.com^
