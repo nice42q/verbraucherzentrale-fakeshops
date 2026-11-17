@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-13 11:56:41 UTC
+# Last update: 2026-11-17 12:51:01 UTC
 #
-# Total archived domains:    1155
-# New domains added today:   10
+# Total archived domains:    1157
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -499,6 +499,7 @@
 ||hannibalcorp.com^
 ||hannoverebikes.de^
 ||hansacontainergmbh.de^
+||hanse-treuhand.com^
 ||hanseatischercontainerservicegmbh.de^
 ||hartholz-briketts.de^
 ||hauke-verteilung.com^
@@ -754,6 +755,7 @@
 ||midea-klimashop.de^
 ||midea-klimawelt.de^
 ||mideaklima.de^
+||mikarose.shop^
 ||milono.de^
 ||mimosashop.de^
 ||minibagger360.de^

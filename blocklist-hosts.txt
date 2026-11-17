@@ -490,6 +490,7 @@
 0.0.0.0 hannibalcorp.com
 0.0.0.0 hannoverebikes.de
 0.0.0.0 hansacontainergmbh.de
+0.0.0.0 hanse-treuhand.com
 0.0.0.0 hanseatischercontainerservicegmbh.de
 0.0.0.0 hartholz-briketts.de
 0.0.0.0 hauke-verteilung.com
@@ -745,6 +746,7 @@
 0.0.0.0 midea-klimashop.de
 0.0.0.0 midea-klimawelt.de
 0.0.0.0 mideaklima.de
+0.0.0.0 mikarose.shop
 0.0.0.0 milono.de
 0.0.0.0 mimosashop.de
 0.0.0.0 minibagger360.de

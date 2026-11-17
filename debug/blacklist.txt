@@ -5,5 +5,7 @@
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
 # [INFO]    Loaded 1155 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 80 clean and validated domains on VZ page.
-# [STATS]   No new domains found today. Archive is up-to-date. Skipping file updates.
+# [INFO]    Found 79 clean and validated domains on VZ page.
+# [STATS]   Identified 2 BRAND NEW domains! Updating files...
+# [NEW]      -> hanse-treuhand.com
+# [NEW]      -> mikarose.shop
