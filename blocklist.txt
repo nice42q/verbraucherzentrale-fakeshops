@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-17 12:51:01 UTC
+# Last update: 2026-11-18 12:44:12 UTC
 #
-# Total archived domains:    1157
-# New domains added today:   2
+# Total archived domains:    1166
+# New domains added today:   9
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -310,6 +310,7 @@
 ||ecoholz-gmbh.eu^
 ||econicosus.de^
 ||ecoworkss.store^
+||edelmetalle-web.de^
 ||edelmetallshop24.com^
 ||edelrhein-metalle.de^
 ||edelstil.shop^
@@ -326,6 +327,7 @@
 ||elektriker-buchwald.de^
 ||elektriker-hoffmeyer.de^
 ||elektro-willi.de^
+||elektrocenters.de^
 ||elektrodan.com^
 ||ellesses.de^
 ||elwenkoffer.de^
@@ -522,6 +524,7 @@
 ||heizholz-express.com^
 ||heizholzbrikett.de^
 ||heizoel-bio.com^
+||heizoel-classic.com^
 ||heizoel-discount.de^
 ||heizoel-fuchs24.de^
 ||heizoel-genial.com^
@@ -536,6 +539,7 @@
 ||helvaron.shop^
 ||hensel-markt.com^
 ||heudorfer-fahrradladen.de^
+||hewil-heizung.de^
 ||heyi-handel.de^
 ||hinato-tech.de^
 ||hjz-handel.de^
@@ -560,6 +564,7 @@
 ||holzkerssenbrock.de^
 ||holzlangbau.de^
 ||holzliefernexpress.de^
+||holzpro24.com^
 ||holzregional.de^
 ||holzscheitenatur.com^
 ||holzsofort.de^
@@ -622,6 +627,7 @@
 ||kalkar-handel.com^
 ||kaltesholz.com^
 ||kami-holz.de^
+||kaminholzhalstenbekgmbh.com^
 ||kaminoland.de^
 ||kanzlei-hexental.de^
 ||kanzlei-keller-luers.de^
@@ -824,6 +830,7 @@
 ||nuxifuland.shop^
 ||oakhabitsy.com^
 ||octirtast.shop^
+||oel-check.com^
 ||off-campus.co^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
@@ -842,6 +849,7 @@
 ||ostermaierbrennholz.de^
 ||otto-retouren.de^
 ||outdoorio.de^
+||pagatxa.com^
 ||palorion.com^
 ||panelaeki.de^
 ||paulusbrennholz.com^
@@ -890,6 +898,7 @@
 ||rabattkorb.de^
 ||rachow-handel.com^
 ||racineelectromenager.com^
+||rad-held.com^
 ||radfit24.com^
 ||radmarkt-schaeler.de^
 ||radtrikottourdefrance.de^

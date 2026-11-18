@@ -3,9 +3,16 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1155 historical domains from archive.
+# [INFO]    Loaded 1157 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 79 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> hanse-treuhand.com
-# [NEW]      -> mikarose.shop
+# [INFO]    Found 86 clean and validated domains on VZ page.
+# [STATS]   Identified 9 BRAND NEW domains! Updating files...
+# [NEW]      -> edelmetalle-web.de
+# [NEW]      -> elektrocenters.de
+# [NEW]      -> heizoel-classic.com
+# [NEW]      -> hewil-heizung.de
+# [NEW]      -> holzpro24.com
+# [NEW]      -> kaminholzhalstenbekgmbh.com
+# [NEW]      -> oel-check.com
+# [NEW]      -> pagatxa.com
+# [NEW]      -> rad-held.com
