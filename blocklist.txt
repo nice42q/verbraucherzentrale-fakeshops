@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-18 12:44:12 UTC
+# Last update: 2026-11-19 12:35:51 UTC
 #
-# Total archived domains:    1166
-# New domains added today:   9
+# Total archived domains:    1173
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -235,6 +235,7 @@
 ||dasoo.de^
 ||datenfin.de^
 ||davesbiomarkt.de^
+||de-leipzig.de^
 ||de.bio-brennholz.de^
 ||de.novintra.shop^
 ||de.plantiter.shop^
@@ -627,6 +628,7 @@
 ||kalkar-handel.com^
 ||kaltesholz.com^
 ||kami-holz.de^
+||kaminexpertstore.com^
 ||kaminholzhalstenbekgmbh.com^
 ||kaminoland.de^
 ||kanzlei-hexental.de^
@@ -854,6 +856,7 @@
 ||panelaeki.de^
 ||paulusbrennholz.com^
 ||pawmony.shop^
+||pbici.com^
 ||pedalpalast.de^
 ||pellet-werk.com^
 ||pelletkontor.de^
@@ -910,6 +913,7 @@
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
 ||reindesigner-handel.de^
+||reisholz.de^
 ||reisholzgmbh.de^
 ||rekordpellets.com^
 ||reptailshop.de^
@@ -1025,6 +1029,7 @@
 ||store.woodgroven.com^
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
+||strollerstepbase.com^
 ||suessegenuss.com^
 ||sufrema-kaufen.de^
 ||sunpowerprofi.de^
@@ -1073,6 +1078,7 @@
 ||unico-studio.com^
 ||universalsack.com^
 ||uqsjmnnr.shop^
+||urbanfashia.com^
 ||urhenwchmuckrosel.de^
 ||usezazzi.com^
 ||valaires.com^
@@ -1154,6 +1160,7 @@
 ||wmuwoebj.shop^
 ||wohnelva.de^
 ||wohnenideenalltag.com^
+||wolle-weinreich-muehlhausen.de^
 ||wood-line24.de^
 ||work-co.de^
 ||workco.de^

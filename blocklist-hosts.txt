@@ -226,6 +226,7 @@
 0.0.0.0 dasoo.de
 0.0.0.0 datenfin.de
 0.0.0.0 davesbiomarkt.de
+0.0.0.0 de-leipzig.de
 0.0.0.0 de.bio-brennholz.de
 0.0.0.0 de.novintra.shop
 0.0.0.0 de.plantiter.shop
@@ -618,6 +619,7 @@
 0.0.0.0 kalkar-handel.com
 0.0.0.0 kaltesholz.com
 0.0.0.0 kami-holz.de
+0.0.0.0 kaminexpertstore.com
 0.0.0.0 kaminholzhalstenbekgmbh.com
 0.0.0.0 kaminoland.de
 0.0.0.0 kanzlei-hexental.de
@@ -845,6 +847,7 @@
 0.0.0.0 panelaeki.de
 0.0.0.0 paulusbrennholz.com
 0.0.0.0 pawmony.shop
+0.0.0.0 pbici.com
 0.0.0.0 pedalpalast.de
 0.0.0.0 pellet-werk.com
 0.0.0.0 pelletkontor.de
@@ -901,6 +904,7 @@
 0.0.0.0 rechtskanzlei-karls.de
 0.0.0.0 redlich-becker.de
 0.0.0.0 reindesigner-handel.de
+0.0.0.0 reisholz.de
 0.0.0.0 reisholzgmbh.de
 0.0.0.0 rekordpellets.com
 0.0.0.0 reptailshop.de
@@ -1016,6 +1020,7 @@
 0.0.0.0 store.woodgroven.com
 0.0.0.0 strafverteidigerbuero-dortmund.de
 0.0.0.0 strobllandmaschinen.de
+0.0.0.0 strollerstepbase.com
 0.0.0.0 suessegenuss.com
 0.0.0.0 sufrema-kaufen.de
 0.0.0.0 sunpowerprofi.de
@@ -1064,6 +1069,7 @@
 0.0.0.0 unico-studio.com
 0.0.0.0 universalsack.com
 0.0.0.0 uqsjmnnr.shop
+0.0.0.0 urbanfashia.com
 0.0.0.0 urhenwchmuckrosel.de
 0.0.0.0 usezazzi.com
 0.0.0.0 valaires.com
@@ -1145,6 +1151,7 @@
 0.0.0.0 wmuwoebj.shop
 0.0.0.0 wohnelva.de
 0.0.0.0 wohnenideenalltag.com
+0.0.0.0 wolle-weinreich-muehlhausen.de
 0.0.0.0 wood-line24.de
 0.0.0.0 work-co.de
 0.0.0.0 workco.de

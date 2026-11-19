@@ -3,16 +3,14 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1157 historical domains from archive.
+# [INFO]    Loaded 1166 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 86 clean and validated domains on VZ page.
-# [STATS]   Identified 9 BRAND NEW domains! Updating files...
-# [NEW]      -> edelmetalle-web.de
-# [NEW]      -> elektrocenters.de
-# [NEW]      -> heizoel-classic.com
-# [NEW]      -> hewil-heizung.de
-# [NEW]      -> holzpro24.com
-# [NEW]      -> kaminholzhalstenbekgmbh.com
-# [NEW]      -> oel-check.com
-# [NEW]      -> pagatxa.com
-# [NEW]      -> rad-held.com
+# [INFO]    Found 66 clean and validated domains on VZ page.
+# [STATS]   Identified 7 BRAND NEW domains! Updating files...
+# [NEW]      -> de-leipzig.de
+# [NEW]      -> kaminexpertstore.com
+# [NEW]      -> pbici.com
+# [NEW]      -> reisholz.de
+# [NEW]      -> strollerstepbase.com
+# [NEW]      -> urbanfashia.com
+# [NEW]      -> wolle-weinreich-muehlhausen.de
