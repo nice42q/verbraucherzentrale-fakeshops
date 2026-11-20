@@ -3,14 +3,11 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1166 historical domains from archive.
+# [INFO]    Loaded 1173 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 66 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> de-leipzig.de
-# [NEW]      -> kaminexpertstore.com
-# [NEW]      -> pbici.com
-# [NEW]      -> reisholz.de
-# [NEW]      -> strollerstepbase.com
-# [NEW]      -> urbanfashia.com
-# [NEW]      -> wolle-weinreich-muehlhausen.de
+# [INFO]    Found 63 clean and validated domains on VZ page.
+# [STATS]   Identified 4 BRAND NEW domains! Updating files...
+# [NEW]      -> cgholzhandel.de
+# [NEW]      -> escooterweltt.de
+# [NEW]      -> lanigo.de
+# [NEW]      -> zauberbeam.de

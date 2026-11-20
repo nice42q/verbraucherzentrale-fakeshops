@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-19 12:35:51 UTC
+# Last update: 2026-11-20 12:35:26 UTC
 #
-# Total archived domains:    1173
-# New domains added today:   7
+# Total archived domains:    1177
+# New domains added today:   4
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -195,6 +195,7 @@
 ||cervaluxe.com^
 ||cf-handelsshop.com^
 ||cfbl-premiumholz.de^
+||cgholzhandel.de^
 ||charentesalliance.com^
 ||charj7.myshopify.com^
 ||charlotte-sydney.com^
@@ -349,6 +350,7 @@
 ||ersatzteilesale.com^
 ||erzgebirger-uhrwerk.com^
 ||escobike.shop^
+||escooterweltt.de^
 ||eshop.kestmere.com^
 ||eshop.quarryby.com^
 ||eshop.stonebournea.com^
@@ -683,6 +685,7 @@
 ||lan-gensallz.com^
 ||lan-gensalz.com^
 ||lan-gensalz.de^
+||lanigo.de^
 ||lanyera.com^
 ||larc90.myshopify.com^
 ||larshamburg.com^
@@ -1171,6 +1174,7 @@
 ||yonexs.at^
 ||ysa-handels.com^
 ||yzorigwl.shop^
+||zauberbeam.de^
 ||zeigebericht.de^
 ||zenpa.shop^
 ||zentrof.com^

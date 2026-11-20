@@ -186,6 +186,7 @@
 0.0.0.0 cervaluxe.com
 0.0.0.0 cf-handelsshop.com
 0.0.0.0 cfbl-premiumholz.de
+0.0.0.0 cgholzhandel.de
 0.0.0.0 charentesalliance.com
 0.0.0.0 charj7.myshopify.com
 0.0.0.0 charlotte-sydney.com
@@ -340,6 +341,7 @@
 0.0.0.0 ersatzteilesale.com
 0.0.0.0 erzgebirger-uhrwerk.com
 0.0.0.0 escobike.shop
+0.0.0.0 escooterweltt.de
 0.0.0.0 eshop.kestmere.com
 0.0.0.0 eshop.quarryby.com
 0.0.0.0 eshop.stonebournea.com
@@ -674,6 +676,7 @@
 0.0.0.0 lan-gensallz.com
 0.0.0.0 lan-gensalz.com
 0.0.0.0 lan-gensalz.de
+0.0.0.0 lanigo.de
 0.0.0.0 lanyera.com
 0.0.0.0 larc90.myshopify.com
 0.0.0.0 larshamburg.com
@@ -1162,6 +1165,7 @@
 0.0.0.0 yonexs.at
 0.0.0.0 ysa-handels.com
 0.0.0.0 yzorigwl.shop
+0.0.0.0 zauberbeam.de
 0.0.0.0 zeigebericht.de
 0.0.0.0 zenpa.shop
 0.0.0.0 zentrof.com
