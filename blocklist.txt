@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-20 12:35:26 UTC
+# Last update: 2026-11-21 12:15:11 UTC
 #
-# Total archived domains:    1177
-# New domains added today:   4
+# Total archived domains:    1198
+# New domains added today:   21
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -71,6 +71,7 @@
 ||autozubehormarkt.com^
 ||avezzanofahrrad.de^
 ||avientrix.de^
+||aznshdxc.shop^
 ||b-chauffage.de^
 ||baboktransports.com^
 ||backenundsuben.com^
@@ -190,6 +191,7 @@
 ||casualtry.de^
 ||cbvdshj.com^
 ||celeste-milano.com^
+||cemira.shop^
 ||center-staubsauger.de^
 ||centraltradingshop.com^
 ||cervaluxe.com^
@@ -210,7 +212,9 @@
 ||clara-copenhagen.com^
 ||cloudtritt.de^
 ||clubeboss.de^
+||cmnixogb.shop^
 ||columbiasale.de^
+||comfyclogs.store^
 ||containerbox-gmbh.de^
 ||containercst-gmbh.de^
 ||containergierichgmbh.de^
@@ -509,13 +513,16 @@
 ||hartholz-briketts.de^
 ||hauke-verteilung.com^
 ||haus-apotheke.eu^
+||hausandwerk.com^
 ||hausgeratewelt.com^
 ||haushaltsgeraete-profis.de^
 ||haushaltswarendiscount.shop^
 ||hauslich.com^
 ||hausora.shop^
 ||hauspellets.de^
+||hauusmarkt.myshopify.com^
 ||havlo.de^
+||heckmeist.shop^
 ||heidel-heizoel.de^
 ||heimhof24.de^
 ||heineoutlet.com^
@@ -622,6 +629,7 @@
 ||kaffee-liebling.de^
 ||kaffeehaus-meyer.de^
 ||kaffeeuhlenbusch.de^
+||kaffemaschinen.shop^
 ||kaffezone.de^
 ||kahla-official.com^
 ||kaimoro.de^
@@ -801,6 +809,7 @@
 ||muenzenexpertshop.com^
 ||muenzenvault.com^
 ||musicianshop.de^
+||mynhusnc.shop^
 ||myplayground.store^
 ||mytelhandys.de^
 ||nagelein-handel.com^
@@ -814,6 +823,7 @@
 ||nestleovae.com^
 ||nestmypad.com^
 ||netzpro.shop^
+||netzpunkt.myshopify.com^
 ||neurotweinrabatt.com^
 ||nevari.de^
 ||newblue-tradingshop.com^
@@ -833,6 +843,7 @@
 ||nowfahrrad.de^
 ||nqior.shop^
 ||nuxifuland.shop^
+||nyftiwnh.shop^
 ||oakhabitsy.com^
 ||octirtast.shop^
 ||oel-check.com^
@@ -845,6 +856,7 @@
 ||olivia-leeds.com^
 ||one-outlet.shop^
 ||onmycat.com^
+||onxouiwn.shop^
 ||ophirum-web.de^
 ||ophirum.online^
 ||optimisticoffer.com^
@@ -897,6 +909,7 @@
 ||pucaage.com^
 ||puppeace.de^
 ||purekaffee.com^
+||qpgkzptk.shop^
 ||qrlsvssy.shop^
 ||quarvesta.shop^
 ||quellshop.de^
@@ -931,6 +944,7 @@
 ||rixie-kauf.com^
 ||rmwpharw.shop^
 ||roesing-kaufhaus.com^
+||rogntwxw.shop^
 ||rohrreinigung-rothschild.de^
 ||rollopark.com^
 ||romodana.de^
@@ -1027,6 +1041,8 @@
 ||store.elmleigha.com^
 ||store.elvaritaro.com^
 ||store.kingslora.com^
+||store.newset.org^
+||store.ppdut.net^
 ||store.quarryby.com^
 ||store.ternwick.com^
 ||store.woodgroven.com^
@@ -1046,11 +1062,13 @@
 ||taschenalle.com^
 ||taschenclub.com^
 ||taschentotal.com^
+||tawagold.store^
 ||tc-germany.com^
 ||teamstryk.de^
 ||technoant.co^
 ||teeto.de^
 ||tektronix-gmbh.com^
+||telesgo.shop^
 ||terraqo.de^
 ||terrariumhaustiere.com^
 ||thegentlemenstore.de^
@@ -1066,6 +1084,7 @@
 ||topeat.lightview.shop^
 ||tophoven-teilekfz.de^
 ||totsoo.com^
+||touchedhome.shop^
 ||trailer-master.de^
 ||transition-velo.com^
 ||treemexholz.de^
@@ -1073,7 +1092,9 @@
 ||trikotfc.com^
 ||trivanode.com^
 ||try.homepromag.com^
+||tryhgi.shop^
 ||tuvas-tech.de^
+||twinlaze.store^
 ||uaxmncug.shop^
 ||ufheimwerker-de.com^
 ||uhrenchecker.de^

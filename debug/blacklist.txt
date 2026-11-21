@@ -3,11 +3,28 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1173 historical domains from archive.
+# [INFO]    Loaded 1177 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 63 clean and validated domains on VZ page.
-# [STATS]   Identified 4 BRAND NEW domains! Updating files...
-# [NEW]      -> cgholzhandel.de
-# [NEW]      -> escooterweltt.de
-# [NEW]      -> lanigo.de
-# [NEW]      -> zauberbeam.de
+# [INFO]    Found 84 clean and validated domains on VZ page.
+# [STATS]   Identified 21 BRAND NEW domains! Updating files...
+# [NEW]      -> aznshdxc.shop
+# [NEW]      -> cemira.shop
+# [NEW]      -> cmnixogb.shop
+# [NEW]      -> comfyclogs.store
+# [NEW]      -> hausandwerk.com
+# [NEW]      -> hauusmarkt.myshopify.com
+# [NEW]      -> heckmeist.shop
+# [NEW]      -> kaffemaschinen.shop
+# [NEW]      -> mynhusnc.shop
+# [NEW]      -> netzpunkt.myshopify.com
+# [NEW]      -> nyftiwnh.shop
+# [NEW]      -> onxouiwn.shop
+# [NEW]      -> qpgkzptk.shop
+# [NEW]      -> rogntwxw.shop
+# [NEW]      -> store.newset.org
+# [NEW]      -> store.ppdut.net
+# [NEW]      -> tawagold.store
+# [NEW]      -> telesgo.shop
+# [NEW]      -> touchedhome.shop
+# [NEW]      -> tryhgi.shop
+# [NEW]      -> twinlaze.store
