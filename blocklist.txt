@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-21 12:15:11 UTC
+# Last update: 2026-11-24 14:37:43 UTC
 #
-# Total archived domains:    1198
-# New domains added today:   21
+# Total archived domains:    1200
+# New domains added today:   2
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -848,6 +848,7 @@
 ||octirtast.shop^
 ||oel-check.com^
 ||off-campus.co^
+||ohnerezept.eu^
 ||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
 ||okobrennstoffeforstergmbh.com^
@@ -1036,6 +1037,7 @@
 ||steinberg-munchen.com^
 ||steinhofen-partner.de^
 ||stella-mccartney.de^
+||stg-beratung.de^
 ||stiefelwerkstatt.shop^
 ||stilwerk.shop^
 ||store.elmleigha.com^
