@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-24 14:37:43 UTC
+# Last update: 2026-11-25 13:58:33 UTC
 #
-# Total archived domains:    1200
-# New domains added today:   2
+# Total archived domains:    1215
+# New domains added today:   15
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -57,6 +57,7 @@
 ||astragroupholding.com^
 ||atlascontainerlogistikgmbh.de^
 ||audi-services.com^
+||auktionshaus-reichmann.de^
 ||auraverely.com^
 ||auto-bund.com^
 ||auto-export-augsburg.de^
@@ -69,6 +70,7 @@
 ||autonivo.de^
 ||autopark-groep.eu^
 ||autozubehormarkt.com^
+||avelofahrrad.de^
 ||avezzanofahrrad.de^
 ||avientrix.de^
 ||aznshdxc.shop^
@@ -90,6 +92,7 @@
 ||bch-oberursel.de^
 ||beambright.de^
 ||beatrice-london.com^
+||beliebteapotheken.com^
 ||belieul-stammholz.com^
 ||bellaro-store.de^
 ||bellataylor-newyork.com^
@@ -151,6 +154,7 @@
 ||brennholzangebot.com^
 ||brennholzbredemeier.com^
 ||brennholzgarten.de^
+||brennholzhandelgerhold.com^
 ||brennholzhochwald-de.com^
 ||brennholzholzge.com^
 ||brennholzkontorscharf.de^
@@ -296,6 +300,7 @@
 ||dragxel.store^
 ||dreamsleepz.de^
 ||drune.de^
+||dtbsajsa.shop^
 ||dunstabzugshaubenfilter24.com^
 ||dunstro.shop^
 ||dwellgallery.com^
@@ -390,6 +395,7 @@
 ||fasoo.de^
 ||fastenergy24.com^
 ||fatoobal.com^
+||fb-holz.com^
 ||felino-sport.de^
 ||ferreira-container.com^
 ||fest-holz.com^
@@ -474,6 +480,7 @@
 ||goalkertech.com^
 ||goia-direkt.de^
 ||goillo.com^
+||gold-outlet24.com^
 ||goldankauf365.de^
 ||goldbesitz.com^
 ||goldenngoosee.com^
@@ -609,6 +616,7 @@
 ||interlux-zentrum.com^
 ||irina-liebmann.de^
 ||isabella-buenosaires.com^
+||ixsdwprg.shop^
 ||jads-silencer.com^
 ||jardinovano.com^
 ||jcs-technologies.de^
@@ -639,6 +647,7 @@
 ||kaltesholz.com^
 ||kami-holz.de^
 ||kaminexpertstore.com^
+||kaminholz-wohnort.com^
 ||kaminholzhalstenbekgmbh.com^
 ||kaminoland.de^
 ||kanzlei-hexental.de^
@@ -672,6 +681,7 @@
 ||klimacare24.shop^
 ||klimatmas.com^
 ||kmotorrad.de^
+||kochmeister.store^
 ||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
@@ -842,6 +852,7 @@
 ||novambients.de^
 ||nowfahrrad.de^
 ||nqior.shop^
+||numarver-muenzen.com^
 ||nuxifuland.shop^
 ||nyftiwnh.shop^
 ||oakhabitsy.com^
@@ -1113,6 +1124,7 @@
 ||vanofashion.de^
 ||vape-de.de^
 ||varileoutdoors.shop^
+||variloshop.shop^
 ||varzunel.com^
 ||vdel-electromenager.com^
 ||vega-energy.de^
@@ -1158,6 +1170,7 @@
 ||weldora.de^
 ||welttrikot.com^
 ||wensauer-holz.com^
+||werkelio.de^
 ||werkerswelt-moelln.de^
 ||werksraeder-24.de^
 ||werkstoffholz.de^
@@ -1188,6 +1201,7 @@
 ||wohnenideenalltag.com^
 ||wolle-weinreich-muehlhausen.de^
 ||wood-line24.de^
+||wooud.de^
 ||work-co.de^
 ||workco.de^
 ||worldofwineshop.de^
@@ -1202,6 +1216,7 @@
 ||zenpa.shop^
 ||zentrof.com^
 ||zeols.com^
+||zeraphino.com^
 ||zierfischebayer.de^
 ||znvzhsbw.shop^
 ||zoofaster.de^

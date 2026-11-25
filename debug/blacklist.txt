@@ -3,9 +3,22 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1198 historical domains from archive.
+# [INFO]    Loaded 1200 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 67 clean and validated domains on VZ page.
-# [STATS]   Identified 2 BRAND NEW domains! Updating files...
-# [NEW]      -> ohnerezept.eu
-# [NEW]      -> stg-beratung.de
+# [INFO]    Found 75 clean and validated domains on VZ page.
+# [STATS]   Identified 15 BRAND NEW domains! Updating files...
+# [NEW]      -> auktionshaus-reichmann.de
+# [NEW]      -> avelofahrrad.de
+# [NEW]      -> beliebteapotheken.com
+# [NEW]      -> brennholzhandelgerhold.com
+# [NEW]      -> dtbsajsa.shop
+# [NEW]      -> fb-holz.com
+# [NEW]      -> gold-outlet24.com
+# [NEW]      -> ixsdwprg.shop
+# [NEW]      -> kaminholz-wohnort.com
+# [NEW]      -> kochmeister.store
+# [NEW]      -> numarver-muenzen.com
+# [NEW]      -> variloshop.shop
+# [NEW]      -> werkelio.de
+# [NEW]      -> wooud.de
+# [NEW]      -> zeraphino.com
