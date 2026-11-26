@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-25 13:58:33 UTC
+# Last update: 2026-11-26 13:37:48 UTC
 #
-# Total archived domains:    1215
-# New domains added today:   15
+# Total archived domains:    1222
+# New domains added today:   7
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -185,6 +185,7 @@
 ||ca-agentur.de^
 ||caballde.com^
 ||camerapicks.com^
+||campinglagea.com^
 ||campingspezialisten.com^
 ||campusfahrradergmbh.de^
 ||canmidy.com^
@@ -295,6 +296,7 @@
 ||distri-globe.de^
 ||diyhandels-de.com^
 ||dlxn-mode.de^
+||dm-bauhandel.de^
 ||doormey.myshopify.com^
 ||dr-michael-huss.de^
 ||dragxel.store^
@@ -607,6 +609,7 @@
 ||hyfen-tech.de^
 ||hysellia.com^
 ||ihk-eforen.de^
+||ihrbrennholz.com^
 ||ihreedelmetallprofis.de^
 ||ihrmunzhandler.com^
 ||ikkimelpoppstar.de^
@@ -697,6 +700,7 @@
 ||kuchenheim.shop^
 ||kuchtafe.myshopify.com^
 ||kuk-kaffee.de^
+||kullerpfote.store^
 ||kuriovault.com^
 ||labexholz.de^
 ||lamerahomemobel.shop^
@@ -747,6 +751,7 @@
 ||makerklang.shop^
 ||mammutjacke.com^
 ||manfred-schnell.shop^
+||mannstasc.com^
 ||manueleuropafahrschule.de^
 ||margaret-london.com^
 ||mariasydney.com^
@@ -1035,6 +1040,7 @@
 ||sparhaustechnik.de^
 ||spedition-tml.de^
 ||spielbank-badenwurttemberg.de^
+||spiritprofi.com^
 ||splima.de^
 ||sportopath.de^
 ||stadlwerk.de^
@@ -1062,6 +1068,7 @@
 ||strafverteidigerbuero-dortmund.de^
 ||strobllandmaschinen.de^
 ||strollerstepbase.com^
+||stylemarketz.com^
 ||suessegenuss.com^
 ||sufrema-kaufen.de^
 ||sunpowerprofi.de^
