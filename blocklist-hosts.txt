@@ -1,11 +1,15 @@
 # Verbraucherzentrale Fakeshop Blocklist - Hosts Format
 0.0.0.0 365tageedelmetall.de
 0.0.0.0 4-pfoten-freizeit.de
+0.0.0.0 4m-reifen.com
 0.0.0.0 6pmhoodies.de
+0.0.0.0 absjdte.shop
 0.0.0.0 accompro.com
+0.0.0.0 accountstore4u.com
 0.0.0.0 aeke-smart.com
 0.0.0.0 aeribold.com
 0.0.0.0 aerzteregistrat.de
+0.0.0.0 afufi.com
 0.0.0.0 agritechcenter.de
 0.0.0.0 ai-energy.net
 0.0.0.0 aicheleholzgmbh.de
@@ -44,6 +48,7 @@
 0.0.0.0 aristos24.de
 0.0.0.0 arkenberlin.de
 0.0.0.0 aroundying.de
+0.0.0.0 arueci.com
 0.0.0.0 ascherslebener-holzhandel.de
 0.0.0.0 astragroupholding.com
 0.0.0.0 atlascontainerlogistikgmbh.de
@@ -138,6 +143,7 @@
 0.0.0.0 brennholz-anhaenger.de
 0.0.0.0 brennholz-bernd.com
 0.0.0.0 brennholz-deckarm.shop
+0.0.0.0 brennholz-direkt-de.com
 0.0.0.0 brennholz-hans.de
 0.0.0.0 brennholz-kammer.de
 0.0.0.0 brennholz-quelle.de
@@ -145,6 +151,7 @@
 0.0.0.0 brennholzangebot.com
 0.0.0.0 brennholzbredemeier.com
 0.0.0.0 brennholzgarten.de
+0.0.0.0 brennholzgigant.de
 0.0.0.0 brennholzhandelgerhold.com
 0.0.0.0 brennholzhochwald-de.com
 0.0.0.0 brennholzholzge.com
@@ -197,6 +204,7 @@
 0.0.0.0 charentesalliance.com
 0.0.0.0 charj7.myshopify.com
 0.0.0.0 charlotte-sydney.com
+0.0.0.0 chipgalaxy.de
 0.0.0.0 chleaguy.com
 0.0.0.0 cibomat.com
 0.0.0.0 cibomatt.com
@@ -215,6 +223,7 @@
 0.0.0.0 containercst-gmbh.de
 0.0.0.0 containergierichgmbh.de
 0.0.0.0 containerschiffsreedereigmbh.de
+0.0.0.0 containersolutionscs.de
 0.0.0.0 coolzy.com
 0.0.0.0 cosanne-baumarkt.com
 0.0.0.0 cosmic-tower.ch
@@ -231,6 +240,7 @@
 0.0.0.0 daily-outfit.de
 0.0.0.0 dailyberlin.de
 0.0.0.0 dalacker-energie.com
+0.0.0.0 damado24.de
 0.0.0.0 dankers-containers.de
 0.0.0.0 das-feel-natural.de
 0.0.0.0 dasoo.de
@@ -265,6 +275,7 @@
 0.0.0.0 delecato.de
 0.0.0.0 delphios.shop
 0.0.0.0 delvaxor.shop
+0.0.0.0 denuppad.com
 0.0.0.0 deracing-planet.com
 0.0.0.0 derbybikesholding.de
 0.0.0.0 derbyfahrrader.de
@@ -293,6 +304,7 @@
 0.0.0.0 dragxel.store
 0.0.0.0 dreamsleepz.de
 0.0.0.0 drune.de
+0.0.0.0 ds24-handel.de
 0.0.0.0 dtbsajsa.shop
 0.0.0.0 dunstabzugshaubenfilter24.com
 0.0.0.0 dunstro.shop
@@ -325,6 +337,7 @@
 0.0.0.0 einstefeg.shop
 0.0.0.0 eisner-kollegen.de
 0.0.0.0 elbcontainer24.de
+0.0.0.0 elbmarkt.com
 0.0.0.0 elbtal-kids.de
 0.0.0.0 electra-royal.de
 0.0.0.0 electro-redeker.de
@@ -333,6 +346,7 @@
 0.0.0.0 elektro-willi.de
 0.0.0.0 elektrocenters.de
 0.0.0.0 elektrodan.com
+0.0.0.0 elendro.com
 0.0.0.0 ellesses.de
 0.0.0.0 elwenkoffer.de
 0.0.0.0 elwenrimowa.de
@@ -389,6 +403,8 @@
 0.0.0.0 fastenergy24.com
 0.0.0.0 fatoobal.com
 0.0.0.0 fb-holz.com
+0.0.0.0 fbbrennholz.de
+0.0.0.0 fbforstundbrennholzgmbh.com
 0.0.0.0 felino-sport.de
 0.0.0.0 ferreira-container.com
 0.0.0.0 fest-holz.com
@@ -421,6 +437,7 @@
 0.0.0.0 fundfjord.com
 0.0.0.0 furneo-handel.com
 0.0.0.0 furnilivora.com
+0.0.0.0 fussballstube.com
 0.0.0.0 fussballtrikothaus.com
 0.0.0.0 fwnkeoyt.shop
 0.0.0.0 fxtpi.shop
@@ -458,6 +475,7 @@
 0.0.0.0 gepaecktasch.com
 0.0.0.0 gerardusbraas.com
 0.0.0.0 gerlinelshop.com
+0.0.0.0 germangusto.com
 0.0.0.0 get-airzuma.topashopo.com
 0.0.0.0 get-epicooler.com
 0.0.0.0 get-epicooler.topashopo.com
@@ -468,6 +486,7 @@
 0.0.0.0 giebel-motorgeraetekg.de
 0.0.0.0 global-kaufhaus.com
 0.0.0.0 glow-garten.com
+0.0.0.0 gluecksgriff-wohnen-salzuflen.de
 0.0.0.0 glutbar.de
 0.0.0.0 gmbhboes.de
 0.0.0.0 goalkertech.com
@@ -503,6 +522,7 @@
 0.0.0.0 handel57.de
 0.0.0.0 handelshaus-buchem.de
 0.0.0.0 handtholzhandelgmbh.de
+0.0.0.0 handyheldenshop.de
 0.0.0.0 hangel-handel.de
 0.0.0.0 hannahamburg.com
 0.0.0.0 hannibalcorp.com
@@ -614,10 +634,12 @@
 0.0.0.0 jads-silencer.com
 0.0.0.0 jardinovano.com
 0.0.0.0 jcs-technologies.de
+0.0.0.0 jcs-technologies24.com
 0.0.0.0 jeehiova.com
 0.0.0.0 jette-handel.de
 0.0.0.0 jh-machines-nord.com
 0.0.0.0 jhagriconseil.com
+0.0.0.0 jobszens.shop
 0.0.0.0 joeholz.com
 0.0.0.0 johdorbrennholz.com
 0.0.0.0 jordanmania.de
@@ -661,6 +683,7 @@
 0.0.0.0 kfzdaten24.de
 0.0.0.0 kh-heizol.de
 0.0.0.0 kickhoodies.de
+0.0.0.0 kiezstoff.shop
 0.0.0.0 kingtcg.shop
 0.0.0.0 kirchner-rechtsanwaelte.de
 0.0.0.0 kirschservices.de
@@ -676,6 +699,7 @@
 0.0.0.0 klimatmas.com
 0.0.0.0 kmotorrad.de
 0.0.0.0 kochmeister.store
+0.0.0.0 kopfhoererbasis.com
 0.0.0.0 koppermuller-markt.de
 0.0.0.0 korfys.shop
 0.0.0.0 kosecikva.com
@@ -757,9 +781,11 @@
 0.0.0.0 market.willowgroven.com
 0.0.0.0 marketmarkdowns.com
 0.0.0.0 marktkaminofenholz.com
+0.0.0.0 marktundmahl.de
 0.0.0.0 marnau.shop
 0.0.0.0 martml.com
 0.0.0.0 maschine1shop.com
+0.0.0.0 maschinenbau-stripegmbh.de
 0.0.0.0 maxcapitalkredit.de
 0.0.0.0 maxtono.de
 0.0.0.0 maycoffeehouse.shop
@@ -787,6 +813,7 @@
 0.0.0.0 ministryoftoys.eu
 0.0.0.0 mirrorlabel.de
 0.0.0.0 misterwinkler.de
+0.0.0.0 mk-kueche.de
 0.0.0.0 mkkrcwss.shop
 0.0.0.0 mm-energies.de
 0.0.0.0 mn.magazinmodern.de
@@ -809,6 +836,7 @@
 0.0.0.0 mpq-ebiketechnik.de
 0.0.0.0 mrifhvn.shop
 0.0.0.0 msihandelgmbh.de
+0.0.0.0 msw-handel.de
 0.0.0.0 mtiialolo.com
 0.0.0.0 muenzenangebot24.com
 0.0.0.0 muenzencorner.com
@@ -822,6 +850,7 @@
 0.0.0.0 nanovault.de
 0.0.0.0 narcyveloshop.com
 0.0.0.0 narnos.de
+0.0.0.0 naturaflame.com
 0.0.0.0 nautikbedarf.com
 0.0.0.0 ndb-shop.com
 0.0.0.0 nebelrad.de
@@ -853,6 +882,7 @@
 0.0.0.0 nyftiwnh.shop
 0.0.0.0 oakhabitsy.com
 0.0.0.0 octirtast.shop
+0.0.0.0 oekoranch.de
 0.0.0.0 oel-check.com
 0.0.0.0 off-campus.co
 0.0.0.0 ohnerezept.eu
@@ -874,6 +904,7 @@
 0.0.0.0 ostermaierbrennholz.de
 0.0.0.0 otto-retouren.de
 0.0.0.0 outdoorio.de
+0.0.0.0 owernox.myshopify.com
 0.0.0.0 pagatxa.com
 0.0.0.0 palorion.com
 0.0.0.0 panelaeki.de
@@ -936,6 +967,7 @@
 0.0.0.0 rechtsanwalt-sirrenberg.de
 0.0.0.0 rechtskanzlei-karls.de
 0.0.0.0 redlich-becker.de
+0.0.0.0 reifenvaro.com
 0.0.0.0 reindesigner-handel.de
 0.0.0.0 reisholz.de
 0.0.0.0 reisholzgmbh.de
@@ -943,9 +975,11 @@
 0.0.0.0 reptailshop.de
 0.0.0.0 retrorunner.de
 0.0.0.0 reynamobel.shop
+0.0.0.0 rhadvexon.de
 0.0.0.0 ridegefuhl.de
 0.0.0.0 ridelbergu.de
 0.0.0.0 riedelweinglaser.de
+0.0.0.0 rihhlkuk.shop
 0.0.0.0 riley-vancouver.com
 0.0.0.0 rileyheftman.shop
 0.0.0.0 ripob.com
@@ -992,6 +1026,7 @@
 0.0.0.0 secure.shopvio.co
 0.0.0.0 seidenblumen-ross.com
 0.0.0.0 seifertundstil.de
+0.0.0.0 seivkgbc.shop
 0.0.0.0 serenorstock.com
 0.0.0.0 servicehanschen-kg.com
 0.0.0.0 shelterene.com
@@ -1048,6 +1083,7 @@
 0.0.0.0 stg-beratung.de
 0.0.0.0 stiefelwerkstatt.shop
 0.0.0.0 stilwerk.shop
+0.0.0.0 store.egypr.com
 0.0.0.0 store.elmleigha.com
 0.0.0.0 store.elvaritaro.com
 0.0.0.0 store.kingslora.com
@@ -1073,6 +1109,7 @@
 0.0.0.0 taschenalle.com
 0.0.0.0 taschenclub.com
 0.0.0.0 taschentotal.com
+0.0.0.0 tawagold.com
 0.0.0.0 tawagold.store
 0.0.0.0 tc-germany.com
 0.0.0.0 teamstryk.de
@@ -1132,6 +1169,7 @@
 0.0.0.0 verbraucherfokus-test.de
 0.0.0.0 verbraucherzentrale-finanzen.org
 0.0.0.0 verlinggroup.com
+0.0.0.0 vetains.shop
 0.0.0.0 vezeretransports.com
 0.0.0.0 vidaserenahogar.com
 0.0.0.0 viewhaushaltswaren.shop
@@ -1140,6 +1178,7 @@
 0.0.0.0 vircomtechnik.de
 0.0.0.0 vision-velo.com
 0.0.0.0 vitrinaox.de
+0.0.0.0 vkjfjdqy.shop
 0.0.0.0 vnpsfyme.shop
 0.0.0.0 vogeler-technik.de
 0.0.0.0 voglbaugeschaftgmbh.de
@@ -1148,6 +1187,7 @@
 0.0.0.0 volkswagen-fahrzeuge.de
 0.0.0.0 volthausgeraete.de
 0.0.0.0 voltradbike.de
+0.0.0.0 voltrevier.de
 0.0.0.0 volturexa.de
 0.0.0.0 vone-shop.com
 0.0.0.0 vornelaki.com
@@ -1180,6 +1220,7 @@
 0.0.0.0 werkzeugtechnik-jm.de
 0.0.0.0 wertglanzedelmetall.de
 0.0.0.0 wertlebenshop.com
+0.0.0.0 weshowtech.de
 0.0.0.0 westex-handel.de
 0.0.0.0 westex-handell.de
 0.0.0.0 weteextees.com
@@ -1206,6 +1247,7 @@
 0.0.0.0 wrexio.com
 0.0.0.0 xn--rnoholzpelletsgmbh-d3b.de
 0.0.0.0 xn--uni-ksportgertegmbh-7ua63k.de
+0.0.0.0 ykuutlgc.shop
 0.0.0.0 yonexs.at
 0.0.0.0 ysa-handels.com
 0.0.0.0 yzorigwl.shop

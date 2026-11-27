@@ -2,19 +2,23 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-26 13:37:48 UTC
+# Last update: 2026-11-27 13:33:24 UTC
 #
-# Total archived domains:    1222
-# New domains added today:   7
+# Total archived domains:    1264
+# New domains added today:   42
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
 ||4-pfoten-freizeit.de^
+||4m-reifen.com^
 ||6pmhoodies.de^
+||absjdte.shop^
 ||accompro.com^
+||accountstore4u.com^
 ||aeke-smart.com^
 ||aeribold.com^
 ||aerzteregistrat.de^
+||afufi.com^
 ||agritechcenter.de^
 ||ai-energy.net^
 ||aicheleholzgmbh.de^
@@ -53,6 +57,7 @@
 ||aristos24.de^
 ||arkenberlin.de^
 ||aroundying.de^
+||arueci.com^
 ||ascherslebener-holzhandel.de^
 ||astragroupholding.com^
 ||atlascontainerlogistikgmbh.de^
@@ -147,6 +152,7 @@
 ||brennholz-anhaenger.de^
 ||brennholz-bernd.com^
 ||brennholz-deckarm.shop^
+||brennholz-direkt-de.com^
 ||brennholz-hans.de^
 ||brennholz-kammer.de^
 ||brennholz-quelle.de^
@@ -154,6 +160,7 @@
 ||brennholzangebot.com^
 ||brennholzbredemeier.com^
 ||brennholzgarten.de^
+||brennholzgigant.de^
 ||brennholzhandelgerhold.com^
 ||brennholzhochwald-de.com^
 ||brennholzholzge.com^
@@ -206,6 +213,7 @@
 ||charentesalliance.com^
 ||charj7.myshopify.com^
 ||charlotte-sydney.com^
+||chipgalaxy.de^
 ||chleaguy.com^
 ||cibomat.com^
 ||cibomatt.com^
@@ -224,6 +232,7 @@
 ||containercst-gmbh.de^
 ||containergierichgmbh.de^
 ||containerschiffsreedereigmbh.de^
+||containersolutionscs.de^
 ||coolzy.com^
 ||cosanne-baumarkt.com^
 ||cosmic-tower.ch^
@@ -240,6 +249,7 @@
 ||daily-outfit.de^
 ||dailyberlin.de^
 ||dalacker-energie.com^
+||damado24.de^
 ||dankers-containers.de^
 ||das-feel-natural.de^
 ||dasoo.de^
@@ -274,6 +284,7 @@
 ||delecato.de^
 ||delphios.shop^
 ||delvaxor.shop^
+||denuppad.com^
 ||deracing-planet.com^
 ||derbybikesholding.de^
 ||derbyfahrrader.de^
@@ -302,6 +313,7 @@
 ||dragxel.store^
 ||dreamsleepz.de^
 ||drune.de^
+||ds24-handel.de^
 ||dtbsajsa.shop^
 ||dunstabzugshaubenfilter24.com^
 ||dunstro.shop^
@@ -334,6 +346,7 @@
 ||einstefeg.shop^
 ||eisner-kollegen.de^
 ||elbcontainer24.de^
+||elbmarkt.com^
 ||elbtal-kids.de^
 ||electra-royal.de^
 ||electro-redeker.de^
@@ -342,6 +355,7 @@
 ||elektro-willi.de^
 ||elektrocenters.de^
 ||elektrodan.com^
+||elendro.com^
 ||ellesses.de^
 ||elwenkoffer.de^
 ||elwenrimowa.de^
@@ -398,6 +412,8 @@
 ||fastenergy24.com^
 ||fatoobal.com^
 ||fb-holz.com^
+||fbbrennholz.de^
+||fbforstundbrennholzgmbh.com^
 ||felino-sport.de^
 ||ferreira-container.com^
 ||fest-holz.com^
@@ -430,6 +446,7 @@
 ||fundfjord.com^
 ||furneo-handel.com^
 ||furnilivora.com^
+||fussballstube.com^
 ||fussballtrikothaus.com^
 ||fwnkeoyt.shop^
 ||fxtpi.shop^
@@ -467,6 +484,7 @@
 ||gepaecktasch.com^
 ||gerardusbraas.com^
 ||gerlinelshop.com^
+||germangusto.com^
 ||get-airzuma.topashopo.com^
 ||get-epicooler.com^
 ||get-epicooler.topashopo.com^
@@ -477,6 +495,7 @@
 ||giebel-motorgeraetekg.de^
 ||global-kaufhaus.com^
 ||glow-garten.com^
+||gluecksgriff-wohnen-salzuflen.de^
 ||glutbar.de^
 ||gmbhboes.de^
 ||goalkertech.com^
@@ -512,6 +531,7 @@
 ||handel57.de^
 ||handelshaus-buchem.de^
 ||handtholzhandelgmbh.de^
+||handyheldenshop.de^
 ||hangel-handel.de^
 ||hannahamburg.com^
 ||hannibalcorp.com^
@@ -623,10 +643,12 @@
 ||jads-silencer.com^
 ||jardinovano.com^
 ||jcs-technologies.de^
+||jcs-technologies24.com^
 ||jeehiova.com^
 ||jette-handel.de^
 ||jh-machines-nord.com^
 ||jhagriconseil.com^
+||jobszens.shop^
 ||joeholz.com^
 ||johdorbrennholz.com^
 ||jordanmania.de^
@@ -670,6 +692,7 @@
 ||kfzdaten24.de^
 ||kh-heizol.de^
 ||kickhoodies.de^
+||kiezstoff.shop^
 ||kingtcg.shop^
 ||kirchner-rechtsanwaelte.de^
 ||kirschservices.de^
@@ -685,6 +708,7 @@
 ||klimatmas.com^
 ||kmotorrad.de^
 ||kochmeister.store^
+||kopfhoererbasis.com^
 ||koppermuller-markt.de^
 ||korfys.shop^
 ||kosecikva.com^
@@ -766,9 +790,11 @@
 ||market.willowgroven.com^
 ||marketmarkdowns.com^
 ||marktkaminofenholz.com^
+||marktundmahl.de^
 ||marnau.shop^
 ||martml.com^
 ||maschine1shop.com^
+||maschinenbau-stripegmbh.de^
 ||maxcapitalkredit.de^
 ||maxtono.de^
 ||maycoffeehouse.shop^
@@ -796,6 +822,7 @@
 ||ministryoftoys.eu^
 ||mirrorlabel.de^
 ||misterwinkler.de^
+||mk-kueche.de^
 ||mkkrcwss.shop^
 ||mm-energies.de^
 ||mn.magazinmodern.de^
@@ -818,6 +845,7 @@
 ||mpq-ebiketechnik.de^
 ||mrifhvn.shop^
 ||msihandelgmbh.de^
+||msw-handel.de^
 ||mtiialolo.com^
 ||muenzenangebot24.com^
 ||muenzencorner.com^
@@ -831,6 +859,7 @@
 ||nanovault.de^
 ||narcyveloshop.com^
 ||narnos.de^
+||naturaflame.com^
 ||nautikbedarf.com^
 ||ndb-shop.com^
 ||nebelrad.de^
@@ -862,6 +891,7 @@
 ||nyftiwnh.shop^
 ||oakhabitsy.com^
 ||octirtast.shop^
+||oekoranch.de^
 ||oel-check.com^
 ||off-campus.co^
 ||ohnerezept.eu^
@@ -883,6 +913,7 @@
 ||ostermaierbrennholz.de^
 ||otto-retouren.de^
 ||outdoorio.de^
+||owernox.myshopify.com^
 ||pagatxa.com^
 ||palorion.com^
 ||panelaeki.de^
@@ -945,6 +976,7 @@
 ||rechtsanwalt-sirrenberg.de^
 ||rechtskanzlei-karls.de^
 ||redlich-becker.de^
+||reifenvaro.com^
 ||reindesigner-handel.de^
 ||reisholz.de^
 ||reisholzgmbh.de^
@@ -952,9 +984,11 @@
 ||reptailshop.de^
 ||retrorunner.de^
 ||reynamobel.shop^
+||rhadvexon.de^
 ||ridegefuhl.de^
 ||ridelbergu.de^
 ||riedelweinglaser.de^
+||rihhlkuk.shop^
 ||riley-vancouver.com^
 ||rileyheftman.shop^
 ||ripob.com^
@@ -1001,6 +1035,7 @@
 ||secure.shopvio.co^
 ||seidenblumen-ross.com^
 ||seifertundstil.de^
+||seivkgbc.shop^
 ||serenorstock.com^
 ||servicehanschen-kg.com^
 ||shelterene.com^
@@ -1057,6 +1092,7 @@
 ||stg-beratung.de^
 ||stiefelwerkstatt.shop^
 ||stilwerk.shop^
+||store.egypr.com^
 ||store.elmleigha.com^
 ||store.elvaritaro.com^
 ||store.kingslora.com^
@@ -1082,6 +1118,7 @@
 ||taschenalle.com^
 ||taschenclub.com^
 ||taschentotal.com^
+||tawagold.com^
 ||tawagold.store^
 ||tc-germany.com^
 ||teamstryk.de^
@@ -1141,6 +1178,7 @@
 ||verbraucherfokus-test.de^
 ||verbraucherzentrale-finanzen.org^
 ||verlinggroup.com^
+||vetains.shop^
 ||vezeretransports.com^
 ||vidaserenahogar.com^
 ||viewhaushaltswaren.shop^
@@ -1149,6 +1187,7 @@
 ||vircomtechnik.de^
 ||vision-velo.com^
 ||vitrinaox.de^
+||vkjfjdqy.shop^
 ||vnpsfyme.shop^
 ||vogeler-technik.de^
 ||voglbaugeschaftgmbh.de^
@@ -1157,6 +1196,7 @@
 ||volkswagen-fahrzeuge.de^
 ||volthausgeraete.de^
 ||voltradbike.de^
+||voltrevier.de^
 ||volturexa.de^
 ||vone-shop.com^
 ||vornelaki.com^
@@ -1189,6 +1229,7 @@
 ||werkzeugtechnik-jm.de^
 ||wertglanzedelmetall.de^
 ||wertlebenshop.com^
+||weshowtech.de^
 ||westex-handel.de^
 ||westex-handell.de^
 ||weteextees.com^
@@ -1215,6 +1256,7 @@
 ||wrexio.com^
 ||xn--rnoholzpelletsgmbh-d3b.de^
 ||xn--uni-ksportgertegmbh-7ua63k.de^
+||ykuutlgc.shop^
 ||yonexs.at^
 ||ysa-handels.com^
 ||yzorigwl.shop^

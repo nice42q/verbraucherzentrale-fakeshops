@@ -3,14 +3,49 @@
 # ==============================================================================
 #
 # [SYSTEM]  VZ Fakeshop Pipeline execution triggered.
-# [INFO]    Loaded 1215 historical domains from archive.
+# [INFO]    Loaded 1222 historical domains from archive.
 # [SYSTEM]  Fetching VZ warnings from https://warnung.fakeshop-finder.de/ ...
-# [INFO]    Found 82 clean and validated domains on VZ page.
-# [STATS]   Identified 7 BRAND NEW domains! Updating files...
-# [NEW]      -> campinglagea.com
-# [NEW]      -> dm-bauhandel.de
-# [NEW]      -> ihrbrennholz.com
-# [NEW]      -> kullerpfote.store
-# [NEW]      -> mannstasc.com
-# [NEW]      -> spiritprofi.com
-# [NEW]      -> stylemarketz.com
+# [INFO]    Found 124 clean and validated domains on VZ page.
+# [STATS]   Identified 42 BRAND NEW domains! Updating files...
+# [NEW]      -> 4m-reifen.com
+# [NEW]      -> absjdte.shop
+# [NEW]      -> accountstore4u.com
+# [NEW]      -> afufi.com
+# [NEW]      -> arueci.com
+# [NEW]      -> brennholz-direkt-de.com
+# [NEW]      -> brennholzgigant.de
+# [NEW]      -> chipgalaxy.de
+# [NEW]      -> containersolutionscs.de
+# [NEW]      -> damado24.de
+# [NEW]      -> denuppad.com
+# [NEW]      -> ds24-handel.de
+# [NEW]      -> elbmarkt.com
+# [NEW]      -> elendro.com
+# [NEW]      -> fbbrennholz.de
+# [NEW]      -> fbforstundbrennholzgmbh.com
+# [NEW]      -> fussballstube.com
+# [NEW]      -> germangusto.com
+# [NEW]      -> gluecksgriff-wohnen-salzuflen.de
+# [NEW]      -> handyheldenshop.de
+# [NEW]      -> jcs-technologies24.com
+# [NEW]      -> jobszens.shop
+# [NEW]      -> kiezstoff.shop
+# [NEW]      -> kopfhoererbasis.com
+# [NEW]      -> marktundmahl.de
+# [NEW]      -> maschinenbau-stripegmbh.de
+# [NEW]      -> mk-kueche.de
+# [NEW]      -> msw-handel.de
+# [NEW]      -> naturaflame.com
+# [NEW]      -> oekoranch.de
+# [NEW]      -> owernox.myshopify.com
+# [NEW]      -> reifenvaro.com
+# [NEW]      -> rhadvexon.de
+# [NEW]      -> rihhlkuk.shop
+# [NEW]      -> seivkgbc.shop
+# [NEW]      -> store.egypr.com
+# [NEW]      -> tawagold.com
+# [NEW]      -> vetains.shop
+# [NEW]      -> vkjfjdqy.shop
+# [NEW]      -> voltrevier.de
+# [NEW]      -> weshowtech.de
+# [NEW]      -> ykuutlgc.shop
