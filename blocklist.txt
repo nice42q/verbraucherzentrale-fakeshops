@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Verbraucherzentrale Fakeshops
 # Source: https://warnung.fakeshop-finder.de/
 # Pi-hole Source: https://github.com/nice42q/verbraucherzentrale-fakeshops
-# Last update: 2026-11-27 13:33:24 UTC
+# Last update: 2026-11-28 12:46:18 UTC
 #
-# Total archived domains:    1264
-# New domains added today:   42
+# Total archived domains:    1274
+# New domains added today:   10
 # -------------------------------------------
 #
 ||365tageedelmetall.de^
@@ -183,6 +183,7 @@
 ||brookssale.store^
 ||bst-werkzeuge.de^
 ||btrgservices.com^
+||bubelles.com^
 ||buchlaterne.de^
 ||bukkwood.com^
 ||bundes-finanzservice.de^
@@ -238,6 +239,7 @@
 ||cosmic-tower.ch^
 ||cosmictower.ch^
 ||cowboy-brothers.de^
+||cravhaus.myshopify.com^
 ||crazyunbelieavablefunnel.com^
 ||crcmfcsb.shop^
 ||csbclo.de^
@@ -455,6 +457,7 @@
 ||gaborshops.com^
 ||gap-outlet.de^
 ||garage-autosteve.com^
+||garantie2ans.com^
 ||garden-caddy.com^
 ||garden-caddy.de^
 ||garden-de.myshopify.com^
@@ -512,6 +515,7 @@
 ||gomel-24.de^
 ||gomell-24.de^
 ||gommel-trading.de^
+||grainpathlab.eu.cc^
 ||grand-bazar.de^
 ||greentrimmer.de^
 ||grillhausug.com^
@@ -577,6 +581,7 @@
 ||helmuteco.com^
 ||helvaron.shop^
 ||hensel-markt.com^
+||herzstueckkueche.de^
 ||heudorfer-fahrradladen.de^
 ||hewil-heizung.de^
 ||heyi-handel.de^
@@ -680,6 +685,7 @@
 ||kanzlei-neudeck.de^
 ||kanzlei-owl.com^
 ||kanzleikonigstein.de^
+||kartensammlungen.com^
 ||kartenschatz.shop^
 ||kaufdesch.myshoplaza.com^
 ||kaufello.shop^
@@ -972,6 +978,7 @@
 ||radzubehoer24.com^
 ||ratataur.com^
 ||raumnote.de^
+||rbotik.shop^
 ||rbpelleteck.com^
 ||rechtsanwalt-sirrenberg.de^
 ||rechtskanzlei-karls.de^
@@ -1019,6 +1026,7 @@
 ||savemosaic.com^
 ||savenesting.com^
 ||scandiwarm.com^
+||scarmoda.com^
 ||scheideckerholz.com^
 ||schirmlieb.store^
 ||schmidmodesalzburg.de^
@@ -1078,6 +1086,7 @@
 ||spiritprofi.com^
 ||splima.de^
 ||sportopath.de^
+||srcrqycw.shop^
 ||stadlwerk.de^
 ||stadsug.com^
 ||stammholz-forest.com^
@@ -1201,6 +1210,7 @@
 ||vone-shop.com^
 ||vornelaki.com^
 ||vorwerk-tm.de^
+||vurida.com^
 ||vuubdofp.shop^
 ||vynxaria.com^
 ||waerme-pumpen24.de^
